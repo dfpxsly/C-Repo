@@ -1,0 +1,86 @@
+[Title]
+SPATitle=Cancelar registro
+ENGTitle=Cancel Registration
+ITATitle=Annulla registrazione
+FRETitle=Annulation de l’enregistrement
+DUTTitle=Registratie annuleren
+PORTitle=Cancelar registro
+GERTitle=Registrierung abbrechen
+SWETitle=Avbryt registreringen
+DANTitle=Annuller registrering
+SPCTitle=Anular inscripción
+FINTitle=Peruuta rekisteröinti
+NORTitle=Avbryte registrering
+ 
+[ENGField Profile]
+Field1="&Yes",defpushbutton,2,24,60,50,14
+Field2="&No",pushbutton,10,108,60,50,14
+Field3="Registration is important!",ltext,-1,14,14,213,16
+Field4="Are you sure you want to cancel?",ltext,-1,14,38,160,16
+
+[ITAField Profile]
+Field1="&Si",defpushbutton,2,24,60,50,14
+Field2="&No",pushbutton,10,108,60,50,14
+Field3="La registrazione è importante! ",ltext,-1,14,14,213,16
+Field4="Annullare comunque?",ltext,-1,14,38,160,16
+
+[SPAField Profile]
+Field1="&Sí",defpushbutton,2,24,60,50,14
+Field2="&No",pushbutton,10,108,60,50,14
+Field3="¡El registro es importante!",ltext,-1,14,14,213,16
+Field4="¿Está seguro que desea cancelar?",ltext,-1,14,38,160,16
+
+[FREField Profile]
+Field1="&Oui",defpushbutton,2,24,60,50,14
+Field2="&Non",pushbutton,10,108,60,50,14
+Field3="Il est important d’enregistrer votre produit ! ",ltext,-1,14,14,213,16
+Field4="Souhaitez-vous vraiment annuler ?",ltext,-1,14,38,160,16
+ 
+[DUTField Profile]
+Field1="&Ja",defpushbutton,2,24,60,50,14
+Field2="&Nee",pushbutton,10,108,60,50,14
+Field3="Registreren is belangrijk! ",ltext,-1,14,14,213,16
+Field4="Weet u zeker dat u wilt annuleren?",ltext,-1,14,38,160,16
+
+[PORField Profile]
+Field1="&Sim",defpushbutton,2,24,60,50,14
+Field2="&Não",pushbutton,10,108,60,50,14
+Field3="É importante fazer o registro! ",ltext,-1,14,14,213,16
+Field4="Tem certeza que quer cancelá-lo? ",ltext,-1,14,38,160,16
+ 
+[GERField Profile]
+Field1="&Ja",defpushbutton,2,24,60,50,14
+Field2="&Nein",pushbutton,10,108,60,50,14
+Field3="Die Registrierung ist wichtig!",ltext,-1,14,14,213,16
+Field4="Sind Sie sicher, daß Sie sie abbrechen möchten?",ltext,-1,14,38,160,16
+ 
+[SWEField Profile]
+Field1="&Ja",defpushbutton,2,24,60,50,14
+Field2="&Nej",pushbutton,10,108,60,50,14
+Field3="Registreringen är viktig!",ltext,-1,14,14,213,16
+Field4=" Är du säker på att du vill avbryta?",ltext,-1,14,38,160,16
+
+[DANField Profile]
+Field1="&Ja",defpushbutton,2,24,60,50,14
+Field2="&Nej",pushbutton,10,108,60,50,14
+Field3="Det er vigtigt at registrere! ",ltext,-1,14,14,213,16
+Field4="Er du sikker på, at du ønsker at annullere?",ltext,-1,14,38,160,16
+
+[SPCField Profile]
+Field1="&Sí",defpushbutton,2,24,60,50,14
+Field2="&No",pushbutton,10,108,60,50,14
+Field3="¡La inscripción es importante!",ltext,-1,14,14,213,16
+Field4=" ¿Seguro que desea anular?",ltext,-1,14,38,160,16
+ 
+[FINField Profile]
+Field1="&Kyllä",defpushbutton,2,24,60,50,14
+Field2="&Ei",pushbutton,10,108,60,50,14
+Field3="Rekisteröinti on tärkeää!",ltext,-1,14,14,213,16
+Field4="Haluatko varmasti peruuttaa sen?",ltext,-1,14,38,160,16
+
+[NORField Profile]
+Field1="&Ja",defpushbutton,2,24,60,50,14
+Field2="&Nei",pushbutton,10,108,60,50,14
+Field3="Det er viktig å registrere!",ltext,-1,14,14,213,16
+Field4="Er du sikker på at du vil avbryte?",ltext,-1,14,38,160,16
+

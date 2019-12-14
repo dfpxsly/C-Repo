@@ -1,0 +1,299 @@
+
+[ENGMessages]
+NOUI_MD=Performing Modem Diagnostics
+LOOKCOM1=Checking for modem at port COM1.
+LOOKCOM2=Checking for modem at port COM2.
+LOOKCOM3=Checking for modem at port COM3.
+LOOKCOM4=Checking for modem at port COM4.
+RESETCOM1=Resetting modem at port COM1.
+RESETCOM2=Resetting modem at port COM2.
+RESETCOM3=Resetting modem at port COM3.
+RESETCOM4=Resetting modem at port COM4.
+CHECKSPEEDMAX=Verifying modem speed.
+CHECKDATARATE=Establishing connection rate.
+CHECKPHONELINE=Checking for a live phone line.
+IDENTIFYMFG=Identifying modem manufacturer.
+IDENCOMPLETE=Identification completed.
+ENHANCEDMD=Performing enhanced diagnostics.
+CANCEL=Modem diagnostics canceled! 
+
+[ITAMessages]
+NOUI_MD=Esecuzione della diagnostica del modem.
+LOOKCOM1=Verifica del modem alla porta COM1.
+LOOKCOM2=Verifica del modem alla porta COM2.
+LOOKCOM3=Verifica del modem alla porta COM3.
+LOOKCOM4=Verifica del modem alla porta COM4.
+RESETCOM1=Ripristino del modem alla porta COM1.
+RESETCOM2=Ripristino del modem alla porta COM2.
+RESETCOM3=Ripristino del modem alla porta COM3.
+RESETCOM4=Ripristino del modem alla porta COM4.
+CHECKSPEEDMAX=Verifica della velocità del modem.
+CHECKDATARATE=Verifica della velocità di connessione.
+CHECKPHONELINE=Verifica di una linea telefonica attiva.
+IDENTIFYMFG=Identificazione del fabbricante del modem.
+IDENCOMPLETE=Identificazione completata.
+ENHANCEDMD=Esecuzione della diagnostica perfezionata.
+CANCEL=Diagnostica del modem annullata!
+
+[SPAMessages]
+NOUI_MD=Realizando diagnóstico del módem.
+LOOKCOM1=Verificando módem en el puerto COM1.
+LOOKCOM2=Verificando módem en el puerto COM2.
+LOOKCOM3=Verificando módem en el puerto COM3.
+LOOKCOM4=Verificando módem en el puerto COM4.
+RESETCOM1=Reconfigurando el módem en el puerto COM1.
+RESETCOM2=Reconfigurando el módem en el puerto COM2.
+RESETCOM3=Reconfigurando el módem en el puerto COM3.
+RESETCOM4=Reconfigurando el módem en el puerto COM4.
+CHECKSPEEDMAX=Verificando la velocidad del módem.
+CHECKDATARATE=Estableciendo la velocidad de conexión.
+CHECKPHONELINE=Verificando una línea telefónica abierta.
+IDENTIFYMFG=Identificando la marca del módem.
+IDENCOMPLETE=Identificación terminada.
+ENHANCEDMD=Realizando diagnóstico mejorado.
+CANCEL=¡Se canceló el diagnóstico del módem!
+
+[FREMessages]
+NOUI_MD=Diagnostics du modem en cours.
+LOOKCOM1=Recherche du modem sur le port COM1.
+LOOKCOM2=Recherche du modem sur le port COM2.
+LOOKCOM3=Recherche du modem sur le port COM3.
+LOOKCOM4=Recherche du modem sur le port COM4.
+RESETCOM1=Remise du modem sur le port COM1.
+RESETCOM2=Remise du modem sur le port COM2.
+RESETCOM3=Remise du modem sur le port COM3.
+RESETCOM4=Remise du modem sur le port COM4.
+CHECKSPEEDMAX=Vérification de la vitesse du modem.
+CHECKDATARATE=Établissement de la vitesse de connexion.
+CHECKPHONELINE=Recherche d’une ligne téléphonique en fonctionnement.
+IDENTIFYMFG=Identification du fabricant du modem.
+IDENCOMPLETE=Identification terminée.
+ENHANCEDMD=Diagnostics étendus en cours. 
+CANCEL=Annulation des diagnostics du modem ! 
+
+[DUTMessages]
+NOUI_MD=Modemdiagnostiek wordt uitgevoerd.
+LOOKCOM1=Er wordt gecontroleerd of er een modem op poort COM1 is aangesloten.
+LOOKCOM2=Er wordt gecontroleerd of er een modem op poort COM2 is aangesloten.
+LOOKCOM3=Er wordt gecontroleerd of er een modem op poort COM3 is aangesloten.
+LOOKCOM4=Er wordt gecontroleerd of er een modem op poort COM4 is aangesloten.
+RESETCOM1=Modem op poort COM1 wordt opnieuw ingesteld.
+RESETCOM2=Modem op poort COM2 wordt opnieuw ingesteld.
+RESETCOM3=Modem op poort COM3 wordt opnieuw ingesteld.
+RESETCOM4=Modem op poort COM4 wordt opnieuw ingesteld.
+CHECKSPEEDMAX=Modemsnelheid wordt gecontroleerd.
+CHECKDATARATE=Snelheid van verbinding wordt vastgesteld.
+CHECKPHONELINE=Er wordt naar een werkende telefoonlijn gezocht.
+IDENTIFYMFG=Fabrikant van modem wordt geïdentificeerd.
+IDENCOMPLETE=Fabrikant van modem is geïdentificeerd.
+ENHANCEDMD=Uitgebreide diagnostiek wordt uitgevoerd.
+CANCEL=Modemdiagnostiek is geannuleerd!
+
+[PORMessages]
+NOUI_MD=Executando diagnóstico do modem.
+LOOKCOM1=Procurando o modem na porta COM1.
+LOOKCOM2=Procurando o modem na porta COM2.
+LOOKCOM3=Procurando o modem na porta COM3.
+LOOKCOM4=Procurando o modem na porta COM4.
+RESETCOM1=Reajustando o modem na porta COM1.
+RESETCOM2=Reajustando o modem na porta COM2.
+RESETCOM3=Reajustando o modem na porta COM3.
+RESETCOM4=Reajustando o modem na porta COM4.
+CHECKSPEEDMAX=Verificando a velocidade do modem.
+CHECKDATARATE=Estabelecendo velocidade de conexão.
+CHECKPHONELINE=Procurando por uma linha telefônica ativa.
+IDENTIFYMFG=Identificando o fabricante do modem.
+IDENCOMPLETE=Identificação terminada.
+ENHANCEDMD=Executando diagnósticos avançados.
+CANCEL=Diagnósticos do modem cancelados!
+
+
+
+[GERMessages]
+NOUI_MD=Modemdiagnose wird durchgeführt
+LOOKCOM1=Modem wird am Anschluß COM1 gesucht.
+LOOKCOM2=Modem wird am Anschluß COM2 gesucht.
+LOOKCOM3=Modem wird am Anschluß COM3 gesucht.
+LOOKCOM4=Modem wird am Anschluß COM4 gesucht.
+RESETCOM1=Modem wird am Anschluß COM1 zurückgesetzt.
+RESETCOM2=Modem wird am Anschluß COM2 zurückgesetzt.
+RESETCOM3=Modem wird am Anschluß COM3 zurückgesetzt.
+RESETCOM4=Modem wird am Anschluß COM4 zurückgesetzt.
+CHECKSPEEDMAX=Modemgeschwindigkeit wird überprüft.
+CHECKDATARATE=Verbindungsrate wird hergestellt.
+CHECKPHONELINE=Eine aktive Telefonleitung wird gesucht.
+IDENTIFYMFG=Modemhersteller wird identifiziert.
+IDENCOMPLETE=Identifikation wurde abgeschlossen.
+ENHANCEDMD=Erweiterte Diagnose wird durchgeführt.
+CANCEL=Modemdiagnose wurde abgebrochen!
+
+[SWEMessages]
+NOUI_MD=Utför modemdiagnostik
+LOOKCOM1=Letar efter modemet vid port COM1.
+LOOKCOM2=Letar efter modemet vid port COM2.
+LOOKCOM3=Letar efter modemet vid port COM3.
+LOOKCOM4=Letar efter modemet vid port COM4.
+RESETCOM1=Återställer modemet vid port COM1.
+RESETCOM2=Återställer modemet vid port COM2.
+RESETCOM3=Återställer modemet vid port COM3.
+RESETCOM4=Återställer modemet vid port COM4.
+CHECKSPEEDMAX=Verifierar modemhastigheten.
+CHECKDATARATE=Etablerar anslutningshastigheten.
+CHECKPHONELINE=Letar efter aktiv linjeanslutning.
+IDENTIFYMFG=Identifierar modemtillverkaren.
+IDENCOMPLETE=Identifieringen slutförd.
+ENHANCEDMD=Utför avancerad diagnostik.
+CANCEL=Modemdiagnostiken har avbrutits!
+
+[DANMessages]
+NOUI_MD=Udfører modemdiagnose
+LOOKCOM1=Leder efter modem på COM1-porten.
+LOOKCOM2=Leder efter modem på COM2-porten.
+LOOKCOM3=Leder efter modem på COM3-porten.
+LOOKCOM4=Leder efter modem på COM4-porten.
+RESETCOM1=Nulstiller modem på COM1-porten.
+RESETCOM2=Nulstiller modem på COM2-porten.
+RESETCOM3=Nulstiller modem på COM3-porten.
+RESETCOM4=Nulstiller modem på COM4-porten.
+CHECKSPEEDMAX=Bekræfter modemshastighed.
+CHECKDATARATE=Etablerer forbindelseshastighed.
+CHECKPHONELINE=Leder efter en aktiv telefonlinie.
+IDENTIFYMFG=Identificerer modemproducent.
+IDENCOMPLETE=Identifikation fuldført.
+ENHANCEDMD=Udfører udvidet diagnose.
+CANCEL=Modemdiagnose annulleret!
+
+[SPCMessages]
+NOUI_MD=Realizando el diagnóstico del módem.
+LOOKCOM1=Verificando el módem en el puerto COM1.
+LOOKCOM2=Verificando el módem en el puerto COM2.
+LOOKCOM3=Verificando el módem en el puerto COM3.
+LOOKCOM4=Verificando el módem en el puerto COM4.
+RESETCOM1=Reconfigurando el módem en el puerto COM1.
+RESETCOM2=Reconfigurando el módem en el puerto COM2.
+RESETCOM3=Reconfigurando el módem en el puerto COM3.
+RESETCOM4=Reconfigurando el módem en el puerto COM4.
+CHECKSPEEDMAX=Verificando la velocidad del módem.
+CHECKDATARATE=Estableciendo la velocidad de conexión.
+CHECKPHONELINE=Verificando una línea telefónica abierta.
+IDENTIFYMFG=Identificando la marca del módem.
+IDENCOMPLETE=Identificación terminada.
+ENHANCEDMD=Realizando diagnósticos mejorados.
+CANCEL=¡Se anuló el diagnóstico del módem!
+
+[FINMessages]
+NOUI_MD=Suoritetaan modeemin diagnostiikkaa.
+LOOKCOM1=Tarkistetaan modeemia portissa COM1.
+LOOKCOM2=Tarkistetaan modeemia portissa COM2.
+LOOKCOM3=Tarkistetaan modeemia portissa COM3.
+LOOKCOM4=Tarkistetaan modeemia portissa COM4.
+RESETCOM1=Alustetaan modeemia portissa COM1.
+RESETCOM2=Alustetaan modeemia portissa COM2.
+RESETCOM3=Alustetaan modeemia portissa COM3.
+RESETCOM4=Alustetaan modeemia portissa COM4.
+CHECKSPEEDMAX=Varmistetaan modeemin nopeutta.
+CHECKDATARATE=Selvitetään yhteysnopeutta.
+CHECKPHONELINE=Tarkistetaan toimivaa puhelinlinjaa.
+IDENTIFYMFG=Tunnistetaan modeemin valmistaja.
+IDENCOMPLETE=Tunnistus suoritettu.
+ENHANCEDMD=Laajennettu diagnostiikka käynnissä.
+CANCEL=Modeemin diagnostiikka peruutettu!
+
+
+[NORMessages]
+NOUI_MD=Utfører modemdiagnose
+LOOKCOM1=Søker etter modem ved utgang COM1.
+LOOKCOM2=Søker etter modem ved utgang COM2.
+LOOKCOM3=Søker etter modem ved utgang COM3.
+LOOKCOM4=Søker etter modem ved utgang COM4.
+RESETCOM1=Tilbakestiller modem ved utgang COM1.
+RESETCOM2=Tilbakestiller modem ved utgang COM2.
+RESETCOM3=Tilbakestiller modem ved utgang COM3.
+RESETCOM4=Tilbakestiller modem ved utgang COM4.
+CHECKSPEEDMAX=Kontrollerer modemhastigheten.
+CHECKDATARATE=Oppretter tilkoblingshastighet.
+CHECKPHONELINE=Søker etter tilkoblet telefonlinje.
+IDENTIFYMFG=Identifiserer modemprodusent.
+IDENCOMPLETE=Identifiseringen er fullført.
+ENHANCEDMD=Utfører utvidet diagnose.
+CANCEL=Modemdiagnosen er avbrutt!
+
+
+
+
+
+[ENGField Profile]
+Field1="slidshow.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Cancel",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+
+[ITAField Profile]
+Field1="slidita.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Annulla",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[SPAField Profile]
+Field1="slidspa.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Cancelar",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[FREField Profile]
+Field1="Slidfre.fss~md",SLIDESHOW,201,18,6,190,150
+Field2="Annuler",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,158,190,25
+Field4="",ltext,900,17,165,180,16
+
+[DUTField Profile]
+Field1="sliddut.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Annuleren",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,158,190,25
+Field4="",ltext,900,17,165,180,16
+
+[PORField Profile]
+Field1="slidpor.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Cancelar",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[GERField Profile]
+Field1="slidger.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Abbrechen",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[SWEField Profile]
+Field1="slidswe.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Avbryt",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+
+[DANField Profile]
+Field1="sliddan.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Annuller",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[SPCField Profile]
+Field1="slidspc.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Anular",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[FINField Profile]
+Field1="slidfin.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Peruuta",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+
+[NORField Profile]
+Field1="slidnor.fss~md",SLIDESHOW,201,15,8,188,148
+Field2="Avbryt",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+

@@ -1,0 +1,258 @@
+[Title]
+SPATitle=Impresión cancelada
+ENGTitle=Printing Canceled
+ITATitle=Stampa annullata
+FRETitle=Impression annulée
+DUTTitle=Afdrukken geannuleerd
+PORTitle=Impressão cancelada
+GERTitle=Druckvorgang wurde abgebrochen
+SWETitle=Utskriften har avbrutits
+DANTitle=Udskrivning annulleret
+SPCTitle=Impresión anulada
+FINTitle=Tulostus peruutettu
+NORTitle=Utskriften er avbrutt
+
+
+
+[ENGOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[ITAOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[SPAOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[FREOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[DUTOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[POROnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[GEROnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[SWEOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[DANOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[SPCOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[FINOnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+[NOROnExit]
+Item1=Defaults,Exitcode,1,SKIPTO,Faxrmail
+Item2=Defaults,Exitcode,1,GOTO,40
+Item3=Defaults,Exitcode,2,SCREEN,chekremd
+
+;Write Cancel=1 to Register section of pipeline.ini
+Item4=Defaults,Exitcode,2,WRITEDAT,Misc,Cancel,1
+Item5=Defaults,Exitcode,2,WRITEINI,Register,Cancel,Pipeline.ini,Misc,Cancel
+Item6=Defaults,Exitcode,2,CLEARINISECTION,Misc,pipedlg.dat
+
+Item40=*,*,*,NOOP
+
+
+
+
+[ENGField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Yes",defpushbutton,2,65,65,50,14
+Field3="&No",pushbutton,1,120,65,50,14
+Field4="You have chosen not to print, or your system is unable to print. (A default printer must be selected.)",ltext,-1,40,15,180,24
+Field5="Are you sure you want to cancel printing?",ltext,-1,40,40,160,16
+
+[ITAField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Sì",defpushbutton,2,65,65,50,14
+Field3="&No",pushbutton,1,120,65,50,14
+Field4="L’utente ha scelto di non effettuare la stampa o il sistema non può stampare (selezionare una stampante predefinita).",ltext,-1,40,15,180,24
+Field5="Annullare la stampa?",ltext,-1,40,40,160,16
+
+[SPAField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Sí",defpushbutton,2,65,65,50,14
+Field3="&No",pushbutton,1,120,65,50,14
+Field4="Ha escogido no imprimir o su sistema no puede imprimir. (Debe seleccionarse una impresora predeterminada) ",ltext,-1,40,15,180,24
+Field5="¿Está seguro que desea cancelar la impresión?",ltext,-1,40,40,160,16
+
+[FREField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Oui",defpushbutton,2,65,65,50,14
+Field3="&Non",pushbutton,1,120,65,50,14
+Field4="Vous avez décidé d’annuler l’impression ou votre système a un problème pour imprimer. (Vous devez sélectionner une imprimante par défaut.)",ltext,-1,40,15,180,24
+Field5="Souhaitez-vous vraiment annuler l’impression ?",ltext,-1,40,44,160,16
+
+[DUTField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Ja",defpushbutton,2,65,65,50,14
+Field3="&Nee",pushbutton,1,120,65,50,14
+Field4="U heeft aangegeven dat u niet wilt afdrukken, of uw systeem kan niet afdrukken. (Er moet een standaardprinter geselecteerd zijn.) ",ltext,-1,40,15,180,24
+Field5="Weet u zeker dat u afdrukken wilt annuleren?",ltext,-1,40,44,160,16
+
+[PORField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Sim",defpushbutton,2,65,65,50,14
+Field3="&Não",pushbutton,1,120,65,50,14
+Field4="Você optou por não imprimir ou seu computador não foi capaz de imprimir. (Uma impressora padrão deve ser selecionada.) ",ltext,-1,40,15,180,24
+Field5="Tem certeza que quer cancelar a impressão?",ltext,-1,40,44,160,16
+
+[GERField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Ja",defpushbutton,2,65,65,50,14
+Field3="&Nein",pushbutton,1,120,65,50,14
+Field4="Sie haben die Druckoption entweder nicht gewählt, oder das System kann den Druckvorgang nicht ausführen. (Ein Standarddrucker muß ausgewählt sein.)",ltext,-1,40,15,180,24
+Field5="Sind Sie sicher, daß Sie den Druckvorgang abbrechen möchten?",ltext,-1,40,40,160,16
+
+[SWEField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Ja",defpushbutton,2,65,65,50,14
+Field3="&Nej",pushbutton,1,120,65,50,14
+Field4="Du har valt att inte skriva ut, eller det är inte möjligt för systemet att göra utskrift.  (En standardskrivare måste väljas.)",ltext,-1,40,15,180,24
+Field5="Är du säker på att du vill avbryta utskriften?",ltext,-1,40,44,160,16
+
+[DANField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Ja",defpushbutton,2,65,65,50,14
+Field3="&Nej",pushbutton,1,120,65,50,14
+Field4="Du har valgt ikke at udskrive, eller systemet er ikke i stand til at udskrive. (Der skal være valgt en standardprinter).",ltext,-1,40,15,180,24
+Field5="Er du sikker på, at du ønsker at annullere udskrivningen?",ltext,-1,40,40,160,16
+
+[SPCField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Si",defpushbutton,2,65,65,50,14
+Field3="&No",pushbutton,1,120,65,50,14
+Field4="Ha seleccionado no imprimir o su sistema no puede imprimir. (Debe seleccionar una impresora predeterminada)",ltext,-1,40,15,180,24
+Field5="¿Seguro que desea anular la impresión?",ltext,-1,40,40,160,16
+
+[FINField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Kyllä",defpushbutton,2,65,65,50,14
+Field3="&Ei",pushbutton,1,120,65,50,14
+Field4="Olet valinnut, ettet halua tulostaa, tai järjestelmäsi ei pysty tulostamaan. (Oletuskirjoittimen on oltava valittuna.)",ltext,-1,40,15,180,24
+Field5="Haluatko varmasti peruuttaa tulostuksen?",ltext,-1,40,40,160,16
+ 
+[NORField Profile]
+Field1="Information",icon,300,10,18,30,30
+Field2="&Ja",defpushbutton,2,65,65,50,14
+Field3="&Nei",pushbutton,1,120,65,50,14
+Field4="Du har valgt å ikke skrive ut, eller systemet er ikke i stand til å skrive ut. (Du må velge en standardskriver.)",ltext,-1,40,15,180,24
+Field5="Er du sikker på at du vil avbryte utskriften?",ltext,-1,40,40,160,16
+

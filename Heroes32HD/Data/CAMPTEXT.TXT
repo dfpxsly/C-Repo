@@ -1,0 +1,172 @@
+//Campaign Map Names
+王后万岁
+解放
+父亲之歌
+地下城和魔鬼
+国王万岁
+战争的破坏
+不满的种子
+屠龙英雄
+勇往直前
+王位之战
+龙之血
+烽火连天
+末日之刃
+光辉岁月
+勇者无敌
+踏上征途
+丛林勇士
+死亡阴影
+天使联盟
+邪恶重现
+
+
+//Good 1 Map Region Names
+归来
+守护天使
+狮鹫崖
+
+
+//Good 2 Map Region Names
+解放斯坦德威克
+与恶魔的交易
+中立方
+地下通道
+
+
+//Good 3 Map Region Names
+安全之路
+一致对外
+为国王和国家而战
+
+
+//Evil 1 Map Region Names
+邪恶的计划
+地裂
+占领斯坦德威克
+地下通道
+归来
+守护天使
+狮鹫崖
+
+
+//Evil 2 Map Region Names
+怪兽之心
+狩猎季节
+肉体的惩罚
+日日夜夜
+
+
+//Neutral 1 Map Region Names
+边界
+淘金热
+贪婪的心
+
+
+//Secret 1 Map Region Names
+神器
+回家之路
+独立
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Islands A
+Islands B
+Islands C
+Islands D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Armageddon A
+Armageddon B
+Armageddon C
+Armageddon D
+Armageddon E
+Armageddon F
+Armageddon G
+Armageddon H
+
+
+// Hack and Slash Region Names
+Hack and Slash A
+Hack and Slash B
+Hack and Slash C
+Hack and Slash D
+
+
+// Birth of a Barbarian Region Names
+Birth of a Barbarian A
+Birth of a Barbarian B
+Birth of a Barbarian C
+Birth of a Barbarian D
+Birth of a Barbarian E
+
+
+// New Beginning Region Names
+New Beginning A
+New Beginning B
+New Beginning C
+New Beginning D
+
+
+// Elixir of Life Region Names
+Elixir of Life A
+Elixir of Life B
+Elixir of Life C
+Elixir of Life D
+
+
+// Rise of the Necromancer Region Names
+Rise of the Necromancer A
+Rise of the Necromancer B
+Rise of the Necromancer C
+Rise of the Necromancer D
+
+
+// Unholy Alliance Region Names
+Unholy Alliance A
+Unholy Alliance B
+Unholy Alliance C
+Unholy Alliance D
+Unholy Alliance E
+Unholy Alliance F
+Unholy Alliance G
+Unholy Alliance H
+Unholy Alliance I
+Unholy Alliance J
+Unholy Alliance K
+Unholy Alliance L
+
+
+// Specter of Power Region Names
+Specter of Power A
+Specter of Power B
+Specter of Power C
+Specter of Power D

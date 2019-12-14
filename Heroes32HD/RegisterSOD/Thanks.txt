@@ -1,0 +1,60 @@
+[Title]
+SPATitle=Registro completado correctamente
+ENGTitle=Registration Successful
+ITATitle=Registrazione riuscita
+FRETitle=Enregistrement réussi
+DUTTitle=Registratie geslaagd
+PORTitle=Registro bem sucedido
+GERTitle=Registrierung war erfolgreich
+SWETitle=Registreringen slutfördes
+DANTitle=Registrering gennemført
+SPCTitle=Inscripción completada exitosamente
+FINTitle=Rekisteröinti onnistui
+NORTitle=Registreringen er fullført
+
+[ENGField Profile]
+Field1="&OK",pushbutton,1,195,240,50,14
+
+[SPAField Profile]
+Field1="¡Gracias por registrarse!",ctext,9000,40,15,100,20
+Field2="ACEPTAR",defpushbutton,1,62,42,50,14
+
+[ITAField Profile]
+Field1="Grazie per aver effettuato la registrazione!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[FREField Profile]
+Field1="Merci d’avoir enregistré ce produit !",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[GERField Profile]
+Field1="Vielen Dank für Ihre Registrierung!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[PORField Profile]
+Field1="Agradecemos o registro!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[SWEField Profile]
+Field1="Tack för att du registrerade!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[DUTField Profile]
+Field1="Dank u voor het registreren!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[DANField Profile]
+Field1="Tak fordi du registrerede!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[SPCField Profile]
+Field1="¡Gracias por inscribirse!",ctext,9000,40,15,100,20
+Field2="ACEPTAR",defpushbutton,1,62,42,50,14
+
+[FINField Profile]
+Field1="Kiitokset rekisteröinnistäsi!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14
+
+[NORField Profile]
+Field1="Takk for at du registrerte produktet!",ctext,9000,40,15,100,20
+Field2="OK",defpushbutton,1,62,42,50,14

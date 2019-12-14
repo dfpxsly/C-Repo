@@ -1,0 +1,424 @@
+[Title]
+SPATitle=Imprimir registro
+ENGTitle=Print Registration
+ITATitle=Stampa registrazione
+FRETitle=Impression de l’enregistrement
+DUTTitle=Registratie afdrukken
+PORTitle=Imprimir registro
+GERTitle=Registrierung drucken
+SWETitle=Skriv ut registreringen
+DANTitle=Udskriv registrering
+SPCTItle=Imprimir inscripción
+FINTitle=Tulosta rekisteröinti
+NORTitle=Skrive ut registrering
+
+
+[ENGOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"This form will be OPTICALLY SCANNED, Please, DO NOT write on this form."
+Item2=*,*,*,WRITEDAT,hdr,l2,"Information has been encoded to ensure accuracy. For customer service"
+Item3=*,*,*,WRITEDAT,hdr,l3,"issues, refer to your user's manual for contact information."
+Item4=*,*,*,WRITEDAT,hdr,l4,"  From the U.S. or Canada, Fax this form to: 888-289-0647."
+Item5=*,*,*,WRITEDAT,hdr,l5,"From all other countries, Fax this form to: (+1) 770-612-9855"
+Item6=*,*,*,WRITEDAT,hdr,l6,"DO NOT include a cover sheet. Or, mail this form in an envelope to:"
+Item7=*,*,*,WRITEDAT,hdr,l7,
+Item8=*,*,*,WRITEDAT,hdr,l8,
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,United States,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"3DO, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=Preload,LOGIN,tdo40401,WRITEDAT,hdr,ocr,ALSXAASSAAAX
+Item22=Preload,LOGIN,tdo40501,WRITEDAT,hdr,ocr,ALSXAASSAALA
+Item23=Preload,LOGIN,tdo40601,WRITEDAT,hdr,ocr,ALSXAASSAALL
+Item24=Preload,LOGIN,tdo40701,WRITEDAT,hdr,ocr,ALSXAASSAALS
+Item25=Preload,LOGIN,tdo40801,WRITEDAT,hdr,ocr,ALSXAASSAALX
+Item26=Preload,LOGIN,tdo40901,WRITEDAT,hdr,ocr,ALSXAASSAASA
+Item27=Preload,LOGIN,tdo41001,WRITEDAT,hdr,ocr,ALSXAASSAASL
+Item28=Preload,LOGIN,tdo41101,WRITEDAT,hdr,ocr,ALSXAASSAASS
+Item29=Preload,LOGIN,tdo41201,WRITEDAT,hdr,ocr,ALSXAASSAASX
+Item30=Preload,LOGIN,tdo41301,WRITEDAT,hdr,ocr,ALSXAASSAAXA
+Item31=Preload,LOGIN,tdo41401,WRITEDAT,hdr,ocr,ALSXAASSAAXL
+Item32=Preload,LOGIN,tdo41501,WRITEDAT,hdr,ocr,ALSXAASSAAXS
+Item33=Preload,LOGIN,tdo41601,WRITEDAT,hdr,ocr,ALSXAASSAAXX
+Item34=Preload,LOGIN,tdo41701,WRITEDAT,hdr,ocr,ALSXAASSALAA
+Item35=Preload,LOGIN,tdo41801,WRITEDAT,hdr,ocr,ALSXAASSALAL
+Item36=Preload,LOGIN,tdo41901,WRITEDAT,hdr,ocr,ALSXAASSALAS
+Item37=Preload,LOGIN,tdo42001,WRITEDAT,hdr,ocr,ALSXAASSALAX
+Item38=Preload,LOGIN,tdo42101,WRITEDAT,hdr,ocr,ALSXAASSALLA
+Item39=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item40=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item41=*,*,*,WRITEDAT,hdr,ocr,"ENGOCRCode"
+
+Item50=*,*,*,NOOP
+
+
+[ITAOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Questo modulo verrà sottoposto alla SCANSIONE OTTICA. NON scrivere sul"
+Item2=*,*,*,WRITEDAT,hdr,l2,"modulo. Per assicurare l'esattezza dello stesso, il modulo contiene"
+Item3=*,*,*,WRITEDAT,hdr,l3,"informazioni codificate. Per questioni concernenti il servizio d'assistenza"
+Item4=*,*,*,WRITEDAT,hdr,l4,"ai clienti, fare riferimento al manuale dell'utente per le relative" 
+Item5=*,*,*,WRITEDAT,hdr,l5,"istruzioni. Dagli Stati Uniti o dal Canada, mandare il modulo via fax al"
+Item6=*,*,*,WRITEDAT,hdr,l6,"numero verde l-800-xxx-xxxx. Da tutti gli altri Paesi, inviare il modulo per"
+Item7=*,*,*,WRITEDAT,hdr,l7,"fax al numero (+1) 770-612-9855. NON includere il foglio di copertina. Se si" 
+Item8=*,*,*,WRITEDAT,hdr,l8,"preferisce, spedire il modulo in una busta a:"
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,Stati Uniti,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"ITAOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"ITAOCRCode"
+
+Item50=*,*,*,NOOP
+
+[SPAOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Este formulario pasará por un ESCÁNER ÓPTICO.  Por favor NO escriba en este"
+Item2=*,*,*,WRITEDAT,hdr,l2,"formulario. La información se ha codificado para asegurar la exactitud.  Si"
+Item3=*,*,*,WRITEDAT,hdr,l3,"tiene preguntas relativas a asuntos de servicio a clientes, consulte en su"
+Item4=*,*,*,WRITEDAT,hdr,l4,"manual del usuario la información sobre los contactos."
+Item5=*,*,*,WRITEDAT,hdr,l5,"  Desde los Estados Unidos o Canadá, envíe este formulario por fax al"
+Item6=*,*,*,WRITEDAT,hdr,l6,"800-xxx-xxxx. Desde los demás países, envíe este formulario por fax al"
+Item7=*,*,*,WRITEDAT,hdr,l7,"(+1) 770-612-9855.  NO incluya una página de portada.  También puede"
+Item8=*,*,*,WRITEDAT,hdr,l8,"enviar por correo este formulario a la siguiente dirección:" 
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the Country names exactly here):
+Item15=Register,218,Canadá,GOTO,20
+Item16=Register,218,Estados Unidos,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"SPAOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"SPAOCRCode"
+
+Item50=*,*,*,NOOP
+
+
+[FREOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Ce formulaire sera lu par un SCANNEUR OPTIQUE. Veuillez NE PAS écrire sur ce"
+Item2=*,*,*,WRITEDAT,hdr,l2,"formulaire. Ces informations ont été encodées pour en assurer leur"
+Item3=*,*,*,WRITEDAT,hdr,l3,"exactitude.  Pour toute question relative au service clientèle, référez-vous"
+Item4=*,*,*,WRITEDAT,hdr,l4,"à votre manuel de l'utilisateur pour savoir comment nous contacter."
+Item5=*,*,*,WRITEDAT,hdr,l5,"  Des États-Unis ou du Canada, faxez ce formulaire au : 800-xxx-xxxx."
+Item6=*,*,*,WRITEDAT,hdr,l6,"De tous les, autres pays faxez ce formulaire au : (+1) 770-612-9855."
+Item7=*,*,*,WRITEDAT,hdr,l7,"NE joignez PAS de page de couverture. Ou bien postez ce formulaire sous pli"
+Item8=*,*,*,WRITEDAT,hdr,l8,"à l'adresse suivante :" 
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,Etats-Unis,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"FREOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"FREOCRCode"
+
+Item50=*,*,*,NOOP
+
+[DUTOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Dit formulier wordt OPTISCH GESCAND. Niet op dit formulier schrijven."
+Item2=*,*,*,WRITEDAT,hdr,l2,"De informatie is gecodeerd om nauwkeurigheid te verzekeren. Refereer aan uw"
+Item3=*,*,*,WRITEDAT,hdr,l3,"handleiding over vragen betreffende klantenservice en contactgegevens."
+Item4=*,*,*,WRITEDAT,hdr,l4,"  Fax dit formulier vanuit de VS of Canada naar: 800-xxx-xxxx. Vanuit alle"
+Item5=*,*,*,WRITEDAT,hdr,l5,"andere landen, fax dit formulier naar: (+1) 770-612-9855. Fax GEEN"
+Item6=*,*,*,WRITEDAT,hdr,l6,"voorblad. U kunt dit formulier ook in een envelop per post versturen aan:"
+Item7=*,*,*,WRITEDAT,hdr,l7," "
+Item8=*,*,*,WRITEDAT,hdr,l8,""
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,Verenigde Staten,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"DUTOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"DUTOCRCode"
+
+Item50=*,*,*,NOOP
+
+
+[POROnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Este formulário passará por processo de DIGITALIZAÇÃO ÓPTICA. NÃO escreva"
+Item2=*,*,*,WRITEDAT,hdr,l2,"neste formulário. As informações foram codificadas para assegurar a"
+Item3=*,*,*,WRITEDAT,hdr,l3,"precisão. Para questões de serviço ao cliente, consulte o manual do"
+Item4=*,*,*,WRITEDAT,hdr,l4,"usuário a fim de obter as informações de contato."
+Item5=*,*,*,WRITEDAT,hdr,l5,"  A partir dos Estados Unidos ou do Canadá, envie este formulário por Fax"
+Item6=*,*,*,WRITEDAT,hdr,l6,"para: 800-xxx-xxxx. Estando em outros países, envie este formulário por Fax"
+Item7=*,*,*,WRITEDAT,hdr,l7,"para: (+1) 770-612-9855. NÃO inclua nenhuma página de rosto. Pode-se também"
+Item8=*,*,*,WRITEDAT,hdr,l8,"colocar o formulário em um envelope e enviar por correio para:"
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Canadá,GOTO,20
+Item16=Register,218,Estados Unidos,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"POROCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"POROCRCode"
+
+Item50=*,*,*,NOOP
+
+
+[GEROnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Diese Formular wird elektronisch eingelesen. Bitte NICHT auf dieses Formular"
+Item2=*,*,*,WRITEDAT,hdr,l2,"schreiben. Die Informationen wurden kodiert, um Genauigkeit sicherzustellen."
+Item3=*,*,*,WRITEDAT,hdr,l3,"Informationen über Ansprechpartner für Kundendienstfragen entnehmen Sie"
+Item4=*,*,*,WRITEDAT,hdr,l4,"bitte Ihrem Benutzerhandbuch.  "
+Item5=*,*,*,WRITEDAT,hdr,l5,"  In den USA oder Kanada faxen Sie dieses Formular an folgende Telefonnr.:"
+Item6=*,*,*,WRITEDAT,hdr,l6,"800-xxx-xxxx. Von allen übrigen Länder aus faxen Sie dieses Formular an"
+Item7=*,*,*,WRITEDAT,hdr,l7,"folgende Telefonnr.: (+1) 770-612-9855. KEIN Deckblatt beifügen.  Oder"
+Item8=*,*,*,WRITEDAT,hdr,l8,"senden Sie dieses Formular in einem Umschlag an folgende Adresse:"
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Kanada,GOTO,20
+Item16=Register,218,Vereinigte Staaten,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"GEROCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"GEROCRCode"
+
+Item50=*,*,*,NOOP
+
+[SWEOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Detta formulär kommer att LÄSAS IN OPTISKT. V g skriv INTE på formuläret."
+Item2=*,*,*,WRITEDAT,hdr,l2,"Information har kodats in för att garantera riktigheten. Vid"
+Item3=*,*,*,WRITEDAT,hdr,l3,"kundtjänstärenden kan du få kontaktinformation i användarhandboken."
+Item4=*,*,*,WRITEDAT,hdr,l4,"  Inom USA och Canada kan du faxa detta formulär till: 800-xxx-xxxx."
+Item5=*,*,*,WRITEDAT,hdr,l5,"Från övriga länder kan du faxa detta formulär till:  (+1) 770-612-9855."
+Item6=*,*,*,WRITEDAT,hdr,l6,"Skicka INTE med något försättsblad. Du kan även skicka formuläret per post"
+Item7=*,*,*,WRITEDAT,hdr,l7,"till:"
+Item8=*,*,*,WRITEDAT,hdr,l8,""
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,USA,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"SWEOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"SWEOCRCode"
+
+Item50=*,*,*,NOOP
+
+[DANOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Denne formular vil blive OPTISK SCANNET. Vær venlig IKKE at skrive på denne"
+Item2=*,*,*,WRITEDAT,hdr,l2,"formular. Oplysningerne er blevet indkodet for at sikre nøjagtighed."
+Item3=*,*,*,WRITEDAT,hdr,l3,"Hvis du får brug for kundeservice, bedes du se brugerhåndbogen for at få "
+Item4=*,*,*,WRITEDAT,hdr,l4,"kontaktoplysninger."
+Item5=*,*,*,WRITEDAT,hdr,l5,"  Fra USA eller Canada skal denne formular faxes til: 800-xxx-xxxx."
+Item6=*,*,*,WRITEDAT,hdr,l6,"Fra alle andre lande skal formularen faxes til: (+1) 770-612-9855."
+Item7=*,*,*,WRITEDAT,hdr,l7,"Inkluder IKKE en forside.  Eller send denne formular i en konvolut til:"
+Item8=*,*,*,WRITEDAT,hdr,l8,""
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,USA,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"DANOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"DANOCRCode"
+
+Item50=*,*,*,NOOP
+
+[SPCOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Este formulario pasará por un ESCÁNER ÓPTICO. Por favor NO escriba en este"
+Item2=*,*,*,WRITEDAT,hdr,l2,"formulario. La información se ha codificado para asegurar la exactitud. Si"
+Item3=*,*,*,WRITEDAT,hdr,l3,"tiene preguntas relativas a asuntos de servicio a clientes, consulte en su"
+Item4=*,*,*,WRITEDAT,hdr,l4,"manual del usuario la información sobre los contactos. "
+Item5=*,*,*,WRITEDAT,hdr,l5,"  Desde los Estados Unidos o Canadá, envíe este formulario por fax al"
+Item6=*,*,*,WRITEDAT,hdr,l6,"800-xxx-xxxx.  Desde los demás países, envíe este formulario por fax al"
+Item7=*,*,*,WRITEDAT,hdr,l7,"(+1) 770-612-9855. NO incluya una página de portada.  También puede enviar"
+Item8=*,*,*,WRITEDAT,hdr,l8,"por correo este formulario a la siguiente dirección:"
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Canadá,GOTO,20
+Item16=Register,218,Estados Unidos,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"SPCOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address:
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"SPCOCRCode"
+
+Item50=*,*,*,NOOP
+
+[FINOnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Tämä lomake LUETAAN OPTISESTI. ÄLÄ kirjoita tähän lomakkeeseen."
+Item2=*,*,*,WRITEDAT,hdr,l2,"Tiedot on koodattu tarkkuuden varmistamiseksi. Asiakaspalveluun liittyvissä"
+Item3=*,*,*,WRITEDAT,hdr,l3,"kysymyksissä katso yhteystietoja käyttöoppaasta."
+Item4=*,*,*,WRITEDAT,hdr,l4,"  Faksaa tämä lomake USA:ssa ja Kanadassa numeroon: 800-xxx-xxxx."
+Item5=*,*,*,WRITEDAT,hdr,l5,"Muissa maissa tämä lomake tulee faksata numeroon: (+1) 770-612-9855."
+Item6=*,*,*,WRITEDAT,hdr,l6,"ÄLÄ faksaa etulehteä. Voit myös lähettää tämän lomakkeen kirjekuoressa"
+Item7=*,*,*,WRITEDAT,hdr,l7,"osoitteeseen:"
+Item8=*,*,*,WRITEDAT,hdr,l8,""
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the ISO Country names exactly here):
+Item15=Register,218,Kanada,GOTO,20
+Item16=Register,218,Yhdysvallat,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"FINOCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"FINOCRCode"
+
+Item50=*,*,*,NOOP
+
+
+
+[NOROnInit]
+Item1=*,*,*,WRITEDAT,hdr,l1,"Dette skjemaet vil bli OPTISK SKANNET. Vennligst skriv IKKE på dette"
+Item2=*,*,*,WRITEDAT,hdr,l2,"skjemaet. Informasjonen er kodet for å sikre nøyaktighet. Når det gjelder"
+Item3=*,*,*,WRITEDAT,hdr,l3,"spørsmål angående kundeservice finner du kontaktinformasjon i"
+Item4=*,*,*,WRITEDAT,hdr,l4,"brukerhåndboken."
+Item5=*,*,*,WRITEDAT,hdr,l5,"  Fra USA eller Canada skal skjemaet sendes per telefaks"
+Item6=*,*,*,WRITEDAT,hdr,l6,"til: 800-xxx-xxxx. Fra alle andre land skal skjemaet sendes per telefaks"
+Item7=*,*,*,WRITEDAT,hdr,l7,"til: (+1) 770-612-9855.  Legg IKKE ved en forside. Dette skjemaet kan også"
+Item8=*,*,*,WRITEDAT,hdr,l8,"sendes i en konvolutt per post til:"
+Item9=*,*,*,WRITEDAT,hdr,l9,""
+Item10=*,*,*,GOTO,15
+
+;If in US/Canada, use US address (NOTE: we have to match the Country names exactly here):
+Item15=Register,218,Canada,GOTO,20
+Item16=Register,218,USA,GOTO,20
+Item17=*,*,*,GOTO,20
+
+Item20=*,*,*,WRITEDAT,hdr,a1,"Registration, c/o IQ2.net, PO Box 671449, Marietta GA 30006-0025, USA"
+Item21=*,*,*,WRITEDAT,hdr,ocr,"NOROCRCode"
+Item22=*,*,*,GOTO,50
+
+;Otherwise use UK address (note: to use these lines, change line 17 above to GOTO,30):
+Item30=*,*,*,WRITEDAT,hdr,a1,"Registration, PO Box XXX, ASHTED, SURREY, GREAT BRITAIN, XXXX-XXX"
+Item31=*,*,*,WRITEDAT,hdr,ocr,"NOROCRCode"
+
+Item50=*,*,*,NOOP
+
+
+
+[ENGField Profile]
+Field1="&Print",defpushbutton,1,40,66,57,14
+Field2="&Cancel",pushbutton,2,129,66,57,14
+Field3="Please print your registration.  For your convenience, you can either fax or mail in your registration.  Do not include a cover page with the form.",ltext,-1,17,14,198,40
+
+[ITAField Profile]
+Field1="&Stampa",defpushbutton,1,49,66,57,14
+Field2="&Annulla",pushbutton,2,119,66,57,14
+Field3="Stampare la registrazione. Per motivi di praticità, l'utente ha la possibilità di inviare la registrazione per fax oppure per posta. Si prega di non includere un frontespizio con il modulo. ",ltext,-1,17,14,198,40
+
+[SPAField Profile]
+Field1="&Imprimir",defpushbutton,1,49,66,57,14
+Field2="&Cancelar",pushbutton,2,119,66,57,14
+Field3="Imprima su registro. Para su conveniencia, puede enviar su registro por fax o por correo. No incluya una página de portada con el formulario.",ltext,-1,17,14,198,40
+
+[FREField Profile]
+Field1="&Imprimer",defpushbutton,1,49,66,57,14
+Field2="&Annuler",pushbutton,2,119,66,57,14
+Field3="Veuillez imprimer votre enregistrement, puis l’envoyer par courrier ou télécopie, selon ce qui vous convient le mieux. Ne joignez pas de page de garde au formulaire.",ltext,-1,17,14,198,40
+
+[DUTField Profile]
+Field1="Af&drukken",defpushbutton,1,40,66,57,14
+Field2="&Annuleren",pushbutton,2,129,66,57,14
+Field3="Druk uw registratieformulier af. U kunt uw registratieformulier faxen of per post verzenden. Stuur geen voorblad mee.",ltext,-1,17,14,198,40
+
+[PORField Profile]
+Field1="&Imprimir",defpushbutton,1,40,66,57,14
+Field2="&Cancelar",pushbutton,2,129,66,57,14
+Field3="Favor imprimir o registro. Para sua comodidade, pode-se fazer o registro por fax ou correio. Não inclua uma página de rosto com o formulário.",ltext,-1,17,14,198,40
+
+[GERField Profile]
+Field1="&Drucken",defpushbutton,1,40,66,57,14
+Field2="&Abbrechen",pushbutton,2,129,66,57,14
+Field3="Bitte drucken Sie Ihre Registrierung. Sie können sie daraufhin entweder per Fax senden oder per Post an uns schicken. Bitte senden Sie das Formular ohne ein Deckblatt.",ltext,-1,17,14,198,40
+
+[SWEField Profile]
+Field1="&Skriv ut",defpushbutton,1,40,66,57,14
+Field2="&Avbryt",pushbutton,2,129,66,57,14
+Field3="Skriv ut din registrering.  För att göra det lättare för dig kan du välja att antingen faxa eller skicka in registreringen.  Inkludera inte något försättsblad med blanketten.",ltext,-1,17,14,198,40
+
+[DANField Profile]
+Field1="&Udskriv",defpushbutton,1,40,66,57,14
+Field2="&Annuller",pushbutton,2,129,66,57,14
+Field3="Udskriv venligst registreringen. For at gøre det lettere for dig, kan du enten faxe eller poste registreringen.",ltext,-1,17,14,198,40
+
+[SPCField Profile]
+Field1="&Imprimir",defpushbutton,1,40,66,57,14
+Field2="&Anular",pushbutton,2,129,66,57,14
+Field3="Se ruega imprima su inscripción. Si lo desea, puede enviar su inscripción por fax o por correo. No incluya una página de portada con el formulario.",ltext,-1,17,14,198,40
+
+[FINField Profile]
+Field1="&Tulosta",defpushbutton,1,40,66,57,14
+Field2="&Peruuta",pushbutton,2,129,66,57,14
+Field3="Tulosta rekisteröintisi. Voit joko faksata tai postittaa rekisteröintisi. Älä lähetä kansilehteä kaavakkeen mukana.",ltext,-1,17,14,198,40
+
+[NORField Profile]
+Field1="&Skriv ut",defpushbutton,1,40,66,57,14
+Field2="&Avbryt",pushbutton,2,129,66,57,14
+Field3="Skriv ut registreringen. Du kan sende registreringen pr. telefaks eller i posten hvis det er enklere for deg. Send ikke forside sammen med skjemaet.",ltext,-1,17,14,198,40
+

@@ -1,0 +1,137 @@
+[Title]
+SPATitle=XXX
+ENGTitle=XXX
+ITATitle=XXX
+FRETitle=XXX
+DUTTitle=XXX
+PORTitle=XXX
+GERTitle=XXX
+SWETitle=XXX
+DANTitle=XXX
+SPCTitle=XXX
+FINTitle=XXX
+NORTitle=XXX
+
+[ENGField Profile]
+Field1="Register &Now",defpushbutton,1,26,110,163,14
+Field2="Register &Later",pushbutton,3,26,129,163,14
+Field3="Already &Registered",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="This notice is to remind you about registration.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Registering electronically is free, fast, and ensures you will become the first to hear about new product information, enhancements, and add-ons.",ltext,-1,28,58,162,38
+Field8="Your registration options:",ltext,-1,28,95,162,13
+
+[ITAField Profile]
+Field1="Effettua la registrazione &ora",defpushbutton,1,26,110,163,14
+Field2="Effettua la registrazione &dopo",pushbutton,3,26,129,163,14
+Field3="&Registrazione già effettuata",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Questo avviso ha lo scopo di rammentare all'utente di effettuare la registrazione. ",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="La registrazione elettronica è gratuita e veloce ed assicura l'immediata notifica su informazioni, perfezionamenti ed accessori dei nuovi prodotti.",ltext,-1,28,58,162,38
+Field8="Le seguenti sono opzioni per la registrazione:",ltext,-1,28,95,162,13
+
+[SPAField Profile]
+Field1="Registrar &ahora",defpushbutton,1,26,110,163,14
+Field2="Registrar &más adelante",pushbutton,3,26,129,163,14
+Field3="&Ya &registrado",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Este aviso es para recordarle acerca de su registro.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="El registro electrónico es gratis, rápido y le asegura que será el primero en recibir información acerca de nuevos productos, mejoras y agregados.",ltext,-1,28,58,162,38
+Field8="Sus opciones de registro:",ltext,-1,28,95,162,13
+
+[FREField Profile]
+Field1="Enregistrer &maintenant",defpushbutton,1,26,120,163,14
+Field2="Enregistrer &ultérieurement",pushbutton,3,26,139,163,14
+Field3="&Déjà enregistré",pushbutton,2,26,158,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Ceci est un rappel pour enregistrer votre produit.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="L’enregistrement électronique est gratuit, rapide et vous permet de recevoir sans délai les informations concernant les nouveaux produits, ainsi que les améliorations et extensions de produits.",ltext,-1,28,58,162,40
+Field8="Vos options d’enregistrement sont les suivantes:",ltext,-1,28,105,162,13
+
+
+[DUTField Profile]
+Field1="&Nu registreren",defpushbutton,1,26,110,163,14
+Field2="&Later registreren",pushbutton,3,26,129,163,14
+Field3="Al &geregistreerd",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Dit bericht herinnert u eraan dat u nog dient te registreren.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Elektronische registratie is gratis en snel, en garandeert dat u als eerste informatie krijgt over nieuwe producten, verbeteringen en add-ons.",ltext,-1,28,58,162,38
+Field8="Uw registratiemogelijkheden zijn:",ltext,-1,28,95,162,13
+
+[PORField Profile]
+Field1="Registrar-se &agora",defpushbutton,1,26,110,163,14
+Field2="Registrar-se mais &tarde",pushbutton,3,26,129,163,14
+Field3="Já &registrado",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Isto é um lembrete de registro.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="O registro eletrônico é gratuito, rápido e assegura que receberá prontamente informações sobre novos produtos, aperfeiçoamentos e acessórios.",ltext,-1,28,58,162,38
+Field8="As opções de registro são:",ltext,-1,28,95,162,13
+ 
+[GERField Profile]
+Field1="&Jetzt registrieren",defpushbutton,1,26,110,163,14
+Field2="&Später registrieren",pushbutton,3,26,129,163,14
+Field3="&Bereits registriert",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Dieser Hinweis fordert Sie zur Registrierung auf.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Die elektronische Registrierung ist kostenlos, schnell und stellt sicher, daß Sie als erster über neue Produktinformationen, -verbesserungen und -zusatzmodule informiert werden.",ltext,-1,28,58,162,38
+Field8="Die Registrierungsoptionen lauten:",ltext,-1,28,95,162,13
+
+[SWEField Profile]
+Field1="Registrera &nu",defpushbutton,1,26,110,163,14
+Field2="Registrera &senare",pushbutton,3,26,129,163,14
+Field3="Redan &registrerad",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Detta meddelande är en registreringspåminnelse.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Den elektroniska registreringen är både avgiftsfri och snabb, samt ser till att du blir först med att få ny produktinformation, förbättringar och tillägg.",ltext,-1,28,58,162,38
+Field8="Dina registreringsalternativ är:",ltext,-1,28,95,162,13
+
+[DANField Profile]
+Field1="Registrer &nu",defpushbutton,1,26,110,163,14
+Field2="Registrer &senere",pushbutton,3,26,129,163,14
+Field3="Allerede &registreret",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Denne meddelelse er for at minde dig om registrering.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Elektronisk registrering er gratis, hurtig og sikrer, at du vil være den første til at høre om nye produktoplysninger, forbedringer og tilføjelser.",ltext,-1,28,58,162,38
+Field8="Registreringsmulighederne er:",ltext,-1,28,95,162,13
+
+[SPCField Profile]
+Field1="Inscribir &ahora",defpushbutton,1,26,110,163,14
+Field2="Inscribir &más adelante",pushbutton,3,26,129,163,14
+Field3="Ya me &inscribí",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Este aviso es para recordarle su inscripción.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="La inscripción electrónica es gratis, rápida y garantiza que será el primero en recibir información acerca de nuevos productos, mejoras y agregados.",ltext,-1,28,58,162,38
+Field8="Sus opciones de inscripción:",ltext,-1,28,95,162,13
+
+[FINField Profile]
+Field1="Rekisteröi &nyt ",defpushbutton,1,26,110,163,14
+Field2="Rekisteröi &myöhemmin",pushbutton,3,26,129,163,14
+Field3="&Rekisteröinti jo suoritettu",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Tämä ilmoitus muistuttaa sinua rekisteröinnistä.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Elektroninen rekisteröinti on ilmainen ja nopea, ja se varmistaa, että saat ensimmäisenä tiedot uusista tuotteista, parannuksista ja lisävarusteista.",ltext,-1,28,58,162,38
+Field8="Rekisteröintivaihtoehtosi:",ltext,-1,28,95,162,13
+
+[NORField Profile]
+Field1="Registrer &nå",defpushbutton,1,26,110,163,14
+Field2="Registrer &senere",pushbutton,3,26,129,163,14
+Field3="Har allerede &registrert",pushbutton,2,26,148,163,14
+Field4="",frame,-1,14,10,185,34
+Field5="Denne meldingen er ment som en påminnelse om å registrere.",ctext,-1,20,21,175,16
+Field6="",frame,-1,14,50,185,132
+Field7="Elektronisk registrering er gratis, raskt og sikrer at du blir den første til å få informasjon om nye produkter, forbedringer og tilleggsutstyr.",ltext,-1,28,58,162,38
+Field8="Registreringsalternativene er som følger:",ltext,-1,28,95,162,13
+
+
+ 

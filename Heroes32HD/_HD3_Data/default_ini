@@ -1,0 +1,265 @@
+{  HoMM3 HD Main INI File }
+
+
+<Version> = 3390000
+
+
+<Language> = "#en.ini"
+{
+ 
+}
+
+
+<Resolution> = 864x664
+{
+   param <Rezolution> sets game resolution 
+   Game resolution must be between 800x600 and 4000x4000
+   default value is 864x664
+}
+
+
+<ColorMode> = 3
+{
+   0 - Original.
+   1 - Fastest. Game automatically sets 16-bit screen color mode, so you can play windowed  without changing screen mode manually.
+   2 - Game runs in your current color mode using GDI conversion from 16-bit, so you can play windowed without changing screen mode manually.
+   3 - Stretchable. Game runs in 32-bit color mode using special fast MMX conversion from 16-bit, so you can play windowed without changing screen mode manually.
+   default value is 3 
+}
+
+   <StretchFilter> = 2
+   { 
+      ignored if <ColorMode> param less than 3
+      0 - bilinear
+      1 - bilinear sharper
+      2 - bilinear sharper x2
+      3 - bilinear sharper x3
+      default value is 2 
+   }
+
+   <SystemCursors> = 1
+   {
+      ignored if Color Mode less than 3
+      0 - no changes
+      1 - game uses system cursors (icreases graphics perfomance)
+      default value is 1
+   }
+
+
+=====================================================================================================
+
+<ClipCursor> = 1
+{
+   0 - no effect
+   1 - game window clip cursor when [CTRL] is pressed
+   2 - [CTRL]+[TAB]: game window clip/release cursor;
+}
+
+=====================================================================================================
+
+
+<NoCD> = 1
+{
+   0 - ...
+   1 - ...
+   default value is 1
+}
+
+======================================================================================================
+
+
+<CpuPatch> = 1
+{
+   0 - option is turned off
+   1 - option is turned on for SoD/Complete/HotA
+   2 - option is turned on
+   default value is 1
+}
+
+
+<NewerSoundLibraries> = 1
+{
+   0 - no changes
+   1 - game uses newer versions of Mss32.dll and Mp3dec.asi 
+   default value is 1
+}
+
+
+<Stereo44Music> = 1
+{
+   0 - MP3 music plays 22 KHz Mono
+   1 - MP3 music plays 44 KHz Stereo
+   default value is 1
+}
+
+
+<AsyncSounds> = 1
+{
+   0 - option is turned off
+   1 - option is turned on
+   default value is 0
+}
+
+
+=====================================================================================================
+
+<InterfaceExtensions> = 1
+{
+   ...
+   0 -
+   1 - 
+}
+   
+   <QuickArmyManagementMode> = 0
+   {
+      ignored if <InterfaceExtensions> = 0
+      0 - HD style
+      1 - TE style
+      default value is 0 
+   }
+
+   <ExtendedSpellBook> = 1
+   {
+      ignored if <InterfaceExtensions> = 0
+      0 - off
+      1 - on
+      default value is 1 
+   }
+
+   <TournamentExtensions> = 2
+   {
+      Advanced RMG options, Invite Hero, Chat in town screen, Anywhere visible timer, Every day saver, ...
+      0 - option is turned off
+      1 - option is turned on for SoD/Complete/HotA only
+      2 - option is turned on
+      default value is 1
+   }
+
+      <EveryDaySaver> = 0
+      {
+         SoD/Complete/Hota only
+         ignored if <TournamentExtensions> = 0
+         0 - option is turned off
+         1 - option is turned on
+         default value is 0
+      }
+
+      <SkipMapMsgs> = 2
+      {
+         ignored if <TournamentExtensions> = 0
+         0 - off
+         1 - on for SoD/Complete/Hota only
+         2 - on
+      }
+
+      <RenameRandMap> = 1
+      {
+         0 - off
+         1 - on
+      }
+
+
+   <AvailableInsteadGrowthInTown> = 1
+   {
+      0 - off
+      1 - on
+   }
+
+=====================================================================================================
+
+
+<AutofixMap> = 2
+{
+   Automatically fixing Adventure Map bugs (heroe's clones/ghosts, gray towns, heroes controlled by two players, ... )
+   0 - option is turned off
+   1 - option is turned on for SoD/Complete/HotA only
+   2 - option is turned on
+   default value is 1
+}
+
+
+
+<HD+> = 0
+{
+   fixes gameplay bugs (Artifacts merchant, "Not Me", Refugee camp, endless AI turns, Clone cast, AI with Angelic Alliance, Quick Combat flying creatures bug, AI vs AI battles bugs, ... )
+   adds Protected saved games, Replayable Quick Combat, ...
+   ATTENTION! You should turn this options off if you play pure SoD offline tournament!
+   0 - option is turned off
+   1 - option is turned on for SoD/Complete/HotA only
+   2 - option is turned on
+   default value is 1
+}
+
+
+=========================================================================================
+=========================================================================================
+
+<Packs>
+
+=========================================================================================
+=========================================================================================
+
+<HD.TE.Settings> 
+
+=========================================================================================
+=========================================================================================
+
+<HD+.Settings>
+
+=========================================================================================
+=========================================================================================
+
+<CheckForUpdates> = 1
+
+   <UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+
+=========================================================================================
+=========================================================================================
+
+
+<Registered>
+
+<Show Intro>
+<AppPath>
+<Music Volume>
+<Sound Volume>
+<Last Music Volume>
+<Last Sound Volume>
+<Walk Speed>
+<Computer Walk Speed>
+<Show Route>
+<Move Reminder>
+<Quick Combat>
+<Video Subtitles>
+<Town Outlines>
+<Animate SpellBook>
+<Window Scroll Speed>
+<Bink Video>
+<Blackout Computer>
+<First Time>
+<Test Decomp>
+<Test Read>
+<Test Blit>
+<Unique System ID>
+<Network Default Name>
+<Autosave>
+<Show Combat Grid>
+<Show Combat Mouse Hex>
+<Combat Shade Level>
+<Combat Army Info Level>
+<Combat Auto Creatures>
+<Combat Auto Spells>
+<Combat Catapult>
+<Combat Ballista>
+<Combat First Aid Tent>
+<Combat Speed>
+<Main Game Show Menu>
+<Main Game X>
+<Main Game Y>
+<Main Game Full Screen> 
+<CDDrive>
+
+=========================================================================================
+=========================================================================================
+
+ 

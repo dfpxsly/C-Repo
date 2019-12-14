@@ -1,0 +1,1044 @@
+[HOMM3 HD CRASH LOG]
+Log
+{
+start logging
+EXE_VERSION & SOD
+compability_dir = E:\Program Files\Heroes32HD\_HD3_Data\Compability\#default
+
+}
+
+
+
+HOMM3 HD version: 3450000
+
+Time
+{
+   Tue Nov 17 20:53:24 2015
+}
+
+Exception
+{
+   Module: 	_hd3_.dll
+   Adress:      0x00E53438
+   Code:        EXCEPTION_BREAKPOINT
+   Flags:       0x00000000
+   Information: 0x00000000 
+}
+
+Call stack
+{
+             0x00E53340 called from        0x00E559A8
+             0x00E55960 called from        0x00E57703
+   (spliced) 0x004EEA70 called from        0x004F824A
+                      ? called from before 0x00E384E2
+   (spliced) 0x004F80C0 called from        0x0061A95F
+                      ? called from before 0x746638F4
+                      ? called from before 0x771A5663
+             0x771A5634 called from        0x771A5629
+                      ? called from before 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   
+   E:\Program Files\Heroes32HD\
+   0x001D0000: Binkw32.dll	 (size: 0x0002B000, entry point: 0x001E1705)
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   0x00A90000: IFC20.dll	 (size: 0x00023000, entry point: 0x00A9F04E)
+   0x21100000: Mss32.dll	 (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x613F0000: patcher_x86.dll	 (size: 0x00026000, entry point: 0x613FC01B)
+   0x10000000: Smackw32.dll	 (size: 0x0001B000, entry point: 0x1000C0B0)
+   0x00E00000: _HD3_.dll	 (size: 0x000F7000, entry point: 0x00E03F18)
+}
+
+Command Line
+{
+   "E:\Program Files\Heroes32HD\Heroes.exe"
+}
+
+Main INI
+{
+
+<Version> = 3390000
+<Language> = "#en.ini"
+<Resolution> = 1000, 750
+<ColorMode> = 3
+<StretchFilter> = 2
+<SystemCursors> = 1
+<ClipCursor> = 1
+<NoCD> = 1
+<CpuPatch> = 1
+<NewerSoundLibraries> = 1
+<Stereo44Music> = 1
+<AsyncSounds> = 1
+<InterfaceExtensions> = 1
+<QuickArmyManagementMode> = 0
+<ExtendedSpellBook> = 1
+<TournamentExtensions> = 2
+<EveryDaySaver> = 1
+<SkipMapMsgs> = 2
+<RenameRandMap> = 1
+<AvailableInsteadGrowthInTown> = 1
+<AutofixMap> = 2
+<HD+> = 2
+<Packs>
+<HD.TE.Settings> = 0, 144, 2, 8, 0, 0, 2, 0, 0, 0, 0, 1, 1, 1
+<HD+.Settings> = 1, 0, 0, 0, 0, 1, 1, 720000, 360000, 300000, 1, 0, 0
+<CheckForUpdates> = 0
+<UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+<Registered> = 1
+<Show Intro> = 1
+<AppPath> = "E:\Program Files\Heroes32HD\"
+<Music Volume> = 0
+<Sound Volume> = 0
+<Last Music Volume> = 0
+<Last Sound Volume> = 0
+<Walk Speed> = 4
+<Computer Walk Speed> = 5
+<Show Route> = 1
+<Move Reminder> = 1
+<Quick Combat> = 1
+<Video Subtitles> = 1
+<Town Outlines> = 1
+<Animate SpellBook> = 1
+<Window Scroll Speed> = 2
+<Bink Video> = 0
+<Blackout Computer> = 1
+<First Time> = 0
+<Test Decomp> = 6
+<Test Read> = 0
+<Test Blit> = 2
+<Unique System ID> = "VSM"
+<Network Default Name> = "GHPlayer"
+<Autosave> = 1
+<Show Combat Grid> = 1
+<Show Combat Mouse Hex> = 1
+<Combat Shade Level> = 1
+<Combat Army Info Level> = 1
+<Combat Auto Creatures> = 1
+<Combat Auto Spells> = 1
+<Combat Catapult> = 1
+<Combat Ballista> = 1
+<Combat First Aid Tent> = 1
+<Combat Speed> = 2
+<Main Game Show Menu> = 1
+<Main Game X> = 107
+<Main Game Y> = 114
+<Main Game Full Screen> = 0
+<CDDrive> = ""
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Windows 10 Home
+   CurrentVersion: 6.3
+   BuildLab:       10586.th2_release_sec.151104-1948
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      6.2
+   Build:        9200
+   CSDVersion  = 
+   ProductType = 1
+   SuiteMask   = 768
+}
+
+Some ingame values
+{
+   FullScreen Mode = 0
+   Game Type       = 0
+   Network Game    = 0
+
+             Me: 红色
+  Active Player: 红色
+   Active is Human = 0
+   Map file = test.h3m
+}
+
+[HOMM3 HD CRASH LOG]
+Log
+{
+start logging
+EXE_VERSION & SOD
+compability_dir = D:\Game\Heroes32HD\_HD3_Data\Compability\#default
+
+}
+
+
+
+HOMM3 HD version: 3450000
+
+Time
+{
+   Thu May 24 20:56:08 2018
+}
+
+Exception
+{
+   Module: 	Heroes.exe
+   Adress:      0x00532D1F
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x1548E518
+}
+
+Call stack
+{
+                      ? called from before 0x0055F06F
+                      ? called from before 0x004FAA7A
+             0x004FAA50 called from        0x004FA9CA
+             0x004FA940 called from        0x00549BDF
+             0x005492E0 called from        0x00549DE8
+             0x00549D60 called from        0x0054A18F
+             0x00549E20 called from        0x0054C50C
+             0x0054C450 called from        0x0054C5C7
+             0x0054C580 called from        0x005866F2
+             0x005863B0 called from        0x0058C032
+                      ? called from before 0x02E1A78A
+                      ? called from before 0x02E2AABE
+   (spliced) 0x0058BFB0 called from        0x005869D1
+             0x00586880 called from        0x00588478
+                      ? called from before 0x02E2AD67
+                      ? called from before 0x02E1BFAC
+                      ? called from before 0x0040561C
+                      ? called from before 0x005FFACB
+             0x00602D60 called from        0x00584F07
+             0x004F0B20 called from        0x004EF3A0
+                      ? called from before 0x02E57718
+   (spliced) 0x004EEA70 called from        0x004F824A
+                      ? called from before 0x02E384E2
+   (spliced) 0x004F80C0 called from        0x0061A95F
+                      ? called from before 0x77818654
+                      ? called from before 0x77934B17
+             0x77934AE8 called from        0x77934AE2
+                      ? called from before 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   
+   D:\Game\Heroes32HD\
+   0x02F00000: Binkw32.dll	 (size: 0x0002B000, entry point: 0x02F11705)
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   0x02810000: IFC20.dll	 (size: 0x00023000, entry point: 0x0281F04E)
+   0x26F00000: Mp3dec.asi	 (size: 0x0002A000, entry point: 0x26F0A805)
+   0x21100000: Mss32.dll	 (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x6D2B0000: patcher_x86.dll	 (size: 0x00026000, entry point: 0x6D2BC01B)
+   0x10000000: Smackw32.dll	 (size: 0x0001B000, entry point: 0x1000C0B0)
+   0x02E00000: _HD3_.dll	 (size: 0x000F7000, entry point: 0x02E03F18)
+}
+
+Command Line
+{
+   D:\Game\Heroes32HD\Heroes.exe
+}
+
+Main INI
+{
+
+<Version> = 3390000
+<Language> = "#en.ini"
+<Resolution> = 1000, 750
+<ColorMode> = 3
+<StretchFilter> = 2
+<SystemCursors> = 1
+<ClipCursor> = 1
+<NoCD> = 1
+<CpuPatch> = 1
+<NewerSoundLibraries> = 1
+<Stereo44Music> = 1
+<AsyncSounds> = 1
+<InterfaceExtensions> = 1
+<QuickArmyManagementMode> = 0
+<ExtendedSpellBook> = 1
+<TournamentExtensions> = 2
+<EveryDaySaver> = 1
+<SkipMapMsgs> = 2
+<RenameRandMap> = 1
+<AvailableInsteadGrowthInTown> = 1
+<AutofixMap> = 2
+<HD+> = 2
+<Packs>
+<HD.TE.Settings> = 0, 144, 2, 2, 0, 0, 2, 0, 0, 0, 0, 1, 1, 1
+<HD+.Settings> = 1, 0, 0, 0, 0, 1, 0, 60000, 60000, 0, 1, 0, 0
+<CheckForUpdates> = 0
+<UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+<Registered> = 1
+<Show Intro> = 1
+<AppPath> = "D:\Game\Heroes32HD\"
+<Music Volume> = 1
+<Sound Volume> = 1
+<Last Music Volume> = 1
+<Last Sound Volume> = 1
+<Walk Speed> = 4
+<Computer Walk Speed> = 5
+<Show Route> = 1
+<Move Reminder> = 1
+<Quick Combat> = 0
+<Video Subtitles> = 1
+<Town Outlines> = 1
+<Animate SpellBook> = 1
+<Window Scroll Speed> = 2
+<Bink Video> = 0
+<Blackout Computer> = 1
+<First Time> = 0
+<Test Decomp> = 6
+<Test Read> = 0
+<Test Blit> = 2
+<Unique System ID> = "VSM"
+<Network Default Name> = "XXXL"
+<Autosave> = 1
+<Show Combat Grid> = 1
+<Show Combat Mouse Hex> = 1
+<Combat Shade Level> = 1
+<Combat Army Info Level> = 1
+<Combat Auto Creatures> = 1
+<Combat Auto Spells> = 1
+<Combat Catapult> = 1
+<Combat Ballista> = 1
+<Combat First Aid Tent> = 1
+<Combat Speed> = 2
+<Main Game Show Menu> = 1
+<Main Game X> = 677
+<Main Game Y> = 126
+<Main Game Full Screen> = 0
+<CDDrive> = ""
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Windows 10 Enterprise
+   CurrentVersion: 6.3
+   BuildLab:       16299.rs3_release.170928-1534
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      6.2
+   Build:        9200
+   CSDVersion  = 
+   ProductType = 1
+   SuiteMask   = 256
+}
+
+Some ingame values
+{
+   FullScreen Mode = 0
+   Game Type       = 0
+   Network Game    = 0
+
+             Me: 红色
+  Active Player: 红色
+   Active is Human = 0
+   Map file = 2013 GH DesertWar For Match.h3m
+}
+
+[HOMM3 HD CRASH LOG]
+Log
+{
+start logging
+EXE_VERSION & SOD
+compability_dir = D:\Game\Heroes32HD\_HD3_Data\Compability\#default
+
+}
+
+
+
+HOMM3 HD version: 3450000
+
+Time
+{
+   Sat Jul 28 08:41:07 2018
+}
+
+Exception
+{
+   Module: 	_hd3_.dll
+   Adress:      0x10020070
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x00000000
+}
+
+Call stack
+{
+                      ? called from before 0x006007F5
+             0x00600790 called from        0x006006D7
+                      ? called from before 0x10020722
+   (spliced) 0x00600430 called from        0x006031FB
+                      ? called from before 0x1003903D
+                      ? called from before 0x1001442F
+   (spliced) 0x00603190 called from        0x00408A58
+                      ? called from before 0x1004CA02
+                      ? called from before 0x10023904
+                      ? called from before 0x004B0C39
+             0x004B0BA0 called from        0x004F0516
+                      ? called from before 0x10057718
+   (spliced) 0x004EEA70 called from        0x004F824A
+                      ? called from before 0x100384E2
+   (spliced) 0x004F80C0 called from        0x0061A95F
+                      ? called from before 0x745E8654
+                      ? called from before 0x77BF4B17
+             0x77BF4AE8 called from        0x77BF4AE2
+                      ? called from before 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   
+   D:\Game\Heroes32HD\
+   0x02AD0000: Binkw32.dll	 (size: 0x0002B000, entry point: 0x02AE1705)
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   0x02B00000: IFC20.dll	 (size: 0x00023000, entry point: 0x02B0F04E)
+   0x26F00000: Mp3dec.asi	 (size: 0x0002A000, entry point: 0x26F0A805)
+   0x21100000: Mss32.dll	 (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x61CA0000: patcher_x86.dll	 (size: 0x00026000, entry point: 0x61CAC01B)
+   0x02960000: Smackw32.dll	 (size: 0x0001B000, entry point: 0x0296C0B0)
+   0x10000000: _HD3_.dll	 (size: 0x000F7000, entry point: 0x10003F18)
+}
+
+Command Line
+{
+   D:\Game\Heroes32HD\Heroes.exe
+}
+
+Main INI
+{
+
+<Version> = 3390000
+<Language> = "#en.ini"
+<Resolution> = 1000, 750
+<ColorMode> = 3
+<StretchFilter> = 2
+<SystemCursors> = 1
+<ClipCursor> = 1
+<NoCD> = 1
+<CpuPatch> = 1
+<NewerSoundLibraries> = 1
+<Stereo44Music> = 1
+<AsyncSounds> = 1
+<InterfaceExtensions> = 1
+<QuickArmyManagementMode> = 0
+<ExtendedSpellBook> = 1
+<TournamentExtensions> = 2
+<EveryDaySaver> = 1
+<SkipMapMsgs> = 2
+<RenameRandMap> = 1
+<AvailableInsteadGrowthInTown> = 1
+<AutofixMap> = 2
+<HD+> = 2
+<Packs>
+<HD.TE.Settings> = 0, 144, 2, 2, 0, 0, 2, 0, 0, 0, 0, 1, 1, 1
+<HD+.Settings> = 1, 0, 0, 0, 0, 1, 1, 120000, 120000, 120000, 1, 0, 0
+<CheckForUpdates> = 0
+<UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+<Registered> = 1
+<Show Intro> = 1
+<AppPath> = "D:\Game\Heroes32HD\"
+<Music Volume> = 0
+<Sound Volume> = 0
+<Last Music Volume> = 0
+<Last Sound Volume> = 0
+<Walk Speed> = 4
+<Computer Walk Speed> = 5
+<Show Route> = 1
+<Move Reminder> = 1
+<Quick Combat> = 1
+<Video Subtitles> = 1
+<Town Outlines> = 1
+<Animate SpellBook> = 1
+<Window Scroll Speed> = 2
+<Bink Video> = 0
+<Blackout Computer> = 1
+<First Time> = 0
+<Test Decomp> = 6
+<Test Read> = 0
+<Test Blit> = 2
+<Unique System ID> = "VSM"
+<Network Default Name> = "Super"
+<Autosave> = 1
+<Show Combat Grid> = 1
+<Show Combat Mouse Hex> = 1
+<Combat Shade Level> = 1
+<Combat Army Info Level> = 1
+<Combat Auto Creatures> = 1
+<Combat Auto Spells> = 1
+<Combat Catapult> = 1
+<Combat Ballista> = 1
+<Combat First Aid Tent> = 1
+<Combat Speed> = 2
+<Main Game Show Menu> = 1
+<Main Game X> = 422
+<Main Game Y> = 60
+<Main Game Full Screen> = 1
+<CDDrive> = ""
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Windows 10 Enterprise
+   CurrentVersion: 6.3
+   BuildLab:       16299.rs3_release.170928-1534
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      6.2
+   Build:        9200
+   CSDVersion  = 
+   ProductType = 1
+   SuiteMask   = 256
+}
+
+Some ingame values
+{
+   FullScreen Mode = 1
+   Game Type       = 0
+   Network Game    = 0
+
+             Me: 红色
+  Active Player: 红色
+   Active is Human = 1
+   Map file = Super vs 电脑 (35).h3m
+}
+
+[HOMM3 HD CRASH LOG]
+Log
+{
+start logging
+EXE_VERSION & SOD
+compability_dir = D:\Game\Heroes32HD\_HD3_Data\Compability\#default
+
+}
+
+
+
+HOMM3 HD version: 3450000
+
+Time
+{
+   Sun Oct 20 19:29:06 2019
+}
+
+Exception
+{
+   Module: 	Heroes.exe
+   Adress:      0x005BF6C3
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x1319F6AB
+}
+
+Call stack
+{
+             0x005BF610 called from        0x005C6CBB
+             0x005C6C70 called from        0x005C697C
+                      ? called from before 0x004B08C0
+             0x004B0880 called from        0x004B0A45
+             0x004B09D0 called from        0x005BE65B
+             0x004AACC0 called from        0x004A9F26
+             0x004A8160 called from        0x004AA766
+             0x004AA710 called from        0x00408049
+             0x00407AE0 called from        0x0040AA31
+             0x0040A530 called from        0x0040992B
+                      ? called from before 0x0282B9EB
+   (spliced) 0x00409740 called from        0x004089AB
+                      ? called from before 0x0281CA02
+                      ? called from before 0x027F3904
+                      ? called from before 0x004B0C39
+             0x004B0BA0 called from        0x004F0516
+                      ? called from before 0x02827718
+   (spliced) 0x004EEA70 called from        0x004F824A
+                      ? called from before 0x028084E2
+   (spliced) 0x004F80C0 called from        0x0061A95F
+                      ? called from before 0x74FA0419
+                      ? called from before 0x7706662D
+             0x770665FE called from        0x770665F8
+                      ? called from before 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   
+   D:\Game\Heroes32HD\
+   0x10000000: Binkw32.dll	 (size: 0x0002B000, entry point: 0x10011705)
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   0x00950000: IFC20.dll	 (size: 0x00023000, entry point: 0x0095F04E)
+   0x26F00000: Mp3dec.asi	 (size: 0x0002A000, entry point: 0x26F0A805)
+   0x21100000: Mss32.dll	 (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x5D400000: patcher_x86.dll	 (size: 0x00026000, entry point: 0x5D40C01B)
+   0x001E0000: Smackw32.dll	 (size: 0x0001B000, entry point: 0x001EC0B0)
+   0x027D0000: _HD3_.dll	 (size: 0x000F7000, entry point: 0x027D3F18)
+}
+
+Command Line
+{
+   D:\Game\Heroes32HD\Heroes.exe
+}
+
+Main INI
+{
+
+<Version> = 3390000
+<Language> = "#en.ini"
+<Resolution> = 1000, 750
+<ColorMode> = 3
+<StretchFilter> = 2
+<SystemCursors> = 1
+<ClipCursor> = 1
+<NoCD> = 1
+<CpuPatch> = 1
+<NewerSoundLibraries> = 1
+<Stereo44Music> = 1
+<AsyncSounds> = 1
+<InterfaceExtensions> = 1
+<QuickArmyManagementMode> = 0
+<ExtendedSpellBook> = 1
+<TournamentExtensions> = 2
+<EveryDaySaver> = 1
+<SkipMapMsgs> = 2
+<RenameRandMap> = 1
+<AvailableInsteadGrowthInTown> = 1
+<AutofixMap> = 2
+<HD+> = 2
+<Packs>
+<HD.TE.Settings> = 4, 144, 2, 2, 2, 0, 2, 0, 0, 0, 0, 1, 1, 1
+<HD+.Settings> = 1, 0, 0, 0, 0, 1, 1, 120000, 120000, 120000, 1, 0, 0
+<CheckForUpdates> = 0
+<UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+<Registered> = 1
+<Show Intro> = 1
+<AppPath> = "D:\Game\Heroes32HD\"
+<Music Volume> = 1
+<Sound Volume> = 1
+<Last Music Volume> = 0
+<Last Sound Volume> = 1
+<Walk Speed> = 4
+<Computer Walk Speed> = 5
+<Show Route> = 1
+<Move Reminder> = 1
+<Quick Combat> = 1
+<Video Subtitles> = 1
+<Town Outlines> = 1
+<Animate SpellBook> = 1
+<Window Scroll Speed> = 2
+<Bink Video> = 0
+<Blackout Computer> = 1
+<First Time> = 0
+<Test Decomp> = 6
+<Test Read> = 0
+<Test Blit> = 2
+<Unique System ID> = "VSM"
+<Network Default Name> = "Super"
+<Autosave> = 1
+<Show Combat Grid> = 1
+<Show Combat Mouse Hex> = 1
+<Combat Shade Level> = 1
+<Combat Army Info Level> = 1
+<Combat Auto Creatures> = 1
+<Combat Auto Spells> = 1
+<Combat Catapult> = 1
+<Combat Ballista> = 1
+<Combat First Aid Tent> = 1
+<Combat Speed> = 2
+<Main Game Show Menu> = 1
+<Main Game X> = 0
+<Main Game Y> = 0
+<Main Game Full Screen> = 1
+<CDDrive> = ""
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Microsoft Windows XP
+   CurrentVersion: 5.1
+   CSDVersion:     Service Pack 3
+   BuildLab:       17763.rs5_release.180914-1434
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      5.1
+   Build:        2600
+   CSDVersion  = Service Pack 3
+   ProductType = 1
+   SuiteMask   = 256
+}
+
+Some ingame values
+{
+   FullScreen Mode = 1
+   Game Type       = 0
+   Network Game    = 0
+
+             Me: 红色
+  Active Player: 红色
+   Active is Human = 1
+   Map file = Super vs 电脑 (75).h3m
+}
+
+[HOMM3 HD CRASH LOG]
+Log
+{
+start logging
+EXE_VERSION & SOD
+compability_dir = D:\Game\Heroes32HD\_HD3_Data\Compability\#default
+
+}
+
+
+
+HOMM3 HD version: 3450000
+
+Time
+{
+   Wed Oct 30 20:56:14 2019
+}
+
+Exception
+{
+   Module: 	Heroes.exe
+   Adress:      0x005BF6C3
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x069B66AB
+}
+
+Call stack
+{
+             0x005BF610 called from        0x005C6CBB
+             0x005C6C70 called from        0x005C697C
+                      ? called from before 0x004B08C0
+             0x004B0880 called from        0x004B0A45
+             0x004B09D0 called from        0x005BE65B
+             0x00407AE0 called from        0x0273B988
+   (spliced) 0x00409740 called from        0x004089AB
+                      ? called from before 0x0272CA02
+                      ? called from before 0x02703904
+                      ? called from before 0x004B0C39
+             0x004B0BA0 called from        0x004F0516
+                      ? called from before 0x02737718
+   (spliced) 0x004EEA70 called from        0x004F824A
+                      ? called from before 0x027184E2
+   (spliced) 0x004F80C0 called from        0x0061A95F
+                      ? called from before 0x75B40419
+                      ? called from before 0x77AE662D
+             0x77AE65FE called from        0x77AE65F8
+                      ? called from before 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   
+   D:\Game\Heroes32HD\
+   0x00C00000: Binkw32.dll	 (size: 0x0002B000, entry point: 0x00C11705)
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   0x009C0000: IFC20.dll	 (size: 0x00023000, entry point: 0x009CF04E)
+   0x26F00000: Mp3dec.asi	 (size: 0x0002A000, entry point: 0x26F0A805)
+   0x21100000: Mss32.dll	 (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x68320000: patcher_x86.dll	 (size: 0x00026000, entry point: 0x6832C01B)
+   0x10000000: Smackw32.dll	 (size: 0x0001B000, entry point: 0x1000C0B0)
+   0x026E0000: _HD3_.dll	 (size: 0x000F7000, entry point: 0x026E3F18)
+}
+
+Command Line
+{
+   D:\Game\Heroes32HD\Heroes.exe
+}
+
+Main INI
+{
+
+<Version> = 3390000
+<Language> = "#en.ini"
+<Resolution> = 1000, 750
+<ColorMode> = 3
+<StretchFilter> = 2
+<SystemCursors> = 1
+<ClipCursor> = 1
+<NoCD> = 1
+<CpuPatch> = 1
+<NewerSoundLibraries> = 1
+<Stereo44Music> = 1
+<AsyncSounds> = 1
+<InterfaceExtensions> = 1
+<QuickArmyManagementMode> = 0
+<ExtendedSpellBook> = 1
+<TournamentExtensions> = 2
+<EveryDaySaver> = 1
+<SkipMapMsgs> = 2
+<RenameRandMap> = 1
+<AvailableInsteadGrowthInTown> = 1
+<AutofixMap> = 2
+<HD+> = 2
+<Packs>
+<HD.TE.Settings> = 4, 144, 2, 2, 6, 0, 2, 0, 0, 0, 0, 1, 1, 1
+<HD+.Settings> = 1, 0, 0, 0, 0, 1, 1, 720000, 360000, 300000, 1, 0, 0
+<CheckForUpdates> = 0
+<UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+<Registered> = 1
+<Show Intro> = 1
+<AppPath> = "D:\Game\Heroes32HD\"
+<Music Volume> = 1
+<Sound Volume> = 1
+<Last Music Volume> = 1
+<Last Sound Volume> = 1
+<Walk Speed> = 4
+<Computer Walk Speed> = 5
+<Show Route> = 1
+<Move Reminder> = 1
+<Quick Combat> = 0
+<Video Subtitles> = 1
+<Town Outlines> = 1
+<Animate SpellBook> = 1
+<Window Scroll Speed> = 2
+<Bink Video> = 0
+<Blackout Computer> = 1
+<First Time> = 0
+<Test Decomp> = 6
+<Test Read> = 0
+<Test Blit> = 2
+<Unique System ID> = "VSM"
+<Network Default Name> = "Super"
+<Autosave> = 1
+<Show Combat Grid> = 1
+<Show Combat Mouse Hex> = 1
+<Combat Shade Level> = 1
+<Combat Army Info Level> = 1
+<Combat Auto Creatures> = 1
+<Combat Auto Spells> = 1
+<Combat Catapult> = 1
+<Combat Ballista> = 1
+<Combat First Aid Tent> = 1
+<Combat Speed> = 2
+<Main Game Show Menu> = 1
+<Main Game X> = 0
+<Main Game Y> = 0
+<Main Game Full Screen> = 1
+<CDDrive> = ""
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Microsoft Windows XP
+   CurrentVersion: 5.1
+   CSDVersion:     Service Pack 3
+   BuildLab:       17763.rs5_release.180914-1434
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      5.1
+   Build:        2600
+   CSDVersion  = Service Pack 3
+   ProductType = 1
+   SuiteMask   = 256
+}
+
+Some ingame values
+{
+   FullScreen Mode = 1
+   Game Type       = 0
+   Network Game    = 0
+
+             Me: 红色
+  Active Player: 红色
+   Active is Human = 1
+   Map file = Super vs 电脑 (88).h3m
+}
+
+[HOMM3 HD CRASH LOG]
+Log
+{
+start logging
+EXE_VERSION & SOD
+compability_dir = D:\Game\Heroes32HD\_HD3_Data\Compability\#default
+
+}
+
+
+
+HOMM3 HD version: 3450000
+
+Time
+{
+   Wed Oct 30 21:14:15 2019
+}
+
+Exception
+{
+   Module: 	Heroes.exe
+   Adress:      0x005BF6C3
+   Code:        EXCEPTION_ACCESS_VIOLATION
+   Flags:       0x00000000
+   Information: read of address: 0x117A06AB
+}
+
+Call stack
+{
+             0x005BF610 called from        0x005C6CBB
+             0x005C6C70 called from        0x005C697C
+                      ? called from before 0x004B08C0
+             0x004B0880 called from        0x004B0A45
+             0x004B09D0 called from        0x005BE65B
+             0x00407AE0 called from        0x027DB988
+   (spliced) 0x00409740 called from        0x004089AB
+                      ? called from before 0x027CCA02
+                      ? called from before 0x027A3904
+                      ? called from before 0x004B0C39
+             0x004B0BA0 called from        0x004F0516
+                      ? called from before 0x027D7718
+   (spliced) 0x004EEA70 called from        0x004F824A
+                      ? called from before 0x027B84E2
+   (spliced) 0x004F80C0 called from        0x0061A95F
+                      ? called from before 0x75B40419
+                      ? called from before 0x77AE662D
+             0x77AE65FE called from        0x77AE65F8
+                      ? called from before 0x00000000
+}
+
+Modules
+{
+
+   \\ main module:
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   
+   D:\Game\Heroes32HD\
+   0x00AF0000: Binkw32.dll	 (size: 0x0002B000, entry point: 0x00B01705)
+   0x00400000: Heroes.exe	 (size: 0x002B6000, entry point: 0x0061A884)
+   0x009B0000: IFC20.dll	 (size: 0x00023000, entry point: 0x009BF04E)
+   0x26F00000: Mp3dec.asi	 (size: 0x0002A000, entry point: 0x26F0A805)
+   0x21100000: Mss32.dll	 (size: 0x0005F000, entry point: 0x2112F2E5)
+   0x66040000: patcher_x86.dll	 (size: 0x00026000, entry point: 0x6604C01B)
+   0x10000000: Smackw32.dll	 (size: 0x0001B000, entry point: 0x1000C0B0)
+   0x02780000: _HD3_.dll	 (size: 0x000F7000, entry point: 0x02783F18)
+}
+
+Command Line
+{
+   D:\Game\Heroes32HD\Heroes.exe
+}
+
+Main INI
+{
+
+<Version> = 3390000
+<Language> = "#en.ini"
+<Resolution> = 1000, 750
+<ColorMode> = 3
+<StretchFilter> = 2
+<SystemCursors> = 1
+<ClipCursor> = 1
+<NoCD> = 1
+<CpuPatch> = 1
+<NewerSoundLibraries> = 1
+<Stereo44Music> = 1
+<AsyncSounds> = 1
+<InterfaceExtensions> = 1
+<QuickArmyManagementMode> = 0
+<ExtendedSpellBook> = 1
+<TournamentExtensions> = 2
+<EveryDaySaver> = 1
+<SkipMapMsgs> = 2
+<RenameRandMap> = 1
+<AvailableInsteadGrowthInTown> = 1
+<AutofixMap> = 2
+<HD+> = 2
+<Packs>
+<HD.TE.Settings> = 4, 144, 2, 2, 6, 0, 2, 0, 0, 0, 0, 1, 1, 1
+<HD+.Settings> = 1, 0, 0, 0, 0, 1, 1, 720000, 360000, 300000, 1, 0, 0
+<CheckForUpdates> = 0
+<UpdateServer> = "https://dl.dropbox.com/u/56675299/HD3_Update"
+<Registered> = 1
+<Show Intro> = 1
+<AppPath> = "D:\Game\Heroes32HD\"
+<Music Volume> = 1
+<Sound Volume> = 1
+<Last Music Volume> = 1
+<Last Sound Volume> = 1
+<Walk Speed> = 4
+<Computer Walk Speed> = 5
+<Show Route> = 1
+<Move Reminder> = 1
+<Quick Combat> = 1
+<Video Subtitles> = 1
+<Town Outlines> = 1
+<Animate SpellBook> = 1
+<Window Scroll Speed> = 2
+<Bink Video> = 0
+<Blackout Computer> = 1
+<First Time> = 0
+<Test Decomp> = 6
+<Test Read> = 0
+<Test Blit> = 2
+<Unique System ID> = "VSM"
+<Network Default Name> = "Super"
+<Autosave> = 1
+<Show Combat Grid> = 1
+<Show Combat Mouse Hex> = 1
+<Combat Shade Level> = 1
+<Combat Army Info Level> = 1
+<Combat Auto Creatures> = 1
+<Combat Auto Spells> = 1
+<Combat Catapult> = 1
+<Combat Ballista> = 1
+<Combat First Aid Tent> = 1
+<Combat Speed> = 2
+<Main Game Show Menu> = 1
+<Main Game X> = 0
+<Main Game Y> = 0
+<Main Game Full Screen> = 1
+<CDDrive> = ""
+}
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+{
+   ProductName:    Microsoft Windows XP
+   CurrentVersion: 5.1
+   CSDVersion:     Service Pack 3
+   BuildLab:       17763.rs5_release.180914-1434
+}
+
+GetVersionEx
+{
+   PlatformId  = 2
+   Version:      5.1
+   Build:        2600
+   CSDVersion  = Service Pack 3
+   ProductType = 1
+   SuiteMask   = 256
+}
+
+Some ingame values
+{
+   FullScreen Mode = 1
+   Game Type       = 0
+   Network Game    = 0
+
+             Me: 红色
+  Active Player: 红色
+   Active is Human = 1
+   Map file = Super vs 电脑 (88).h3m
+}
+

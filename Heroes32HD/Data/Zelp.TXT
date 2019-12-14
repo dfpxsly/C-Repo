@@ -1,0 +1,851 @@
+Rollover Text	Right-Click Text																						
+"Note: Do not change the headings in this file, they are used to detect problems"																							
+Main Menu																							
+	"{新游戏}
+
+开始新游戏。"																						
+	"{载入进度}
+
+载入保存的游戏。"																						
+	"{最高得分}
+
+查看英雄们的业绩。"																						
+	"{制作组}
+
+查看游戏制作组成员。"																						
+	"{退出}
+
+返回Windows。"																						
+																							
+New Game	New Game																						
+	"{单人场景}
+
+进行单人场景游戏。"																						
+	"{战役}
+
+进行战役游戏。"																						
+	"{多人游戏}
+
+进行多人游戏。"																						
+	"{训练}
+
+进行训练，教你如何玩《英雄无敌III》。"																						
+	"{返回}
+
+返回上一屏幕。"																						
+																							
+Single Scenario Selection	Single Scenario Selection																						
+																							
+SCENARIO_BACKGROUND 	选择一个场景																						
+ADVANCED_BACKGROUND 	设置高级选项																						
+Background for random map menu	设置并生成一个随机地图																						
+SCENARIO_NAME 	场景名称																						
+Description Title	显示场景简介																						
+Description text	显示场景简介																						
+EASY 	"{容易}
+
+开始时玩家在资源上占有绝对优势，而且电脑的人工智能较低。"																						
+NORMAL 	"{一般难度}
+
+开始时玩家在资源上稍占优势，而电脑的人工智能一般。"																						
+HARD 	"{较难}
+
+开始时玩家和电脑拥有同样的资源，而电脑的人工智能较高。"																						
+EXPERT 	"{专家级难度}
+
+开始时玩家的资源较少，而电脑的人工智能较高。"																						
+IMPOSSIBLE 	"{极难}
+
+开始时玩家没有任何资源，而电脑的人工智能较高。"																						
+ALLY_FLAG1 	这是你的标志色																						
+ALLY_FLAG2 	这种颜色的部队是你的盟军																						
+ALLY_FLAG3 	这种颜色的部队是你的盟军																						
+ALLY_FLAG4 	这种颜色的部队是你的盟军
+ALLY_FLAG5 	这种颜色的部队是你的盟军
+ALLY_FLAG6 	这种颜色的部队是你的盟军
+ALLY_FLAG7 	这种颜色的部队是你的盟军
+ALLY_FLAG8 	这种颜色的部队是你的盟军
+ENEMY_FLAG1 	这种颜色的部队是你的敌人
+ENEMY_FLAG2 	这种颜色的部队是你的敌人
+ENEMY_FLAG3 	这种颜色的部队是你的敌人
+ENEMY_FLAG4 	这种颜色的部队是你的敌人
+ENEMY_FLAG5 	这种颜色的部队是你的敌人
+ENEMY_FLAG6 	这种颜色的部队是你的敌人
+ENEMY_FLAG7 	这种颜色的部队是你的敌人
+ENEMY_FLAG8 	这种颜色的部队是你的敌人
+SCENARIO_OPTIONS 	查看/隐藏场景列表
+ADVANCED_OPTIONS 	查看/隐藏高级选项
+random map button	用随机地图进行游戏
+CHAT_DESC 	在场景简介和交谈窗口之间切换
+MAP_DIFFICULTY 	在这里可以设置骓度
+RATING 	显示基于地图难度和玩家难度设置的总体难度
+MAP_SIZE 	地图难度分为容易、一般、较难、专家和极难
+VICTORY_CONDITION 	当前场景的胜利条件
+LOSS_CONDITION 	当前场景的失败条件
+SMALL_FILTER 	查看所有小地图
+MEDIUM_FILTER 	查看所有中等地图
+LARGE_FILTER 	查看所有大地图
+EXTRALARGE_FILTER 	查看所有特大地图
+ALL_FILTER 	查看所有地图
+SCENARIO_NAME_1 	SCENARIO_NAME_1 
+SCENARIO_NAME_2 	SCENARIO_NAME_2 
+SCENARIO_NAME_3 	SCENARIO_NAME_3 
+SCENARIO_NAME_4 	SCENARIO_NAME_4 
+SCENARIO_NAME_5 	SCENARIO_NAME_5 
+SCENARIO_NAME_6 	SCENARIO_NAME_6 
+SCENARIO_NAME_7 	SCENARIO_NAME_7 
+SCENARIO_NAME_8 	SCENARIO_NAME_8 
+SCENARIO_NAME_9 	SCENARIO_NAME_9 
+SCENARIO_NAME_10 	SCENARIO_NAME_10 
+SCENARIO_NAME_11 	SCENARIO_NAME_11 
+SCENARIO_NAME_12 	SCENARIO_NAME_12 
+SCENARIO_NAME_13 	SCENARIO_NAME_13 
+SCENARIO_NAME_14 	SCENARIO_NAME_14 
+SCENARIO_NAME_15 	SCENARIO_NAME_15 
+SCENARIO_NAME_16 	SCENARIO_NAME_16 
+SCENARIO_NAME_17 	SCENARIO_NAME_17 
+SCENARIO_NAME_18 	SCENARIO_NAME_18 
+ENTRY_SCENARIO_NAME_1 	ENTRY_SCENARIO_NAME_1 
+ENTRY_SCENARIO_NAME_2 	ENTRY_SCENARIO_NAME_2 
+ENTRY_SCENARIO_NAME_3 	ENTRY_SCENARIO_NAME_3 
+ENTRY_SCENARIO_NAME_4 	ENTRY_SCENARIO_NAME_4 
+ENTRY_SCENARIO_NAME_5 	ENTRY_SCENARIO_NAME_5 
+ENTRY_SCENARIO_NAME_6 	ENTRY_SCENARIO_NAME_6 
+ENTRY_SCENARIO_NAME_7 	ENTRY_SCENARIO_NAME_7 
+ENTRY_SCENARIO_NAME_8 	ENTRY_SCENARIO_NAME_8 
+ENTRY_SCENARIO_NAME_9 	ENTRY_SCENARIO_NAME_9 
+ENTRY_SCENARIO_NAME_10 	ENTRY_SCENARIO_NAME_10 
+ENTRY_SCENARIO_NAME_11 	ENTRY_SCENARIO_NAME_11 
+ENTRY_SCENARIO_NAME_12 	ENTRY_SCENARIO_NAME_12 
+ENTRY_SCENARIO_NAME_13 	ENTRY_SCENARIO_NAME_13 
+ENTRY_SCENARIO_NAME_14 	ENTRY_SCENARIO_NAME_14 
+ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15 
+ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 
+ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
+ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
+TURN_DURATION 	回合时限
+CHAT_TEXT 	交谈信息						
+CHAT_ENTRY 	CHAT_ENTRY 						
+CHAT_PLUG 	CHAT_PLUG 						
+CHAT_PLAYER 	玩家						
+"CHAT_PLAYER_SLIDER,"	"CHAT_PLAYER_SLIDER,"						
+ROLLOVER 	ROLLOVER 						
+NEXT 	保存当前所选游戏						
+BEGIN 	开始所选游戏						
+BACK 	BACK 						
+SSEXIT 	"关闭此窗口
+(不做任何改动)"						
+WHICHMAP 	"当前地图大小
+(小、中、大、特大)"						
+SORT_NUMBER 	以玩家数量排列地图						
+SORT_SIZE 	以地图尺寸排列地图						
+k_sort_version	根据游戏版本对地图进行排序						
+SORT_ALPHA 	以名字的字母顺序排列地图						
+SORT_VICTORY 	以胜利条件排列地图						
+SORT_LOSS 	以失败条件排列地图
+BRIEFING 	BRIEFING 
+SSHERO 	SSHERO 
+GOLDPIC 	GOLDPIC 
+HUMAN_CPU1 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU2 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU3 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU4 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU5 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU6 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU7 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HUMAN_CPU8 	人类或电脑是指这种颜色可以被玩家或电脑控制。 电脑是指只有电脑才能控制这种颜色。
+HANDICAP1 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP2 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP3 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP4 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP5 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP6 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP7 	允许你减少这个玩家的起始资源以增加难度
+HANDICAP8 	允许你减少这个玩家的起始资源以增加难度
+TOWN_LEFT1 	允许你选择起始城镇类型
+TOWN_LEFT2 	允许你选择起始城镇类型
+TOWN_LEFT3 	允许你选择起始城镇类型
+TOWN_LEFT4 	允许你选择起始城镇类型
+TOWN_LEFT5 	允许你选择起始城镇类型
+TOWN_LEFT6 	允许你选择起始城镇类型
+TOWN_LEFT7 	允许你选择起始城镇类型
+TOWN_LEFT8 	允许你选择起始城镇类型
+TOWN_RITE1 	允许你选择起始城镇类型
+TOWN_RITE2 	允许你选择起始城镇类型
+TOWN_RITE3 	允许你选择起始城镇类型
+TOWN_RITE4 	允许你选择起始城镇类型
+TOWN_RITE5 	允许你选择起始城镇类型
+TOWN_RITE6 	允许你选择起始城镇类型
+TOWN_RITE7 	允许你选择起始城镇类型
+TOWN_RITE8 	允许你选择起始城镇类型
+HERO_LEFT1 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT2 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT3 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT4 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT5 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT6 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT7 	允许你选择起始英雄(基于你的城镇类型)
+HERO_LEFT8 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE1 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE2 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE3 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE4 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE5 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE6 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE7 	允许你选择起始英雄(基于你的城镇类型)
+HERO_RITE8 	允许你选择起始英雄(基于你的城镇类型)
+RES_LEFT1 	允许你为自己的英雄选择起始奖励
+RES_LEFT2 	允许你为自己的英雄选择起始奖励
+RES_LEFT3 	允许你为自己的英雄选择起始奖励
+RES_LEFT4 	允许你为自己的英雄选择起始奖励
+RES_LEFT5 	允许你为自己的英雄选择起始奖励
+RES_LEFT6 	允许你为自己的英雄选择起始奖励
+RES_LEFT7 	允许你为自己的英雄选择起始奖励
+RES_LEFT8 	允许你为自己的英雄选择起始奖励
+RES_RITE1 	允许你为自己的英雄选择起始奖励
+RES_RITE2 	允许你为自己的英雄选择起始奖励
+RES_RITE3 	允许你为自己的英雄选择起始奖励
+RES_RITE4 	允许你为自己的英雄选择起始奖励
+RES_RITE5 	允许你为自己的英雄选择起始奖励
+RES_RITE6 	允许你为自己的英雄选择起始奖励
+RES_RITE7 	允许你为自己的英雄选择起始奖励
+RES_RITE8 	允许你为自己的英雄选择起始奖励
+HERO_SETTING_1 	单击这里选择这种颜色
+HERO_SETTING_2 	单击这里选择这种颜色
+HERO_SETTING_3 	单击这里选择这种颜色
+HERO_SETTING_4 	单击这里选择这种颜色
+HERO_SETTING_5 	单击这里选择这种颜色
+HERO_SETTING_6 	单击这里选择这种颜色
+HERO_SETTING_7 	单击这里选择这种颜色
+HERO_SETTING_8 	单击这里选择这种颜色
+TOWN_SETTING_1 	TOWN_SETTING_1 
+TOWN_SETTING_2 	TOWN_SETTING_2 
+TOWN_SETTING_3 	TOWN_SETTING_3 
+TOWN_SETTING_4 	TOWN_SETTING_4 
+TOWN_SETTING_5 	TOWN_SETTING_5 	
+TOWN_SETTING_6 	TOWN_SETTING_6 	
+TOWN_SETTING_7 	TOWN_SETTING_7 	
+TOWN_SETTING_8 	TOWN_SETTING_8 	
+"const_create_map,"		
+"const_map_size_label,"	选择地图大小	
+"const_small_map,"	生成小地图	
+"const_medium_map,"	生成中地图	
+"const_large_map,"	生成大地图	
+"const_huge_map,"	生成特大地图	
+"const_map_levels,"	选择地图是单层还是双层	
+"const_human_positions_label,"	选择人类玩家的数量	
+"const_1_human,"	生成一个人类玩家	
+"const_2_humans,"	生成两个人类玩家	
+"const_3_humans,"	生成三个人类玩家	
+"const_4_humans,"	生成四个人类玩家	
+"const_5_humans,"	生成五个人类玩家	
+"const_6_humans,"	生成六个人类玩家	
+"const_7_humans,"	生成七个人类玩家	
+"const_8_humans,"	生成八个人类玩家	
+"const_random_humans,"	随机生成人类玩家数量	
+"const_human_teams_label,"	选择人类玩家结盟的数量	
+"const_no_human_teams,"	人类玩家不能结盟	
+"const_1_human_team,"	一组人类玩家结盟	
+"const_2_human_teams,"	两组人类玩家结盟	
+"const_3_human_teams,"	三组人类玩家结盟	
+"const_4_human_teams,"	四组人类玩家结盟	
+"const_5_human_teams,"	五组人类玩家结盟	
+"const_6_human_teams,"	六组人类玩家结盟	
+"const_7_human_teams,"	七组人类玩家结盟	
+"const_random_human_teams,"	随机生成人类玩家结盟的数量	
+"const_computer_positions_label,"	选择电脑玩家数量	
+"const_no_computers,"	不生成电脑玩家	
+"const_1_computer,"	生成一个电脑玩家	
+"const_2_computers,"	生成两个电脑玩家	
+"const_3_computers,"	生成三个电脑玩家	
+"const_4_computers,"	生成四个电脑玩家	
+"const_5_computers,"	生成五个电脑玩家	
+"const_6_computers,"	生成六个电脑玩家	
+"const_7_computers,"	生成七个电脑玩家	
+"const_random_computers,"	随机生成电脑玩家数量	
+"const_computer_teams_label,"	选择电脑玩家结盟的数量	
+"const_no_computer_teams,"	电脑玩家不能结盟	
+"const_1_computer_team,"	一组电脑玩家结盟	
+"const_2_computer_teams,"	两组电脑玩家结盟	
+"const_3_computer_teams,"	三组电脑玩家结盟	
+"const_4_computer_teams,"	四组电脑玩家结盟	
+"const_5_computer_teams,"	五组电脑玩家结盟	
+"const_6_computer_teams,"	六组电脑玩家结盟	
+"const_random_computer_teams,"	随机生成电脑玩家结盟的数量	
+"const_water_label,"	选择地图上的水域范围	
+"const_no_water,"	很少或没有水	
+"const_normal_water,"	生成一个被海洋环绕的大陆	
+"const_islands,"	生成群岛	
+"const_random_water,"	随机决定水域范围	
+"const_monster_strength_label,"	选择地图上的怪物的能力	
+"const_weak_monsters,"	比较弱小	
+"const_normal_monsters,"	一般	
+"const_strong_monsters,"	比较强大	
+"const_random_monsters,"	随机决定怪物的能力	
+"const_show_saved_random_maps,"	显示最近生成的随机地图	
+SLIDER_CHATWINDOW 	卷动交谈信息	
+SLIDER_FILEMENU 	卷动场景或游戏记录列表	
+SLIDER_DURATION 	允许你修改回合时限	
+"PLAYER_HANDICAP_HEADER_ID,"	"{玩家姓名/障碍类型}
+
+可以由人类玩家控制的栏旁用一面旗帜做标记。 单击旗帜可以交换位置。你也可以点击姓名栏修改你的姓名。
+
+单击‘障碍’键可以调整每个玩家的起始资源。 有三种选项：没有障碍、中等障碍和严重障碍。中度和严重障碍将减少玩家的起始资源。"																						
+"TURN_DURATION_HEADER_ID,"	"{回合时限}
+
+玩家可以用滑标来设置每个回合的持续时间。在战斗过程中，计时器将暂停。
+
+回合时限可以设置为1、2、4、6、8、10、15、20、25和30分钟。
+‘无限制’是默认设置。
+"																						
+"STARTING_TOWN_HEADER_ID,"	"{起始城镇}
+
+每个玩家都可以有或者没有一个起始城镇，可以选择随机、城堡、壁垒、塔楼、地狱、墓园、地下城、据点或要塞。
+
+如果你没有起始城镇，可以通过这里选择起始英雄的来源城镇。
+"																						
+"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{起始城镇}
+
+每个玩家都可以有或者没有一个起始城镇，可以选择随机、城堡、壁垒、塔楼、地狱、墓园、地下城、据点、要塞或元素城。
+
+如果你没有起始城镇，可以通过这里选择起始英雄的来源城镇。
+"																						
+"STARTING_HERO_HEADER_ID,"	"{起始英雄}
+
+每个玩家都可以有或者没有一个起始英雄。有时候这个选项会被锁定或者隐藏起来，但一般情况下你可以在16位英雄中进行选择。如果有起始城镇的话，你可以改变起始城镇的类型，从而选择其他类型的英雄。
+
+要查看英雄的姓名、类型以及特长，请右击英雄的肖像。"																						
+"STARTING_BONUS_HEADER_ID,"	"{起始奖励}
+
+在这里你可以选择一件宝物、500-1000个金币或其它资源。
+"																						
+																							
+Multiplayer Selection	Multiplayer Selection																						
+																							
+在线服务	"{在线服务}
+
+允许你通过在线服务在网上进行游戏"																						
+单机模式	"{单机模式}
+
+允许多个玩家在同一台机器上进行游戏"																						
+IPX	"{IPX}
+
+允许多个玩家在他们各自的机器上通过局域网进行游戏"																						
+TCP/IP	"{TCP/IP}
+
+允许多个玩家在他们各自的机器上通过局域网或因特网进行游戏"																						
+调制解调器	"{调制解调器}
+
+允许玩家通过调制解调器进行连线游戏"																						
+串行连接	"{串行连接}
+
+允许两个玩家通过串行连接进行连线游戏"																						
+主持游戏	"{主持游戏}
+
+允许你创建游戏让其他玩家加入"																						
+加入游戏	"{加入游戏}
+
+显示你可以加入的游戏列表"
+搜寻游戏	"{搜寻游戏}
+
+允许你输入一个特定的IP地址进行连接"
+GAMENAME 1	GAMENAME 1
+GAMENAME 2	GAMENAME 2
+GAMENAME 3	GAMENAME 3
+GAMENAME 4	GAMENAME 4
+GAMENAME 5	GAMENAME 5
+GAMENAME 6	GAMENAME 6
+GAMENAME 7	GAMENAME 7
+GAMENAME 8	GAMENAME 8
+GAMENAME 9	GAMENAME 9
+GAMENAME 10	GAMENAME 10
+GAMENAME 11	GAMENAME 11
+GAMENAME 12	GAMENAME 12
+卷动选择可选游戏	卷动选择可选游戏
+	
+取消	返回前一个菜单																						
+																							
+Adventure Map Window																							
+世界地图	这是张远视图。点击地图上的任意地点即可在探险地图中显示该处，你还可以拖动虚框卷动探险地图。																						
+状态栏	SELECTION WINDOW																						
+王国概况	"{王国概况}
+
+显示你王国中的城镇与英雄概况。"																						
+地层切换	"{地层切换}
+
+可以在地上与地下世界之间进行切换"																						
+冒险日志	"{冒险日志}
+
+显示当前所有的任务"																						
+睡眠/唤醒英雄	"{睡眠/唤醒英雄}
+
+可以让选中的英雄睡眠或唤醒睡着的英雄。用下一个英雄键可跳过任何睡着的英雄。"																						
+移动英雄	"{移动英雄}
+
+让当前英雄沿着选定的路线移动"																						
+施放魔法	"{施放魔法}
+
+施放一个非战斗魔法"																						
+探险选项	"{探险选项}
+
+探险选项可以让你挖掘神器、查看藏宝图、世界地图及场景信息。在多人游戏中，你还可以查看你的对手的上一轮行动。"																						
+系统选项	"{系统选项}
+
+可以查看并修改游戏选项"																						
+下一个英雄	"{下一个英雄}
+
+选择还有移动点数的下一个英雄，睡着的英雄将被跳过。"																						
+回合结束	"{回合结束}
+
+结束当前回合"																						
+卷动英雄列表	"{卷动英雄列表}
+
+向上卷动查看英雄列表"																						
+卷动英雄列表	"{卷动英雄列表}
+
+向下卷动查看英雄列表"																						
+英雄肖像	"{英雄肖像}
+
+点击一次可以选择该英雄并让他出现在探险地图中央，再次点击可以查看英雄屏幕。"																						
+卷动城镇列表	"{卷动城镇列表}
+
+向上卷动查看城镇列表"																						
+卷动城镇列表	"{卷动城镇列表}
+
+向下卷动查看城镇列表"																						
+城镇图标	"{城镇图标}
+
+点击一次可以选择该城镇并让它出现在探险地图中央，再次点击可以查看城镇屏幕。"																						
+黄金	金库中的金币库存																						
+木材	你所拥有的木材数量																						
+水银	你所拥有的水银数量																						
+矿石	你所拥有的矿石数量																						
+硫磺	你所拥有的硫磺数量																						
+水晶	你所拥有的水晶数量																						
+宝石	你所拥有的宝石数量																						
+日期	"{日期}
+
+当前月、周、日"																						
+ROLLOVER	ROLLOVER																						
+																							
+System Options	System Options																						
+主菜单	"{主菜单}
+
+结束游戏并返回主菜单"
+载入进度	"{载入进度}
+
+载入保存的游戏进度"
+保存进度	"{保存进度}
+
+保存当前的游戏"
+重新开始	"{重新开始}
+
+重新开始当前游戏"
+退回桌面	"{退回桌面}
+
+退出《魔法门之英雄无敌III》"
+返回	"{返回游戏}
+
+返回探险地图继续进行游戏！"
+"MUSIC_VOLUME_0_ID,"	关闭音乐
+"MUSIC_VOLUME_1_ID,"	设置音乐音量为1
+"MUSIC_VOLUME_2_ID,"	设置音乐音量为2
+"MUSIC_VOLUME_3_ID,"	设置音乐音量为3
+"MUSIC_VOLUME_4_ID,"	设置音乐音量为4
+"MUSIC_VOLUME_5_ID,"	设置音乐音量为5
+"MUSIC_VOLUME_6_ID,"	设置音乐音量为6
+"MUSIC_VOLUME_7_ID,"	设置音乐音量为7
+"MUSIC_VOLUME_8_ID,"	设置音乐音量为8
+"MUSIC_VOLUME_9_ID,"	设置音乐音量为9
+"EFFECTS_VOLUME_0_ID,"	关闭音效
+"EFFECTS_VOLUME_1_ID,"	设置音效音量为1
+"EFFECTS_VOLUME_2_ID,"	设置音效音量为2
+"EFFECTS_VOLUME_3_ID,"	设置音效音量为3
+"EFFECTS_VOLUME_4_ID,"	设置音效音量为4
+"EFFECTS_VOLUME_5_ID,"	设置音效音量为5
+"EFFECTS_VOLUME_6_ID,"	设置音效音量为6
+"EFFECTS_VOLUME_7_ID,"	设置音效音量为7
+"EFFECTS_VOLUME_8_ID,"	设置音效音量为8
+"EFFECTS_VOLUME_9_ID,"	设置音效音量为9
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
+"HERO_SPEED_WALK_ID,"	将英雄速度设置为最慢
+"HERO_SPEED_CANTER_ID,"	将英雄速度设置为慢
+"HERO_SPEED_GALLOP_ID,"	将英雄速度设置为快
+"HERO_SPEED_JUMP_ID,"	"将英雄速度设置为最快
+(没有动画)"
+"AI_SPEED_CANTER_ID,"	将敌人速度设置为最慢
+"AI_SPEED_GALLOP_ID,"	将敌人速度设置为快
+"AI_SPEED_JUMP_ID,"	"将敌人速度设置为最快
+(没有动画)"
+"AI_SPEED_NONE_ID,"	不显示敌人的移动
+"WINDOW_SCROLL_SLOW,"	将地图卷动速度设置为慢
+"WINDOW_SCROLL_MEDIUM,"	将地图卷动速度设置为中等
+"WINDOW_SCROLL_FAST,"	将地图卷动速度设置为快
+"SHOW_PATH_ID,"	"{显示移动路线}
+
+如果选了这个选项，在英雄移动前可先显示移动路线。"
+"MOVE_REMINDER_ID,"	"{英雄提醒信息}
+
+在结束回合时，如果有的英雄还有移动点数，就会显示提醒信息。"
+"QUICK_COMBAT_ID,"	"{快速战斗}
+
+这个选项会让电脑自动进行战斗，而玩家看到的只是最后的战斗结果。"
+"VIDEO_SUBTITLES_ID,"	"{动画字幕}
+
+决定是否显示动画字幕。"
+VIDEO_QUALITY_LOW	"{低质量动画}
+
+对较慢且较难全屏显示动画的电脑建议采用此选项。"
+VIDEO_QUALITY_HIGH	"{高质量动画}
+
+对于运行速度快的电脑，此选项可让你欣赏到高质量的动画。"
+"TOWN_OUTLINES_ID,"	"{城镇建筑轮廓}
+
+在城镇屏幕中，当鼠标指针放在某一可以进入的建筑上时，会显示其轮廓。"
+"ANIMATE_SPELLBOOK_ID,"	"{魔法书动画}
+
+魔法书翻页时用动画显示。"
+																							
+Adventure Options																							
+察看世界	"{察看世界}
+
+可以显示世界的远视图"																						
+查看藏宝图	"{查看藏宝图}
+
+查看藏宝地图"																						
+查看场景信息	"{查看场景信息}
+
+查看当前场景的有关信息"																						
+挖掘	"{挖掘}
+
+在当前所在位置搜寻埋在地下的神器"																						
+重放对手行动	"{重放对手行动}
+
+重放上一轮对手的行动"																						
+ROLLOVER	ROLLOVER																						
+确认	"{确认}
+
+返回探险地图"																						
+																							
+Combat Window	Combat Window																						
+投降	"{投降}
+
+在战斗中向敌人投降，你的英雄必须为此付出昂贵的代价。离开战场之后他将很快在酒馆中再次出现，所带的宝物与部队毫发未损。"																						
+撤退	"{撤退}
+
+你的英雄在战斗中可以逃跑，但他很快会带着原有的宝物再次出现在酒馆中。"																						
+战斗选项	"{战斗选项}
+
+允许你查看并修改当前的战斗选项"																						
+自动战斗	"{自动战斗}
+
+电脑将替你进行战斗，但在自动战斗的过程中你可以点击任意一处，从而自己控制部队。"																						
+	这里显示战斗信息																						
+	在战斗中卷动查看战斗信息																						
+施放魔法	"{施放魔法}
+
+打开英雄的魔法书，施放魔法"																						
+等待	"{等待}
+
+推迟这支部队的行动直到所有其他部队行动完毕"																						
+防御	"{防御}
+
+以牺牲部队的一轮行动来提高该部队的防御力"																						
+等待状态	等待状态																						
+结束战术部署	"{结束战术部署}
+
+结束战术部署开始战斗。"																						
+																							
+Combat Options	Combat Options																						
+返回游戏	"{返回游戏}
+
+退出战斗选项"																						
+恢复默认设置	"{默认设置}
+
+恢复战斗选项的默认设置"																						
+"MUSIC_VOLUME_0_ID,"	关闭音乐																						
+"MUSIC_VOLUME_1_ID,"	设置音乐音量为1																						
+"MUSIC_VOLUME_2_ID,"	设置音乐音量为2																						
+"MUSIC_VOLUME_3_ID,"	设置音乐音量为3																						
+"MUSIC_VOLUME_4_ID,"	设置音乐音量为4																						
+"MUSIC_VOLUME_5_ID,"	设置音乐音量为5																						
+"MUSIC_VOLUME_6_ID,"	设置音乐音量为6
+"MUSIC_VOLUME_7_ID,"	设置音乐音量为7
+"MUSIC_VOLUME_8_ID,"	设置音乐音量为8
+"MUSIC_VOLUME_9_ID,"	设置音乐音量为9
+"EFFECTS_VOLUME_0_ID,"	关闭音效
+"EFFECTS_VOLUME_1_ID,"	设置音效音量为1
+"EFFECTS_VOLUME_2_ID,"	设置音效音量为2
+"EFFECTS_VOLUME_3_ID,"	设置音效音量为3
+"EFFECTS_VOLUME_4_ID,"	设置音效音量为4
+"EFFECTS_VOLUME_5_ID,"	设置音效音量为5
+"EFFECTS_VOLUME_6_ID,"	设置音效音量为6
+"EFFECTS_VOLUME_7_ID,"	设置音效音量为7
+"EFFECTS_VOLUME_8_ID,"	设置音效音量为8
+"EFFECTS_VOLUME_9_ID,"	设置音效音量为9
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
+"AUTO_CREATURES_ID,"	"{生物}
+
+部队的控制设置为自动战斗"
+"AUTO_SPELLS_ID,"	"{魔法}
+
+在自动战斗中电脑替你的英雄施放魔法"
+"AUTO_CATAPULT_ID,"	"{投石车}
+
+在攻城战中，投石车会自动对城堡的防御工事进行破坏。如果你的弹道术水平够高的话，就可以自己控制投石车的进攻方向。
+
+如果你的英雄会弹道术，在自动战斗时会让电脑控制投石车。"
+"AUTO_BALLISTA_ID,"	"{弩车}
+
+在战斗中，弩车会自动选择敌军目标进行攻击。如果你的炮术水平够高的话，就可以自己控制弩车的进攻方向。
+
+如果你的英雄会炮术，在自动战斗时会让电脑控制弩车。"
+"AUTO_FIRST_AID_TENT_ID,"	"{急救帐篷}
+
+在战斗中，急救帐篷会自动选择你的受伤部队进行医治。如果你的急救术水平够高的话，就可以自己控制急救帐篷。
+
+如果你的英雄会急救术，在自动战斗时会让电脑控制急救帐篷。"
+"ANIMATION_SPEED_0_ID,"	设置动画速度为慢
+"ANIMATION_SPEED_1_ID,"	设置动画速度为中等
+"ANIMATION_SPEED_2_ID,"	设置动画速度为快
+"CREATURE_INFO_STATS_ID,"	"{所有统计数据}
+
+当鼠标指针移动到生物上时，可以显示所有统计数据，包括该生物的受身魔法。"
+"CREATURE_INFO_SPELLS_ID,"	"{仅显示魔法}
+
+当鼠标指针移动到生物上时，仅显示作用在该生物身上的魔法。"
+"VIEW_HEX_ID,"	"{显示六角网格}
+
+在战场上显示六角网格。"
+"MOVEMENT_SHADOW_ID,"	"{移动阴影}
+
+在战场上显示阴影以告知部队的移动范围。"
+"SHADOW_CURSOR_ID,"	"{指针阴影}
+
+鼠标指针所在六角网格将显示阴影。"
+"ANIMATE_SPELLBOOK_ID,"	"{魔法书动画}
+
+魔法书翻页时用动画显示。"
+	
+View Army	View Army																						
+生物名称	生物名称																						
+生物数量	部队中的生物数量																						
+攻击力	攻击力																						
+防御力	防御力																						
+剩余弹药量	剩余弹药量																						
+每次攻击的杀伤力	每次攻击的杀伤力																						
+生命值	生命值																						
+剩余生命值	剩余生命值																						
+速度	速度																						
+士气	士气																						
+运气	运气																						
+受身魔法	受身魔法																						
+解散部队	"{解散部队}
+
+解散选定的部队"																						
+升级部队	"{升级部队}
+
+升级选定的部队"																						
+确认	"{确认}
+
+返回"																						
+																							
+Spell Book	Spell Book																						
+上一页	翻到上一页																						
+下一页	翻到后一页																						
+探险魔法	查看探险魔法																						
+战斗魔法	查看战斗魔法																						
+气系魔法	查看气系魔法																						
+火系魔法	查看火系魔法																						
+水系魔法	查看水系魔法																						
+土系魔法	查看土系魔法																						
+所有魔法	显示所有魔法																						
+魔法值	英雄的剩余魔法值																						
+退出	合上魔法书																						
+																							
+CampaignBrief	CampaignBrief																						
+																							
+CAMPAIGN_NAME	CAMPAIGN_NAME
+CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION
+MAP_NAME	MAP_NAME
+MAP_DESCRIPTION	MAP_DESCRIPTION
+HERO_FACE	HERO_FACE
+更换英雄	点击以更换你的起始英雄
+更换英雄	点击以更换你的起始英雄
+宝物奖励	选择开始时有一件宝物
+黄金奖励	选择开始时有额外的黄金
+资源奖励	选择开始时有额外的资源
+重新开始	"{重新开始}
+
+重新开始当前战役"
+欣赏战役动画	"{欣赏战役动画}
+
+欣赏战役的片头动画"
+ALLY_FLAG1_ID	这是你的颜色
+ALLY_FLAG2_ID	这种颜色的部队是你的盟军
+ALLY_FLAG3_ID	这种颜色的部队是你的盟军
+ALLY_FLAG4_ID	这种颜色的部队是你的盟军
+ALLY_FLAG5_ID	这种颜色的部队是你的盟军
+ALLY_FLAG6_ID	这种颜色的部队是你的盟军
+ALLY_FLAG7_ID	这种颜色的部队是你的盟军
+ALLY_FLAG8_ID	这种颜色的部队是你的盟军
+ENEMY_FLAG1_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG2_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG3_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG4_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG5_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG6_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG7_ID	这种颜色的部队是你的敌人
+ENEMY_FLAG8_ID	这种颜色的部队是你的敌人
+WHICHMAP_ID	这是地图的尺寸
+MAP_AREA_1	MAP_AREA_1
+MAP_AREA_2	MAP_AREA_2
+MAP_AREA_3	MAP_AREA_3
+MAP_AREA_4	MAP_AREA_4
+MAP_AREA_5	MAP_AREA_5
+MAP_AREA_6	MAP_AREA_6
+MAP_AREA_7	MAP_AREA_7
+MAP_AREA_8	MAP_AREA_8
+MAP_AREA_9	MAP_AREA_9
+MAP_AREA_10	MAP_AREA_10
+MAP_AREA_11	MAP_AREA_11
+MAP_AREA_12	MAP_AREA_12
+MAP_AREA_13	MAP_AREA_13
+MAP_AREA_14	MAP_AREA_14
+MAP_AREA_15	MAP_AREA_15
+MAP_AREA_16	MAP_AREA_16
+MAP_AREA_17	MAP_AREA_17
+MAP_AREA_18	MAP_AREA_18
+MAP_AREA_19	MAP_AREA_19
+MAP_AREA_20	MAP_AREA_20																						
+MAP_AREA_21	MAP_AREA_21																						
+MAP_AREA_22	MAP_AREA_22																						
+MAP_AREA_23	MAP_AREA_23																						
+MAP_AREA_24	MAP_AREA_24																						
+MAP_AREA_25	MAP_AREA_25																						
+MAP_AREA_26	MAP_AREA_26																						
+MAP_AREA_27	MAP_AREA_27																						
+MAP_AREA_28	MAP_AREA_28																						
+MAP_AREA_29	MAP_AREA_29																						
+MAP_AREA_30	MAP_AREA_30																						
+MAP_AREA_31	MAP_AREA_31																						
+MAP_AREA_32	MAP_AREA_32																						
+																							
+CampaignWindow	CampaignWindow																						
+																							
+王后万岁	王后万岁		
+解放	解放		
+战争的破坏	战争的破坏		
+父亲之歌	父亲之歌		
+地下城和魔鬼	地下城和魔鬼		
+国王万岁	国王万岁		
+不满的种子	不满的种子		
+末日之刃	末日之刃		
+龙之血	龙之血		
+屠龙英雄	屠龙英雄		
+王位之战	王位之战		
+勇往直前	勇往直前		
+烽火连天	烽火连天		
+光辉岁月	光辉岁月		
+勇者无敌	勇者无敌		
+踏上征途	踏上征途		
+丛林勇士	丛林勇士																						
+死亡阴影	死亡阴影																						
+天使联盟	天使联盟																						
+邪恶重现	邪恶重现																						
+																							
+																							
+ROLLOVER	ROLLOVER																						
+																							
+Recruit	Recruit																						
+最大数量																							
+招募																							
+取消																							
+																							
+Multiplayer	Multiplayer																						
+复选框	点击这里决定输入/不输入名称																						
+输入玩家姓名	输入玩家姓名																						
+确认																							
+返回																							
+输入游戏名																							
+输入口令																							
+游戏名																							
+输入IP地址																							
+																							
+Sacrifice Window	Sacrifice Window																						
+退出(什么都不献祭)。	离开祭坛，祭坛上所有的东西都会还给你。																						
+当前所选宝物																							
+将行囊中所有的宝物放到祭坛上	将行囊中所有的宝物放到祭坛上。																						
+将所有宝物放到祭坛上	将所有宝物，包括已装备和行囊中的，都放到祭坛上。																						
+献祭生物	献祭生物，只适用于邪恶与中立英雄。																						
+生物数量/经验值																							
+当前选中的生物																							
+生物数量/经验值																							
+要献祭的生物数量																							
+设置要献祭的生物数量																							
+献祭最大数量的生物	把最大数量的生物放到祭坛上。																						
+献祭你的英雄军队中的所有生物	把所有生物(只留下一种)放到祭坛上。																						
+献祭宝物	献祭宝物，只适用于正义与中立英雄。																						
+生物数量/经验值																							
+把宝物放在这里献祭																							
+宝物的经验值																							
+献出祭坛上的宝物	献出祭坛上的任何东西，可以获得经验值。																						
+献出祭坛上的生物	献出祭坛上的任何东西，可以获得经验值。																						
+	搜索行囊																						
+	搜索行囊																						
+																							
+Skeleton Transformer	Skeleton Transformer																						
+把所有的生物放进转换场	把所有的生物放进转换场																						
+把转换场中的生物变成丧尸	把转换场中的生物变成丧尸																						
+离开转换场	离开转换场																						
+																							
+Trade Window	Trade Window																						
+交易																							
+最大数量																							
+把资源给另一位玩家																							
+购买宝物																							
+出售生物																							
+退出																							
+																							
+Give Resource Window	Give Resource Window																						
+交易																							
+最大数量																							
+交换资源																							
+购买宝物																							
+退出																							
+																							
+Buy Artifact Window	Buy Artifact Window																						
+交易																							
+交换资源																							
+把资源给另一位玩家																							
+出售宝物																							
+退出																							
+																							
+Sell Artifact Window	Sell Artifact Window																						
+交易																							
+交换资源																							
+把资源给另一位玩家																							
+购买宝物																							
+退出																							
+																							
+Sell Creature Window	Sell Creature Window																						
+交易																							
+最大数量																							
+交换资源																							
+把资源给另一位玩家																							
+退出																							
+																							
+University Window	University Window																						
+取消	返回技能选择																						
+离开学院	离开学院																						
+	学习%s%s，花费%d个金币。																						
+Not used...  filthy bug.																							
+Insert all data before this line. Do not alter or delete this line.																							
+
+
+
+																							

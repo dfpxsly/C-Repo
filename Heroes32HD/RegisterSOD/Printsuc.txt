@@ -1,0 +1,75 @@
+[Title]
+SPATitle=Se imprimió correctamente
+ENGTitle=Print Successful
+ITATitle=Stampa riuscita
+FRETitle=Impression réussie
+DUTTitle=Afdrukken geslaagd
+PORTitle=Impressão bem sucedida
+GERTitle=Drucken war erfolgreich
+SWETitle=Utskriften slutfördes
+DANTitle=Udskrift gennemført
+SPCTitle=Impresión correcta
+FINTitle=Tulostus onnistui 
+NORTitle=Utskriften er fullført
+
+[ENGField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Your information has been printed.  Please Fax or Mail it to the address across the top of the form.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[ITAField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Le informazioni sono state stampate. Inviarle per fax o per posta all'indirizzo specificato nella parte superiore del modulo.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[SPAField Profile]
+Field1="ACEPTAR",defpushbutton,1,77,54,50,14
+Field2="Su información está impresa. Envíela por fax o por correo a la dirección que aparece en la parte superior del formulario.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[FREField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Vos informations ont été imprimées. Veuillez les envoyer par courrier ou télécopie à l’adresse indiquée en haut du formulaire.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+
+[DUTField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Uw gegevens zijn afgedrukt. Fax het formulier of stuur het per post naar het adres dat boven aan het formulier is vermeld.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[PORField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="As informações foram impressas. Favor enviá-las por fax ou correio para o endereço existente na parte de cima do formulário.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[GERField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Ihre Informationen wurden gedruckt. Bitte senden Sie sie per Fax oder per Post an die Adresse oben auf dem Formular.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[SWEField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Din information har skrivits ut.  Faxa eller skicka den till adressen överst på blanketten.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[DANField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Dine oplysninger er blevet udskrevet. Fax eller post dem venligst til adressen øverst på formularen.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[SPCField Profile]
+Field1="ACEPTAR",defpushbutton,1,77,54,50,14
+Field2="Se imprimió su información. Envíela por fax o por correo a la dirección en la parte superior del formulario.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[FINField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Tietosi on tulostettu. Faksaa tai postita ne kaavakkeen yläosassa olevaan osoitteeseen.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+
+[NORField Profile]
+Field1="OK",defpushbutton,1,77,54,50,14
+Field2="Informasjonen er skrevet ut. Send den pr. telefaks eller i posten til adressen øverst på skjemaet.",ltext,-1,48,15,144,35
+Field3="exclamation",icon,300,10,13,64,64
+ 

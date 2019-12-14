@@ -1,0 +1,158 @@
+	1st Creature Stack			2nd Creature Stack			3rd Creature Stack		
+Name	Low	High	Type (reference only)	Low	High	Type (reference only)	Low	High	Type (reference only)
+欧灵	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+威尔斯凯	4	7	LightCrossbowman	4	7	LightCrossbowman	4	7	LightCrossbowman
+艾得力克	10	20	Pikeman	2	3	Griffin	2	3	Griffin
+斯尔维亚	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+罗德-哈特	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+索萨	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+克里斯丁	10	20	Pikeman	1	1	Ballista	2	3	Griffin
+塔里斯	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+瑞恩	10	20	Pikeman	1	1	FirstAidTent	2	3	Griffin
+阿德拉	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+库斯伯特	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+艾德里得	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+因海姆	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+塞亚	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+罗尼斯	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+凯特琳	10	20	Pikeman	4	7	LightCrossbowman	2	3	Griffin
+孟斐拉	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+尤佛瑞汀	3	5	Dwarf	3	5	Dwarf	3	5	Dwarf
+杰诺娃	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+罗伊德	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+索格灵	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+伊沃	12	24	Centaur	3	6	WoodElf	3	6	WoodElf
+克兰	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+凯琳	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+克洛尼斯	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+尤兰德	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+艾丽莎	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+珍尼	12	24	Centaur	1	1	FirstAidTent	3	6	WoodElf
+马尔凯姆	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+马洛迪亚	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+艾拉戈	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+艾丽斯	12	24	Centaur	3	5	Dwarf	3	6	WoodElf
+匹克杰姆	3	5	StoneGargoyle	3	5	StoneGargoyle	3	5	StoneGargoyle
+塞恩	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+琼斯菲尔	30	40	ApprenticeGremlin	2	2	IronGolem	2	3	IronGolem
+妮拉	30	40	ApprenticeGremlin	4	4	StoneGargoyle	2	3	IronGolem
+特洛萨	30	40	ApprenticeGremlin	1	1	Ballista	2	3	IronGolem
+法佛纳	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+瑞萨	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+罗娜	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+艾斯却尔	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+海伦	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+塞瑞纳	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+黛瑞丝	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+塞德洛斯	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+索姆拉	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+塞瑞	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+埃尔尼	30	40	ApprenticeGremlin	3	5	StoneGargoyle	2	3	IronGolem
+斐欧纳	15	25	Imp	3	4	HellHound	3	4	HellHound
+瑞斯卡	15	25	Imp	4	7	Gog	3	4	HellHound
+玛利斯	15	25	Imp	4	7	Gog	3	4	HellHound
+伊格纳蒂斯	15	25	Imp	15	25	Imp	15	25	Imp
+奥格塔维亚	15	25	Imp	4	7	Gog	3	4	HellHound
+卡尔	4	7	Gog	4	7	Gog	4	7	Gog
+斐瑞	15	25	Imp	1	1	Ballista	3	4	HellHound
+纳美斯	15	25	Imp	4	7	Gog	3	4	HellHound
+艾登	15	25	Imp	4	7	Gog	3	4	HellHound
+希瑞尔	15	25	Imp	4	7	Gog	3	4	HellHound
+艾西斯	15	25	Imp	4	7	Gog	3	4	HellHound
+奥力马	15	25	Imp	4	7	Gog	3	4	HellHound
+卡利德	15	25	Imp	4	7	Gog	3	4	HellHound
+艾许	15	25	Imp	4	7	Gog	3	4	HellHound
+泽达	15	25	Imp	4	7	Gog	3	4	HellHound
+夏洛克斯	15	25	Imp	4	7	Gog	3	4	HellHound
+斯强克	4	6	Zombie	4	6	Zombie	4	6	Zombie
+德加尔	20	30	Skeleton	4	6	Zombie	4	6	Wight
+摩多	20	30	Skeleton	4	6	Zombie	4	6	Wight
+查玛	20	30	Skeleton	4	6	Wight	4	6	Wight
+塔米克	20	30	Skeleton	4	6	Zombie	4	6	Wight
+艾莎	20	30	Skeleton	4	6	Zombie	4	6	Wight
+克劳维斯	20	30	Skeleton	4	6	Zombie	4	6	Wight
+凯瑟瑞	20	30	Skeleton	20	30	Skeleton	20	30	Skeleton
+史蒂芬	20	30	Skeleton	4	6	Zombie	4	6	Wight
+艾斯瑞	20	30	Skeleton	4	6	Zombie	4	6	Wight
+山德鲁	20	30	Skeleton	4	6	Zombie	4	6	Wight
+尼姆巴斯	20	30	Skeleton	4	6	Zombie	4	6	Wight
+山特	20	30	Skeleton	4	6	Zombie	4	6	Wight
+希斯	20	30	Skeleton	4	6	Zombie	4	6	Wight
+维德尼娜	20	30	Skeleton	4	6	Zombie	4	6	Wight
+纳格斯	20	30	Skeleton	4	6	Zombie	4	6	Wight
+罗勒雷	4	6	Harpy	4	6	Harpy	4	6	Harpy
+艾拉切	30	40	Troglodyte	1	1	Ballista	3	4	Beholder
+戴斯	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+艾杰特	30	40	Troglodyte	3	4	Beholder	3	4	Beholder
+黛玛克	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+耿纳	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+希力卡	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+莎克特	30	40	Troglodyte	30	40	Troglodyte	30	40	Troglodyte
+艾玛	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+杰格	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+马尔克斯	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+杰德特	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+吉恩	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+蒂玛	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+萨费罗斯	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+达克斯多	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+约克	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+格尼森	15	25	Goblin	1	1	Ballista	4	6	Orc
+杰巴克斯	15	25	Goblin	4	6	Orc	4	6	Orc
+希娃	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+格兰切尔	15	25	Goblin	15	25	Goblin	15	25	Goblin
+克洛林	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+肯洛-哈格	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+塔洛希尔	5	7	GoblinWolfRider	5	7	GoblinWolfRider	5	7	GoblinWolfRider
+哥德	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+维尔	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+德萨	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+特洛克	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+祖宾	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+干德鲁	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+奥力斯	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+塞瑞格	15	25	Goblin	5	7	GoblinWolfRider	4	6	Orc
+布朗	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+鲁肯	10	20	Gnoll	10	20	Gnoll	10	20	Gnoll
+维斯特	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman	4	7	PrimitiveLizardman
+泰泽	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+阿尔金	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+克巴斯	10	20	Gnoll	2	4	SerpentFly	2	4	DragonFly
+格伍夫	10	20	Gnoll	1	1	Ballista	2	4	SerpentFly
+布鲁菲德	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+麦林德	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+罗斯可	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+傅尔	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+威迪斯	10	20	Gnoll	1	1	FirstAidTent	2	4	SerpentFly
+马利斯	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+斯蒂格	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+安洁儿	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+蒂娃	10	20	Gnoll	4	7	PrimitiveLizardman	2	4	SerpentFly
+帕里斯	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+索尔那	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+依格尼萨	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+拉克斯	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+莫奈尔	15	25	Pixies	3	5	Air Elementals	2	3	Air Elementals
+埃德蒙	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+费拉	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+凯尔特	15	25	Pixies	3	5	Water Elementals	1	2	Water Elementals
+露娜	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+博丽斯	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+萨丽尔	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+兰贝斯	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+恩托斯	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+阿奈尔	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+格雷尔	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+格兰登	15	25	Pixies	3	5	Air Elementals	2	3	Water Elementals
+姆拉克爵士	10	20	Pikeman	4	7	Archer	2	3	Griffin
+埃德妮	10	20	Gnoll	4	7	Lizardman	2	4	Serpent Fly
+凯瑟琳	10	20	Pikeman	4	7	Archer	2	3	Griffin
+德肯	6	6	Enchanters	3	3	Enchanters	1	1	Enchanters
+格鲁	6	6	Sharpshooters	3	3	Sharpshooters	1	1	Sharpshooters
+科尔格	15	25	Goblins	5	7	Goblin Wolf Rider	4	6	Orc
+罗德-哈特	20	30	Skeleton	4	6	Zombie	4	6	Wight
+摩莉尔	30	40	Troglodyte	4	6	Harpy	3	4	Beholder
+罗兰德	10	20	Pikeman	4	7	Archer	2	3	Griffin
+巨龙摩莉尔	10	20	Pikeman	4	7	Archer	2	3	Griffin
+伯拉格	10	20	Pikeman	4	7	Archer	2	3	Griffin
+塞尔伦	10	20	Pikeman	4	7	Archer	2	3	Griffin

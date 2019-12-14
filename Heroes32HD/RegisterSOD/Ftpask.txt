@@ -1,0 +1,86 @@
+[Title]
+SPATitle=Registro por Internet
+ENGTitle=Internet Registration
+ITATitle=Registrazione su Internet
+FRETitle=Enregistrement par l’Internet
+DUTTitle=Registratie via Internet
+PORTitle=Registrar via Internet
+GERTitle=Internet-Registrierung
+SWETitle=Registrering via Internet
+DANTitle=Registrering via Internet
+SPCTitle=Inscripción por Internet
+FINTitle=Internet-rekisteröinti
+NORTitle=Internett-registrering
+
+[ENGField Profile]
+Field1="&Yes",defpushbutton,1,51,42,50,14
+Field2="&No",pushbutton,2,138,42,50,14
+Field3="Would you like to try to register via the Internet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[ITAField Profile]
+Field1="&Si",defpushbutton,1,51,42,50,14
+Field2="&No",pushbutton,2,138,42,50,14
+Field3="Effettuare la registrazione tramite Internet (con FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[SPAField Profile]
+Field1="&Sí",defpushbutton,1,51,42,50,14
+Field2="&No",pushbutton,2,138,42,50,14
+Field3="¿Preferiría intentar registrarse mediante la Internet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[FREField Profile]
+Field1="&Oui",defpushbutton,1,51,42,50,14
+Field2="&Non",pushbutton,2,138,42,50,14
+Field3="Souhaitez-vous enregistrer votre produit par l’Internet (FTP) ?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[DUTField Profile]
+Field1="&Ja",defpushbutton,1,51,42,50,14
+Field2="&Nee",pushbutton,2,138,42,50,14
+Field3="Wilt u registreren via Internet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[PORField Profile]
+Field1="&Sim",defpushbutton,1,51,42,50,14
+Field2="&Não",pushbutton,2,138,42,50,14
+Field3="Gostaria de tentar registrar-se via Internet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[GERField Profile]
+Field1="&Ja",defpushbutton,1,51,42,50,14
+Field2="&Nein",pushbutton,2,138,42,50,14
+Field3="Möchten Sie über das Internet (FTP) registrieren?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[SWEField Profile]
+Field1="&Ja",defpushbutton,1,51,42,50,14
+Field2="&Nej",pushbutton,2,138,42,50,14
+Field3="Vill du försöka registrera via Internet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[DANField Profile]
+Field1="&Ja",defpushbutton,1,51,42,50,14
+Field2="&Nej",pushbutton,2,138,42,50,14
+Field3="Vil du prøve at registrere via Internettet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[SPCField Profile]
+Field1="&Si",defpushbutton,1,51,42,50,14
+Field2="&No",pushbutton,2,138,42,50,14
+Field3="¿Prefiere intentar inscribirse por Internet (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[FINField Profile]
+Field1="&Kyllä",defpushbutton,1,51,42,50,14
+Field2="&Ei",pushbutton,2,138,42,50,14
+Field3="Haluatko yrittää rekisteröityä Internetin (FTP) kautta?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+
+[NORField Profile]
+Field1="&Ja",defpushbutton,1,51,42,50,14
+Field2="&Nei",pushbutton,2,138,42,50,14
+Field3="Vil du prøve å registrere via Internett (FTP)?",ltext,-1,35,12,175,16
+Field4="asterisk",icon,200,6,11,64,64
+

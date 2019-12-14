@@ -1,0 +1,169 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+General
+魔法门之英雄无敌III战役编辑器
+"?2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."
+%s版
+Heroes 3 Campaign Files (*.h3c)
+Heroes 3 Campaign
+战役编辑器至少要在16位真彩色的显示模式下运行!
+调试版
+正式版
+确认
+关于战役编辑器
+玩家%d(%s)
+随机城镇
+“%s”无效或已损坏，不能被输入。
+“%s”无法使用，不能被输入。
+“%s”格式无效，不能被输入。
+“%s”是旧的格式，不能被输入。
+"无效的战役文件版本
+
+文件版本=%d
+当前版本=%d"
+战役文件非法或已经损坏!
+"%s已经存在。
+你想覆盖它吗？"
+属性...
+最强大的英雄
+生成的英雄
+和
+随机英雄
+(无)
+容易
+一般
+较难
+专家
+极难
+"Heroes 3 Map Files (*.h3m)
+.h3m"
+序言
+加上序言(&H)
+尾声
+加上尾声(&H)
+场景属性
+%s魔法
+将%s交给%s
+在主城中建造%s
+接受%d%s
+取消
+帮助
+"Text Files (*.txt)
+.txt"
+"Unable to import ""%s""."
+"Successfully imported ""%s""."
+名称
+简介
+场景简介
+序言
+尾声
+Campaign Properties Dialog
+战役属性
+地图：
+名称(&N)：
+描述(&D)
+场景难度可以由玩家选择(&S)
+主题音乐(&T)：
+战役版本
+末日之刃(&A)
+死亡阴影(&S)
+Edit Hero Crossover Option Dialog
+编辑跨场景英雄选项
+源场景
+玩家位置(&P)：
+Edit Starting Bonus Type Dialog
+编辑初始奖励
+选择奖励类型：
+魔法(&S)
+生物(&C)
+建筑(&B)
+宝物(&A)
+魔法卷轴(&E)
+基本技能(&P)
+辅助技能(&O)
+资源(&R)
+接受者：
+宝物：
+生物类型：
+数量：
+建筑：
+魔法：
+攻击技能：
+防御技能：
+魔法力量：
+知识：
+基本技能：
+掌握程度：
+资源类型：
+Edit Starting Hero Option Dialog
+编辑起始英雄选项
+英雄的身份(&H)：
+玩家位置(&P)：
+New Campaign Dialog
+新的战役
+战役地图(&M)：
+战役版本
+末日之刃(&A)
+死亡阴影(&S)
+Scenario Properties Crossover Page
+跨场景选项
+跨场景英雄保留：
+经验值(&E)
+基本技能(&P)
+辅助技能(&O)
+魔法(&S)
+宝物(&A)
+生物类型(&C)：
+所有(&l)
+无(&N)
+跨场景宝物(&R)：
+Scenario Properties General Page
+常规
+地区名称：
+地区颜色(&C)：
+场景名称：
+地图文件
+输入(&I)...
+更新(&F)...
+输出(&E)...
+删除(&R)
+默认的难度等级(&D)：
+先决条件(&P)
+地区鼠标右键文本(&G)：
+Scenario Properties Prologue Page
+电影(&O)：
+音乐(&U)：
+信息(&M)：
+Scenario Properties Starting Options Page
+初始选项
+初始选项是：
+初始奖励选项(&S)
+跨场景英雄选项(&C)
+初始英雄选项(&H)
+玩家的位置(&P)
+初始奖励选项(&O)
+添加(&A)...
+编辑(&E)...
+删除(&R)
+源场景
+英雄
+Main Menu Text
+文件(&F)
+编辑(&E)	
+帮助(&H)	
+File Menu	
+新建(&N)...	Ctrl+N
+打开(&O)...	Ctrl+O
+保存(&S)	Ctrl+S
+另存为(&A)...	
+输出文本(&X)...	
+更新文本(&I)...	
+更新场景地图(&R)	Ctrl+R
+输出场景地图(&E)	Ctrl+E
+最近的文件	
+退出(&X)	
+Edit Menu	
+战役属性(&C)...	Ctrl+Enter
+场景属性(&S)...	Enter
+Help Menu
+帮助主题(&H)
+关于战役编辑器(&A)...

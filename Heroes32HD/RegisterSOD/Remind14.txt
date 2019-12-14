@@ -1,0 +1,133 @@
+[Title]
+SPATitle=Recordatorio de registro
+ENGTitle=Registration Reminder
+ITATitle=Si rammenta di effettuare la registrazione
+FRETitle=Rappel concernant l’enregistrement
+DUTTitle=Herinnering betreffende registratie
+PORTitle=Lembrete de registro
+GERTitle=Registrierungsaufruf
+SWETitle=Registreringspåminnelse
+DANTitle=Påmindelse om registrering
+SPCTitle=Aviso de inscripción
+FINTitle=Rekisteröintimuistutus 
+NORTitle=Påminnelse om registrering
+
+[ENGField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="You will be reminded in one week.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[ENGField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="You will be reminded in two weeks.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[ITAField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Si rammenterà all'utente tra una settimana.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[ITAField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Si rammenterà all'utente tra due settimane.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[SPAField Profile]
+Field1="ACEPTAR",defpushbutton,1,102,40,50,14
+Field2="Se le recordará en una semana.",ltext,-1,38,24,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[SPAField Profile2]
+Field1="ACEPTAR",defpushbutton,1,102,40,50,14
+Field2="Se le recordará en dos semanas.",ltext,-1,38,24,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[FREField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Vous recevrez un rappel dans une semaine.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[FREField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Vous recevrez un rappel dans deux semaines.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[DUTField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="U wordt er over een week aan herinnerd dat u nog dient te registreren.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[DUTField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="U wordt er over twee weken aan herinnerd dat u nog dient te registreren.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[PORField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Novo lembrete em uma semana.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[PORField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Novo lembrete em duas semanas.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[GERField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Sie werden in einer Woche erneut aufgefordert.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[GERField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Sie werden in zwei Wochen erneut aufgefordert.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[SWEField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Du kommer att få en påminnelse om en veckas tid.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[SWEField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Du kommer att få en påminnelse om två veckor.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[DANField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Du vil blive mindet om en uge.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[DANField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Du vil blive mindet om to uger.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[SPCField Profile]
+Field1="ACEPTAR",defpushbutton,1,102,40,50,14
+Field2="Se le recordará en una semana.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[SPCField Profile2]
+Field1="ACEPTAR",defpushbutton,1,102,40,50,14
+Field2="Se le recordará en dos semanas.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[FINField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Saat muistutuksen viikon kuluttua.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[FINField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Saat muistutuksen kahden viikon kuluttua.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[NORField Profile]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Du får en påminnelse om én uke.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64
+
+[NORField Profile2]
+Field1="OK",defpushbutton,1,102,40,50,14
+Field2="Du får en påminnelse om to uker.",ltext,-1,42,16,180,16
+Field3="asterisk",icon,300,10,13,64,64

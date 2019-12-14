@@ -1,0 +1,39 @@
+
+[ENGField Profile]
+Field1=May we use your Internet connection to register?
+
+[FREField Profile]
+Field1=Pouvons-nous utiliser votre connexion à l'Internet pour enregistrer ?
+
+[ITAField Profile]
+Field1=Possiamo usare il vostro collegamento Internet per la registrazione?
+
+[GERField Profile]
+Field1=Dürfen wir Ihre Internetverbindung zum Registrieren benutzen?
+
+[SPAField Profile]
+Field1=¿Podemos usar su conexión a la Internet para el registro?
+
+[SPCField Profile]
+Field1=¿Podemos usar su conexión a la Internet para la inscripción?
+
+[PORField Profile]
+Field1=Podemos usar sua conexão com a Internet para registrar?
+
+[DUTField Profile]
+Field1=Mogen we uw Internet-verbinding gebruiken voor de registratie?.
+
+[DANField Profile]
+Field1=Må vi bruge din Internet forbindelse til at registrere dig?
+
+[SWEField Profile]
+Field1=Kan vi använda din Internetanslutning till att registrera?
+
+[NORField Profile]
+Field1=Kan vi utføre registrering ved hjelp av Internettforbindelsen din?
+
+[FINField Profile]
+Field1=Voimmeko käyttää Internet-yhteyttäsi rekisteröintiin?
+
+
+

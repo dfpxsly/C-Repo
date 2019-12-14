@@ -1,0 +1,48 @@
+
+[ENGField Profile]
+Field1=Connecting to AOL...Please press OK once connection is established.  Please remember to disconnect from AOL after you have finished registering.
+Field2=Please remember to disconnect from AOL after you have finished registering.
+
+[FREField Profile]
+Field1=Connexion à AOL... Veuillez appuyer sur OK une fois la connexion établie. N'oubliez pas de déconnecter de AOL une fois l'enregistrement terminé.
+Field2=N'oubliez pas de déconnecter de AOL une fois l'enregistrement terminé.
+
+[ITAField Profile]
+Field1=In fase di collegamento con AOL... Una volta collegati, premere OK. Terminata la registrazione, scollegarsi.
+Field2=Una volta collegati, premere OK. Terminata la registrazione, scollegarsi.
+
+[GERField Profile]
+Field1=Verbindung mit AOL wird hergestellt...Bitte drücken Sie auf "OK" nachdem die Verbindung aufgebaut wurde. Bitte vergessen Sie nicht, sich abzumelden, nachdem Sie die Registrierung beendet haben.
+Field2=Bitte drücken Sie auf "OK" nachdem die Verbindung aufgebaut wurde. Bitte vergessen Sie nicht, sich abzumelden, nachdem Sie die Registrierung beendet haben.
+
+[SPAField Profile]
+Field1=Conectando a AOL... Oprima ACEPTAR cuando se establezca la conexión. Recuerde desconectarse de AOL luego de terminar el registro.
+Field2=Oprima ACEPTAR cuando se establezca la conexión. Recuerde desconectarse de AOL luego de terminar el registro.
+
+[SPCField Profile]
+Field1=Conectando a AOL... Oprima ACEPTAR cuando se establezca la conexión. Recuerde desconectarse de AOL luego de terminar la inscripción.
+Field2=Oprima ACEPTAR cuando se establezca la conexión. Recuerde desconectarse de AOL luego de terminar la inscripción.
+
+[PORField Profile]
+Field1=Conectando-se com a AOL... Favor pressionar OK quando a conexão tiver sido estabelecida. Lembre-se de desconectar-se da AOL após concluir o registro.
+Field2=Favor pressionar OK quando a conexão tiver sido estabelecida. Lembre-se de desconectar-se da AOL após concluir o registro.
+
+[DUTField Profile]
+Field1=Bezig verbinding te maken met AOL... Druk op OK wanneer de verbinding tot stand is gebracht. Vergeet niet uw AOL-verbinding weer te verbreken wanneer u klaar bent met de registratie.
+Field2=Druk op OK wanneer de verbinding tot stand is gebracht. Vergeet niet uw AOL-verbinding weer te verbreken wanneer u klaar bent met de registratie.
+
+[DANField Profile]
+Field1=Etablerer forbindelse med AOL...Tryk på OK, når forbindelsen er etableret. Husk at afbryde fra AOL, efter du er færdig med at registrere.
+Field2=Tryk på OK, når forbindelsen er etableret. Husk at afbryde fra AOL, efter du er færdig med at registrere.
+
+[SWEField Profile]
+Field1=Ansluter till AOL...Tryck på OK när anslutningen har upprättats. Kom ihåg att koppla från AOL när registreringen har slutförts.
+Field2=Tryck på OK när anslutningen har upprättats. Kom ihåg att koppla från AOL när registreringen har slutförts.
+
+[NORField Profile]
+Field1=Kobler til AOL ... Trykk på OK når det er opprettet forbindelse. Husk å koble fra AOL etter at du er ferdig med registreringen.
+Field2=Trykk på OK når det er opprettet forbindelse. Husk å koble fra AOL etter at du er ferdig med registreringen.
+
+[FINField Profile]
+Field1=Yhdistetään AOL:ään...Paina OK, kun yhteys on muodostettu. Muista katkaista yhteys AOL:ään, kun olet rekisteröitynyt.
+Field2=Paina OK, kun yhteys on muodostettu. Muista katkaista yhteys AOL:ään, kun olet rekisteröitynyt.

@@ -1,0 +1,63 @@
+
+[ENGField Profile]
+Field1=Register Now
+Field2=button.bmp
+Field3=welcome.bmp
+
+[FREField Profile]
+Field1=Enregistrer maintenant
+Field2=button.bmp
+Field3=welcome.bmp
+
+[ITAField Profile]
+Field1=Effettua la registrazione ora
+Field2=button.bmp
+Field3=welcome.bmp
+
+[GERField Profile]
+Field1=Jetzt registrieren
+Field2=button.bmp
+Field3=welcome.bmp
+
+[SPAField Profile]
+Field1=Registrar ahora
+Field2=button.bmp
+Field3=welcome.bmp
+
+[SPCField Profile]
+Field1=Inscribir ahora
+Field2=button.bmp
+Field3=welcome.bmp
+
+[PORField Profile]
+Field1=Registrar-se agora
+Field2=button.bmp
+Field3=welcome.bmp
+
+[DUTField Profile]
+Field1=Nu registreren
+Field2=button.bmp
+Field3=welcome.bmp
+
+[DANField Profile]
+Field1=Registrer nu
+Field2=button.bmp
+Field3=welcome.bmp
+
+[SWEField Profile]
+Field1=Registrera nu
+Field2=button.bmp
+Field3=welcome.bmp
+
+[NORField Profile]
+Field1=Registrer nå
+Field2=button.bmp
+Field3=welcome.bmp
+
+[FINField Profile]
+Field1=Rekisteröi nyt 
+Field2=button.bmp
+Field3=welcome.bmp
+
+
+

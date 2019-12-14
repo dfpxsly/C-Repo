@@ -1,0 +1,107 @@
+[Title]
+SPATitle=XXX
+ENGTitle=XXX
+ITATitle=XXX
+FRETitle=XXX
+DUTTitle=XXX
+PORTitle=XXX
+GERTitle=XXX
+SWETitle=XXX
+DANTitle=XXX
+SPCTitle=XXX
+FINTitle=XXX
+NORTitle=XXX
+
+
+[ENGField Profile]
+Field1="&Register Now",defpushbutton,4,35,75,60,14
+Field2="E&xit",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="You will not have another opportunity to register if you exit now.",ltext,-1,36,15,140,16
+Field5="Please press the 'Register Now' button to finish your registration.",ltext,-1,36,38,140,18
+
+[ITAField Profile]
+Field1="Effettua la &registrazione ora",defpushbutton,4,15,75,100,14
+Field2="&Esci",pushbutton,1,127,75,50,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Non ci saranno altre opportunità di effettuare la registrazione se si esce ora.",ltext,-1,36,15,140,24
+Field5="Premere il pulsante ‘Effettua la registrazione ora’ per finire la registrazione.",ltext,-1,36,42,140,24
+
+[SPAField Profile]
+Field1="&Registrar ahora",defpushbutton,4,35,75,60,14
+Field2="&Salir",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="No tendrá otra oportunidad para registrarse si sale ahora.",ltext,-1,36,15,140,24
+Field5="Por favor pulse el botón ''Registrar ahora'' para terminar su registro.",ltext,-1,36,42,140,24
+
+[FREField Profile]
+Field1="&Enregistrer maintenant",defpushbutton,4,20,75,90,14
+Field2="&Quitter",pushbutton,1,120,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Vous ne pourrez pas enregistrer ultérieurement ce produit si vous sortez à cet instant. ",ltext,-1,36,15,140,24
+Field5="Veuillez appuyer sur le bouton ‘Enregistrer maintenant’ pour terminer votre enregistrement.",ltext,-1,36,42,140,24
+
+[DUTField Profile]
+Field1="Nu &registreren",defpushbutton,4,35,75,60,14
+Field2="&Afsluiten",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="U krijgt geen kans meer om te registreren als u 'Afsluiten' kiest.",ltext,-1,36,15,140,24
+Field5="Druk op 'Nu registreren' om de registratie te voltooien.",ltext,-1,36,42,140,24
+
+[PORField Profile]
+Field1="&Registrar-se agora",defpushbutton,4,20,75,90,14
+Field2="&Sair",pushbutton,1,120,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Você não terá outra oportunidade de se registrar se interromper agora.",ltext,-1,36,15,140,24
+Field5="Favor pressionar o botão ‘Registrar-se agora’ para completar o registro.",ltext,-1,36,42,140,24
+
+
+[GERField Profile]
+Field1="Jetzt &registrieren",defpushbutton,4,35,75,60,14
+Field2="&Beenden",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Wenn Sie die Registrierung jetzt beenden, haben Sie keine weitere Gelegenheit zu registrieren.",ltext,-1,36,15,140,24
+Field5="Bitte klicken Sie zum Beenden der Registrierung auf die Schaltfläche 'Jetzt registrieren'.",ltext,-1,36,42,140,24
+
+[SWEField Profile]
+Field1="&Registrera nu",defpushbutton,4,35,75,60,14
+Field2="&Avbryt",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Om du avbryter nu kan du inte längre registrera.",ltext,-1,36,15,140,24
+Field5="Tryck på knappen 'Registrera nu' för att avsluta registreringen",ltext,-1,36,42,140,24
+
+[DANField Profile]
+Field1="&Registrer nu",defpushbutton,4,35,75,60,14
+Field2="&Afslut",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Du vil ikke få nogen anden lejlighed til at registrere, hvis du afslutter nu.",ltext,-1,36,15,140,16
+Field5="Klik venligst på knappen 'Registrer nu' for at færdiggøre registreringen.",ltext,-1,36,38,140,18
+
+[SPCField Profile]
+Field1="&Inscribirse ahora",defpushbutton,4,35,75,60,14
+Field2="&Salir",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="No tendrá otra oportunidad para inscribirse si sale ahora.",ltext,-1,36,15,140,16
+Field5="Se ruega pulse el botón ''Inscribirse ahora'' para terminar su inscripción.",ltext,-1,36,38,140,18
+
+[FINField Profile]
+Field1="&Rekisteröi nyt",defpushbutton,4,35,75,60,14
+Field2="&Lopeta",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Et saa toista rekisteröintimahdollisuutta, jos lopetat nyt.",ltext,-1,36,15,140,16
+Field5="Suorita rekisteröinti loppuun napsauttamalla 'Rekisteröi nyt' -painiketta.",ltext,-1,36,38,140,18
+
+[NORField Profile]
+Field1="&Registrer nå",defpushbutton,4,35,75,60,14
+Field2="&Avslutt",pushbutton,1,105,75,60,14
+Field3="asterisk",icon,300,10,13,64,64
+Field4="Du får ingen annen mulighet til å registrere hvis du avslutter nå.",ltext,-1,36,15,140,16
+Field5="Trykk på knappen 'Registrer nå' for å fullføre registreringen.",ltext,-1,36,38,140,18
+
+
+
+
+
+
+
+ 

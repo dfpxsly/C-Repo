@@ -1,0 +1,4 @@
+[Defaults]
+FirstScreen=setup
+RemindSection=Register
+Regrmdr=$(HOME)\ITP32.EXE REGRMDR.SEQ

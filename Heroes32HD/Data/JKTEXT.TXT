@@ -1,0 +1,46 @@
+Hero Window
+攻击力
+防御力
+力量
+知识
+{特长}
+{经验值}
+{魔法值}
+"冒险
+日志"
+"解雇
+英雄"
+Overview Window
+每日金币
+Shipyard Window
+建造新船
+资源耗费：
+Thieves Guild Window
+第一
+第二
+第三
+第四
+第五
+第六
+第七
+第八
+城镇数量
+英雄数量
+黄金
+木材和矿石
+水银、硫磺、水晶和宝石
+找到的方尖塔
+宝物
+王国军队实力
+收入
+最强的英雄
+个性
+最强的怪物
+Tavern Window
+酒馆
+可雇用英雄
+Town Gate Window
+城门
+选择目标城镇
+Blacksmith Window
+资源耗费：

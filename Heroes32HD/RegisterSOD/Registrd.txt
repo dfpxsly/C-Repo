@@ -1,0 +1,75 @@
+[Title]
+SPATitle=XXX
+ENGTitle=XXX
+ITATitle=XXX
+FRETitle=XXX
+DUTTitle=XXX
+PORTitle=XXX
+GERTitle=XXX
+SWETitle=XXX
+DANTitle=XXX
+SPCTitle=XXX
+FINTitle=XXX
+NORTitle=XXX
+
+[ENGField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="You have already completed this registration.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[ITAField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="La registrazione è già stata completata.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[SPAField Profile]
+Field1="ACEPTAR",defpushbutton,1,100,45,50,14
+Field2="Ha terminado este registro.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+
+[FREField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Vous avez déjà terminé cet enregistrement.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[DUTField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="U bent al geregistreerd.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[PORField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Seu registro já está completo.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[GERField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Sie haben diese Registrierung bereits abgeschlossen.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[SWEField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Du har redan genomfört registreringen.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+
+[DANField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Du har allerede gennemført denne registrering.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[SPCField Profile]
+Field1="ACEPTAR",defpushbutton,1,100,45,50,14
+Field2="Ya ha terminado esta inscripción.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[FINField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Olet jo suorittanut tämän rekisteröinnin.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64
+
+[NORField Profile]
+Field1="OK",defpushbutton,1,100,45,50,14
+Field2="Du har allerede fylt ut denne registreringen.",ltext,-1,36,18,180,24
+Field3="asterisk",icon,300,10,13,64,64

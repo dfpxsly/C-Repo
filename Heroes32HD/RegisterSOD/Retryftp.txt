@@ -1,0 +1,89 @@
+[Title]
+SPATitle=Transferencia de datos errada
+ENGTitle=Data Transfer Failure
+ITATitle=Trasferimento di dati non riuscito
+FRETitle=Échec du transfert des données
+DUTTitle=Gegevensoverdracht mislukt
+PORTitle=Tranferência de dados mal sucedida
+GERTitle=Datenübertragungsfehler
+SWETitle=Dataöverföringsfel
+DANTitle=Dataoverførsel mislykkedes
+SPCTitle=Transferencia de datos errónea
+FINTitle=Tiedonsiirto epäonnistui 
+NORTitle=Feil under dataoverføring
+
+[ENGField Profile]
+Field1="&Yes",defpushbutton,10,38,47,50,14
+Field2="&No",pushbutton,2,105,47,50,14
+Field3="Your Internet registration did not go through.  Do you wish to retry?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[ITAField Profile]
+Field1="&Sì",defpushbutton,10,38,47,50,14
+Field2="&No",pushbutton,2,105,47,50,14
+Field3="La registrazione su Internet non è riuscita. Riprovare?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[SPAField Profile]
+Field1="&Sí",defpushbutton,10,38,47,50,14
+Field2="&No",pushbutton,2,105,47,50,14
+Field3="Su registro por Internet no fue aceptado. ¿Desea reintentarlo?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[FREField Profile]
+Field1="&Oui",defpushbutton,10,38,47,50,14
+Field2="&Non",pushbutton,2,105,47,50,14
+Field3="Votre enregistrement par l’Internet n’a pas réussi. Souhaitez-vous essayer de nouveau ?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[DUTField Profile]
+Field1="&Ja",defpushbutton,10,38,47,50,14
+Field2="&Nee",pushbutton,2,105,47,50,14
+Field3="U bent er niet in geslaagd om via Internet te registreren. Wilt u het nogmaals proberen?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[PORField Profile]
+Field1="&Sim",defpushbutton,10,38,47,50,14
+Field2="&Não",pushbutton,2,105,47,50,14
+Field3="Seu registro via Internet não foi recebido. Deseja tentar novamente?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[GERField Profile]
+Field1="&Ja",defpushbutton,10,38,47,50,14
+Field2="&Nein",pushbutton,2,105,47,50,14
+Field3="Fehler bei der Internetregistrierung. Möchten Sie den Vorgang wiederholen?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[SWEField Profile]
+Field1="&Ja",defpushbutton,10,38,47,50,14
+Field2="&Nej",pushbutton,2,105,47,50,14
+Field3="Din Internet-registrering misslyckades. Vill du försöka igen?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+ 
+
+[DANField Profile]
+Field1="&Ja",defpushbutton,10,38,47,50,14
+Field2="&Nej",pushbutton,2,105,47,50,14
+Field3="Internet-registreringen gik ikke igennem. Vil du forsøge igen?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[SPCField Profile]
+Field1="&Sí",defpushbutton,10,38,47,50,14
+Field2="&No",pushbutton,2,105,47,50,14
+Field3="Su inscripción por Internet no fue aceptada. ¿Desea reintentar?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+[FINField Profile]
+Field1="&Kyllä",defpushbutton,10,38,47,50,14
+Field2="&Ei",pushbutton,2,105,47,50,14
+Field3="Internet-rekisteröintisi ei onnistunut. Haluatko yrittää uudelleen?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+
+
+[NORField Profile]
+Field1="&Ja",defpushbutton,10,38,47,50,14
+Field2="&Nei",pushbutton,2,105,47,50,14
+Field3="Internett-registreringen mislyktes. Vil du prøve på nytt?",ltext,-1,35,15,131,24
+Field4="exclamation",icon,300,5,18,25,23
+

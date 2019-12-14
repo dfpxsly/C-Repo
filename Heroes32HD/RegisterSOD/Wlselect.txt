@@ -1,0 +1,72 @@
+
+[ENGField Profile]
+Field1=OK
+Field2=&Cancel
+Field3=Please select an Internet service provider.
+Field4=We had trouble connecting!  Please select another Internet service provider.
+
+[FREField Profile]
+Field1=OK
+Field2=&Annuler
+Field3=Veuillez sélectionner un fournisseur de service Internet.
+Field4=Nous avons des difficultés à connecter !  Veuillez sélectionner un autre fournisseur de service Internet.
+
+[ITAField Profile]
+Field1=OK
+Field2=&Annulla
+Field3=Selezionare un servizio di collegamento Internet.
+Field4=Abbiamo avuto problemi a collegarci! Selezionare un altro servizio di collegamento Internet!
+
+[GERField Profile]
+Field1=OK
+Field2=&Abbrechen
+Field3=Bitte einen Internet-Dienstanbieter auswählen.
+Field4=Wir hatten Schwierigkeiten die Verbindung herzustellen! Bitte einen anderen Internet-Dienstanbieter auswählen.
+
+[SPAField Profile]
+Field1=ACEPTAR
+Field2=&Cancelar
+Field3=Seleccione un proveedor de servicios de Internet.
+Field4=¡Tuvimos problemas para conectarnos! Seleccione otro proveedor de servicios de Internet.
+
+[SPCField Profile]
+Field1=ACEPTAR
+Field2=&Anular
+Field3=Seleccione un proveedor de servicios de Internet.
+Field4=¡Tuvimos problemas para conectarnos! Seleccione otro proveedor de servicios de Internet.
+
+[PORField Profile]
+Field1=OK
+Field2=&Cancelar
+Field3=Favor selecionar um provedor de Internet.
+Field4=Tivemos dificuldades para conectar! Favor selecionar outro provedor de Internet.
+
+[DUTField Profile]
+Field1=OK
+Field2=&Annuleren
+Field3=Kies een Internet-aanbieder.
+Field4=Problemen met verbinding maken! Kies a.u.b. een andere Internet-aanbieder.
+
+[DANField Profile]
+Field1=OK
+Field2=&Annuller
+Field3=Vælg en Internet serviceudbyder.
+Field4=Vi kunne ikke få forbindelse! Vælg en anden serviceudbyder.
+
+[SWEField Profile]
+Field1=OK
+Field2=&Avbryt
+Field3=Välj Internetleverantör.
+Field4=Vi hade problem med att ansluta! Välj en annan Internetleverantör.
+
+[NORField Profile]
+Field1=OK
+Field2=&Avbryt
+Field3=Velg en Internettleverandør.
+Field4=Vi hadde tilkoblingsproblemer! Velg en annen Internettleverandør.
+
+[FINField Profile]
+Field1=OK
+Field2=&Peruuta
+Field3=Valitse Internet-palveluntarjoaja.
+Field4=Yhteyden muodostamisessa ilmeni ongelmia! Valitse toinen Internet-palveluntarjoaja.

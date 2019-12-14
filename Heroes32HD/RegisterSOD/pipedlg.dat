@@ -1,0 +1,25 @@
+[Setup]
+Web=0
+LocalSurvey=1
+Modem=1
+FTP=1
+Print=1
+Remind=1
+[Defaults]
+Identity=0
+Cancel=0
+Exitcode=1
+[Register]
+SetLanguage=ENG
+RemindOnly=0
+599=H3 The Shadow of Death(TM)
+login=tdo41001
+[System]
+SetLanguage=ENG
+Engineer=DB
+Build=tdo40401d
+RegRemd=0
+preload=1
+[preload]
+599=H3 The Shadow of Death(TM)
+login=tdo41001

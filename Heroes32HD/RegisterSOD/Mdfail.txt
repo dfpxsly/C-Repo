@@ -1,0 +1,90 @@
+[Title]
+SPATitle=Diagnóstico del módem
+ENGTitle=Modem Diagnostics
+ITATitle=Diagnostica del modem
+FRETitle=Diagnostics du modem
+DUTTitle=Modemdiagnostiek
+PORTitle=Diagnóstico de modem
+GERTitle=Modemdiagnose
+SWETitle=Modemdiagnostik
+DANTitle=Modemdiagnose
+SPCTitle=Diagnóstico del módem
+FINTitle=Modeemin diagnostiikka 
+NORTitle=Modemdiagnose
+
+[ENGField Profile]
+Field1="&Retry",defpushbutton,10,48,67,50,14
+Field2="&Continue",pushbutton,2,140,67,50,14
+Field3="We did not detect a modem on your system.",ltext,-1,17,15,207,24
+Field4="You can select ‘Retry’ to attempt modem registration again or ‘Continue’ to receive other registration options.",ltext,-1,17,30,207,24
+
+[ITAField Profile]
+Field1="&Riprova",defpushbutton,10,48,67,50,14
+Field2="&Continua",pushbutton,2,140,67,50,14
+Field3="Non si è riscontrato alcun modem sul proprio sistema.",ltext,-1,17,15,207,24
+Field4="Si può selezionare 'Riprova' per tentare di effettuare di nuovo la registrazione del modem oppure 'Continua' per ottenere ulteriori opzioni per la registrazione.",ltext,-1,17,30,207,24
+
+[SPAField Profile]
+Field1="&Reintentar",defpushbutton,10,48,67,50,14
+Field2="&Continuar",pushbutton,2,140,67,50,14
+Field3="No detectamos un módem en su sistema.",ltext,-1,17,15,207,24
+Field4="Puede seleccionar ''Reintentar'' para volver a intentar enviar el registro por módem o ''Continuar'' para recibir otras opciones de registro.",ltext,-1,17,30,207,24
+
+[FREField Profile]
+Field1="&Répéter",defpushbutton,10,48,67,50,14
+Field2="&Continuer",pushbutton,2,140,67,50,14
+Field3="Nous n’avons pas détecté de modem sur votre système.",ltext,-1,17,15,207,24
+Field4="Vous pouvez sélectionner ‘Répéter’ pour tenter d’enregistrer de nouveau votre modem ou ‘Continuer’ pour recevoir d’autres options d’enregistrement.",ltext,-1,17,30,207,24
+
+[DUTField Profile]
+Field1="&Nogmaals",defpushbutton,10,48,67,50,14
+Field2="&Doorgaan",pushbutton,2,140,67,50,14
+Field3="Er is geen modem op uw systeem gevonden.",ltext,-1,17,15,207,24
+Field4="Selecteer 'Nogmaals' voor een nieuwe poging om via de modem te registreren of 'Doorgaan' voor andere registratiemogelijkheden.",ltext,-1,17,30,207,24
+
+[PORField Profile]
+Field1="&Tentar de novo",defpushbutton,10,35,67,65,14
+Field2="&Continuar",pushbutton,2,140,67,50,14
+Field3="Não foi detectado um modem em seu computador.",ltext,-1,17,15,207,24
+Field4="Selecione 'Tentar de novo' para tentar fazer o registro novamente ou 'Continuar' para ver outras opções de registro.",ltext,-1,17,30,207,24
+
+[GERField Profile]
+Field1="&Wiederholen",defpushbutton,10,48,67,50,14
+Field2="&Fortsetzen",pushbutton,2,140,67,50,14
+Field3="Es wurde kein installiertes Modem gefunden.",ltext,-1,17,15,207,24
+Field4="Wählen Sie 'Wiederholen', um die Registrierung erneut über das Modem zu versuchen, oder wählen Sie 'Fortsetzen', um von weiteren Registrierungsoptionen wählen zu können.",ltext,-1,17,30,207,24
+
+[SWEField Profile]
+Field1="Försök &igen",defpushbutton,10,48,67,50,14
+Field2="&Fortsätt",pushbutton,2,140,67,50,14
+Field3="Vi kan inte hitta något modem på ditt system.",ltext,-1,17,15,207,24
+Field4="Markera 'Försök igen' för att försöka utföra modemregistreringen på nytt eller 'Fortsätt' för ytterligare registreringsalternativ.",ltext,-1,17,30,207,24
+
+[DANField Profile]
+Field1="Forsøg &igen",defpushbutton,10,48,67,50,14
+Field2="&Fortsæt",pushbutton,2,140,67,50,14
+Field3="Der blev ikke fundet et modem på systemet.",ltext,-1,17,15,207,24
+Field4="Du kan vælge 'Forsøg igen' for at forsøge modemregistreringen igen eller 'Fortsæt' for at få andre registreringsmuligheder.",ltext,-1,17,30,207,24
+
+[SPCField Profile]
+Field1="&Reintentar",defpushbutton,10,48,67,50,14
+Field2="&Continuar",pushbutton,2,140,67,50,14
+Field3="No detectamos un módem en su sistema.",ltext,-1,17,15,207,24
+Field4="Puede seleccionar ''Reintentar'' para reintentar la inscripción por módem o ''Continuar'' para recibir otras opciones de inscripción.",ltext,-1,17,30,207,24
+
+[FINField Profile]
+Field1="&Yritä uudelleen ",defpushbutton,10,48,67,58,14
+Field2="&Jatka",pushbutton,2,140,67,50,14
+Field3="Järjestelmästäsi ei löytynyt modeemia.",ltext,-1,17,15,207,24
+Field4="Voit yrittää modeemirekisteröintiä uudelleen valitsemalla 'Yritä uudelleen' tai valitse 'Jatka' käyttääksesi muita rekisteröintivaihtoehtoja.",ltext,-1,17,30,207,24
+
+[NORField Profile]
+Field1="&Prøv på nytt",defpushbutton,10,48,67,50,14
+Field2="&Fortsett",pushbutton,2,140,67,50,14
+Field3="Vi registrerte ikke noe modem på systemet ditt. ",ltext,-1,17,15,207,24
+Field4="Du kan velge 'Prøv på nytt' hvis du vil prøve å registrere pr. modem på nytt, eller 'Fortsett' for å få andre registreringsalternativer.",ltext,-1,17,30,207,24
+
+
+
+
+ 

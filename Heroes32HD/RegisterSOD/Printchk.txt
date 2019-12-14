@@ -1,0 +1,232 @@
+[Title]
+SPATitle=Imprimir registro
+ENGTitle=Print Registration
+ITATitle=Stampa registrazione
+FRETitle=Impression de l’enregistrement
+DUTTitle=Registratie afdrukken
+PORTitle=Imprimir registro
+GERTitle=Registrierung drucken
+SWETitle=Skriv ut registreringen
+DANTitle=Udskriv registrering
+SPCTitle=Imprimir inscripción
+FINTitle=Tulosta rekisteröinti
+NORTitle=Skrive ut registrering
+
+
+;NOTE: For the following Field Profile sections, [XXXField Profile2] will be used only if Remind=1 -- AZ
+
+[ENGField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Retry",pushbutton,2,102,80,50,14
+Field3="&Cancel",pushbutton,3,175,80,50,14
+Field4="Did your registration print properly? If Yes, press 'OK' to continue. Please fax or mail your registration to the address across the top of the form.",ltext,-1,35,12,200,24
+Field5="If No, please press 'Retry' to try again. If you cannot print at this time due to printer problems, press 'Cancel' to exit the registration.",ltext,-1,35,45,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[ENGField Profile2]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Retry",pushbutton,2,102,80,50,14
+Field3="&Cancel",pushbutton,3,175,80,50,14
+Field4="Did your registration print properly? If Yes, press 'OK' to continue. Please fax or mail your registration to the address across the top of the form.",ltext,-1,35,12,200,24
+Field5="If No, please press 'Retry' to try again. If you cannot print at this time due to printer problems, press 'Cancel' to exit the registration. You'll be reminded to register at a later date.",ltext,-1,35,45,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[ITAField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Riprova",pushbutton,2,102,80,50,14
+Field3="&Annulla",pushbutton,3,175,80,50,14
+Field4="La stampa della registrazione è riuscita correttamente? Se sì, premere 'OK' per continuare. Inviare la registrazione per fax o posta all'indirizzo riportato nella parte superiore del modulo.",ltext,-1,35,12,200,24
+Field5="In caso contrario, premere 'Riprova' per tentare di nuovo. Se non si riesce a stampare a causa di problemi con la stampante, premere 'Annulla' per uscire dall'iscrizione.",ltext,-1,35,45,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[ITAField Profile2]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Riprova",pushbutton,2,102,80,50,14
+Field3="&Annulla",pushbutton,3,175,80,50,14
+Field4="La stampa della registrazione è riuscita correttamente? Se sì, premere 'OK' per continuare. Inviare la registrazione per fax o posta all'indirizzo riportato nella parte superiore del modulo.",ltext,-1,35,7,200,24
+Field5="In caso contrario, premere 'Riprova' per tentare di nuovo. Se non si riesce a stampare a causa di problemi con la stampante, ",ltext,-1,35,36,200,24
+Field6="premere 'Annulla' per uscire dall'iscrizione. Si ricorderà all'utente di effettuare la registrazione in una data successiva.",ltext,-1,35,53,200,16
+Field7="asterisk",icon,200,6,11,64,64
+
+[SPAField Profile]
+Field1="ACEPTAR",defpushbutton,1,28,80,50,14
+Field2="&Reintentar",pushbutton,2,102,80,50,14
+Field3="&Cancelar",pushbutton,3,175,80,50,14
+Field4="¿Se imprimió adecuadamente su registro? Si así fue, oprima 'ACEPTAR' para continuar. Envíe por fax o por correo su registro a la dirección que aparece en la parte superior del formulario.",ltext,-1,35,12,200,36
+Field5="Si no fue así, oprima 'Reintentar'.  Si no puede imprimir en este momento debido a problemas con la impresora, oprima 'Cancelar'.",ltext,-1,35,47,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[SPAField Profile2]
+Field1="ACEPTAR",defpushbutton,1,28,82,50,14
+Field2="&Reintentar",pushbutton,2,102,82,50,14
+Field3="&Cancelar",pushbutton,3,175,82,50,14
+Field4="¿Se imprimió adecuadamente su registro? Si así fue, oprima 'ACEPTAR' para continuar. Envíe por fax o por correo su registro a la dirección que aparece en la parte superior del formulario.",ltext,-1,35,7,200,36
+Field5="Si no fue así, oprima 'Reintentar'.  Si no puede imprimir en este momento debido a problemas con la impresora, oprima 'Cancelar'. Se le recordará efectuar el registro en una fecha posterior.",ltext,-1,35,43,200,36
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[FREField Profile]
+Field1="OK",defpushbutton,1,28,82,50,14
+Field2="&Répéter",pushbutton,2,102,82,50,14
+Field3="&Cancel",pushbutton,3,175,82,50,14
+Field4="Votre inscription s'est-elle imprimée correctement ? Si oui, appuyez sur 'OK' pour continuer. Veuillez faxer votre inscription ou l'envoyer par la poste à l'adresse figurant dans l'en-tête de ce formulaire.",ltext,-1,35,10,200,36
+Field5="Sinon, appuyez sur 'Répéter' pour essayer à nouveau. Si vous ne parvenez pas à imprimer tout de suite en raison de problèmes d'imprimante, appuyez sur 'Annuler' pour quitter l'inscription.",ltext,-1,35,43,200,36
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[FREField Profile2]
+Field1="OK",defpushbutton,1,28,87,50,14
+Field2="&Répéter",pushbutton,2,102,87,50,14
+Field3="&Annuler",pushbutton,3,175,87,50,14
+Field4="Votre inscription s'est-elle imprimée correctement ? Si oui, appuyez sur 'OK' pour continuer. Veuillez faxer votre inscription ou l'envoyer par la poste à l'adresse figurant dans l'en-tête de ce formulaire.",ltext,-1,35,8,200,36
+Field5="Sinon, appuyez sur 'Répéter' pour essayer à nouveau. Si vous ne parvenez pas à imprimer tout de suite en raison de problèmes d'imprimante, appuyez sur 'Annuler' pour quitter ",ltext,-1,35,43,200,24
+Field6="l'inscription. Vous recevrez un rappel d'inscription à une date ultérieure.",ltext,-1,35,67,200,16
+Field7="asterisk",icon,200,6,11,64,64
+
+[DUTField Profile]
+Field1="OK",defpushbutton,1,28,82,50,14
+Field2="&Nogmaals",pushbutton,2,102,82,50,14
+Field3="&Annuleren",pushbutton,3,175,82,50,14
+Field4="Is uw registratie juist afgedrukt? Indien Ja, druk dan op 'OK' om verder te gaan. Fax of verstuur uw registratie per post aan het in de kop van het formulier vermelde adres. ",ltext,-1,35,12,200,24
+Field5="Indien Nee, druk dan op 'Nogmaals' om het opnieuw te proberen. Indien u vanwege printerproblemen op dit moment niet kunt afdrukken, druk dan op 'Annuleren' om de registratie af te sluiten.",ltext,-1,35,43,200,32
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[DUTField Profile2]
+Field1="OK",defpushbutton,1,28,85,50,14
+Field2="&Nogmaals",pushbutton,2,102,85,50,14
+Field3="&Annuleren",pushbutton,3,175,85,50,14
+Field4="Is uw registratie juist afgedrukt? Indien Ja, druk dan op 'OK' om verder te gaan. Fax of verstuur uw registratie per post aan het in de kop van het formulier vermelde adres. ",ltext,-1,35,8,200,24
+Field5="Indien Nee, druk dan op 'Nogmaals' om het opnieuw te proberen. Indien u vanwege printerproblemen op dit moment niet kunt afdrukken, druk dan op 'Annuleren' om de registratie",ltext,-1,35,39,200,24
+Field6="af te sluiten. U zult er aan worden herinnerd op een latere datum te registreren.",ltext,-1,35,63,200,16
+Field7="asterisk",icon,200,6,11,64,64
+
+[PORField Profile]
+Field1="OK",defpushbutton,1,28,82,50,14
+Field2="&Tentar de novo",pushbutton,2,99,82,55,14
+Field3="&Cancelar",pushbutton,3,175,82,50,14
+Field4="O seu registro foi impresso corretamente? Em caso afirmativo, pressione 'OK' para continuar. Envie-o por Fax ou por correio para o endereço que aparece na parte superior do formulário.",ltext,-1,35,12,200,24
+Field5="Caso contrário, pressione 'Tentar de novo' para repetir o processo. Se ainda assim não for possível imprimir devido a problemas na impressora, pressione 'Cancelar' para sair do registro.",ltext,-1,35,42,200,32
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[PORField Profile2]
+Field1="OK",defpushbutton,1,28,82,50,14
+Field2="&Tentar de novo",pushbutton,2,99,82,55,14
+Field3="&Cancelar",pushbutton,3,175,82,50,14
+Field4="O seu registro foi impresso corretamente? Em caso afirmativo, pressione 'OK' para continuar. Envie-o por Fax ou por correio para o endereço que aparece na parte superior do formulário.",ltext,-1,35,10,200,24
+Field5="Caso contrário, pressione 'Tentar de novo' para repetir o processo. Se ainda assim não for possível imprimir devido a problemas na impressora, pressione 'Cancelar' para sair do ",ltext,-1,35,41,200,24
+Field6="registro. Você será solicitado a registrar-se mais tarde.",ltext,-1,35,65,200,8
+Field7="asterisk",icon,200,6,11,64,64
+
+[GERField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Wiederholen",pushbutton,2,102,80,50,14
+Field3="&Abbrechen",pushbutton,3,175,80,50,14
+Field4="Wurde Ihre Registrierung ordentlich ausgedruckt? Wenn ja, auf 'OK' klicken um fortzufahren. Bitte faxen oder senden Sie Ihre Registrierung an die oben genannte Adresse. ",ltext,-1,35,10,200,24
+Field5="Wenn nicht, bitte auf 'Wiederholen' klicken, und es erneut versuchen. Falls Sie momentan wegen eines Druckerproblems nicht drucken können, auf 'Abbrechen' klicken um die Registrierung zu verlassen.",ltext,-1,35,40,200,32
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[GERField Profile2]
+Field1="OK",defpushbutton,1,28,85,50,14
+Field2="&Wiederholen",pushbutton,2,102,85,50,14
+Field3="&Abbrechen",pushbutton,3,175,85,50,14
+Field4="Wurde Ihre Registrierung ordentlich ausgedruckt? Wenn ja, auf 'OK' klicken um fortzufahren. Bitte faxen oder senden Sie Ihre Registrierung an die oben genannte Adresse.",ltext,-1,35,8,200,24
+Field5="Wenn nicht, bitte auf 'Wiederholen' klicken, und es erneut versuchen. Falls Sie momentan wegen eines Druckerproblems nicht drucken können, auf 'Abbrechen' klicken um die",ltext,-1,35,38,200,24
+Field6="Registrierung zu verlassen. Sie werden an die Registrierung zu einem späterem Zeitpunkt erinnert.",ltext,-1,35,63,200,16
+Field7="exclamation",icon,200,6,11,64,64
+
+[SWEField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Försök igen",pushbutton,2,102,80,50,14
+Field3="&Avbryt",pushbutton,3,175,80,50,14
+Field4="Skrev din registrering ut ordentligt? Om Ja, tryck på 'OK' för att fortsätta. Faxa eller skicka din registrering till adressen som står angiven på formulärets övre del.",ltext,-1,35,12,200,24
+Field5="Om Nej, v g tryck på 'Försök igen'. Om det inte går att skriva ut p g a skrivarproblem ska du trycka på 'Avbryt' för att gå ur registreringsproceduren.",ltext,-1,35,45,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[SWEField Profile2]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Försök igen",pushbutton,2,102,80,50,14
+Field3="&Avbryt",pushbutton,3,175,80,50,14
+Field4="Skrev din registrering ut ordentligt? Om Ja, tryck på 'OK' för att fortsätta. Faxa eller skicka din registrering till adressen som står angiven på formulärets övre del.",ltext,-1,35,10,200,24
+Field5="Om Nej, v g tryck på 'Försök igen'. Om det inte går att skriva ut p g a skrivarproblem ska du trycka på 'Avbryt' för att gå ur registreringsproceduren. Du kommer att få en registreringspåminnelse vid ett senare tillfälle.",ltext,-1,35,40,200,32
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[DANField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="Forsøg &igen",pushbutton,2,102,80,50,14
+Field3="&Annuller",pushbutton,3,175,80,50,14
+Field4="Blev registreringen udskrevet korrekt? Hvis Ja, tryk på 'OK' for at fortsætte. Fax venligst eller send din registrering til adressen øverst på formularen.",ltext,-1,35,12,200,24
+Field5="Hvis Nej, tryk venligst på 'Forsøg igen' for at prøve igen. Hvis du aktuelt ikke kan udskrive på grund af printerproblemer, kan du trykke på 'Annuller' for at afslutte registreringen. ",ltext,-1,35,45,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[DANField Profile2]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="Forsøg &igen",pushbutton,2,102,80,50,14
+Field3="&Annuller",pushbutton,3,175,80,50,14
+Field4="Blev registreringen udskrevet korrekt? Hvis Ja, tryk på 'OK' for at fortsætte. Fax venligst eller send din registrering til adressen øverst på formularen.",ltext,-1,35,10,200,24
+Field5="Hvis Nej, tryk venligst på 'Forsøg igen' for at prøve igen. Hvis du aktuelt ikke kan udskrive på grund af printerproblemer, kan du trykke på 'Annuller' for at afslutte registreringen. Du vil blive ",ltext,-1,35,40,200,24
+Field6="mindet om at registrere på et senere tidspunkt.",ltext,-1,35,64,200,8
+Field7="asterisk",icon,200,6,11,64,64
+
+[SPCField Profile]
+Field1="ACEPTAR",defpushbutton,1,28,80,50,14
+Field2="&Reintentar",pushbutton,2,102,80,50,14
+Field3="&Anular",pushbutton,3,175,80,50,14
+Field4="¿Se imprimió adecuadamente su inscripción? Si así fue, oprima 'ACEPTAR' para continuar. Envíe por fax o por correo su inscripción a la dirección que aparece en la parte superior del formulario.",ltext,-1,35,12,200,32
+Field5="Si no fue así, oprima 'Reintentar'.  Si no puede imprimir en este momento debido a problemas con la impresora, oprima 'Anular'.",ltext,-1,35,50,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[SPCField Profile2]
+Field1="ACEPTAR",defpushbutton,1,28,82,50,14
+Field2="&Reintentar",pushbutton,2,102,82,50,14
+Field3="&Anular",pushbutton,3,175,82,50,14
+Field4="¿Se imprimió adecuadamente su inscripción? Si así fue, oprima 'ACEPTAR' para continuar. Envíe por fax o por correo su inscripción a la dirección que aparece en la parte superior del formulario.",ltext,-1,35,12,200,32
+Field5="Si no fue así, oprima 'Reintentar'.  Si no puede imprimir en este momento debido a problemas con la impresora, oprima 'Anular'.  Se le recordará efectuar la inscripción en una fecha posterior.",ltext,-1,35,50,200,24
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[FINField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Yritä uudelleen ",pushbutton,2,99,80,55,14
+Field3="&Peruuta",pushbutton,3,175,80,50,14
+Field4="Tulostuiko rekisteröintilomake kunnolla? Jos se tulostui kunnolla, valitse 'OK' jatkaaksesi. Faksaa tai lähetä rekisteröintilomake sen yläosassa olevaan osoitteeseen.",ltext,-1,35,12,200,24
+Field5="Jos tulostaminen ei onnistunut, valitse 'Yritä uudelleen' yrittääksesi uudelleen. Mikäli tulostaminen ei onnistu kirjoitinongelmien vuoksi, peruuta rekisteröiminen valitsemalla 'Peruuta'.",ltext,-1,35,40,200,32
+Field6="asterisk",icon,200,6,11,64,64
+
+[FINField Profile2]
+Field1="OK",defpushbutton,1,28,84,50,14
+Field2="&Yritä uudelleen ",pushbutton,2,99,84,55,14
+Field3="&Peruuta",pushbutton,3,175,84,50,14
+Field4="Tulostuiko rekisteröintilomake kunnolla? Jos se tulostui kunnolla, valitse 'OK' jatkaaksesi. Faksaa tai lähetä rekisteröintilomake sen yläosassa olevaan osoitteeseen.",ltext,-1,35,8,200,24
+Field5="Jos tulostaminen ei onnistunut, valitse 'Yritä uudelleen' yrittääksesi uudelleen. Mikäli tulostaminen ei onnistu kirjoitinongelmien vuoksi, peruuta rekisteröiminen valitsemalla",ltext,-1,35,37,200,32
+Field6="'Peruuta'. Sinua tullaan muistuttamaan rekisteröimisestä myöhemmin.",ltext,-1,35,62,200,16
+Field7="asterisk",icon,200,6,11,64,64
+
+[NORField Profile]
+Field1="OK",defpushbutton,1,28,80,50,14
+Field2="&Prøv på nytt",pushbutton,2,102,80,50,14
+Field3="&Avbryt",pushbutton,3,175,80,50,14
+Field4="Ble registreringen skrevet ut på riktig måte? Hvis svaret er Ja, trykk på 'OK' for å fortsette. Send registreringen per post eller telefaks til adressen øverst på skjemaet.",ltext,-1,35,10,200,24
+Field5="Hvis svaret er Nei, trykk på 'Prøv på nytt' og prøv igjen. Hvis du ikke kan skrive ut på dette tidspunktet på grunn av problemer med skriveren, kan du trykke på 'Avbryt' for å avslutte registreringen.",ltext,-1,35,40,200,32
+Field6="asterisk",icon,200,6,11,64,64
+Field7="",ltext,-1,1,1,1,1
+
+[NORField Profile2]
+Field1="OK",defpushbutton,1,28,84,50,14
+Field2="&Prøv på nytt",pushbutton,2,102,84,50,14
+Field3="&Avbryt",pushbutton,3,175,84,50,14
+Field4="Ble registreringen skrevet ut på riktig måte? Hvis svaret er Ja, trykk på 'OK' for å fortsette. Send registreringen per post eller telefaks til adressen øverst på skjemaet.",ltext,-1,35,8,200,24
+Field5="Hvis svaret er Nei, trykk på 'Prøv på nytt' og prøv igjen. Hvis du ikke kan skrive ut på dette tidspunktet på grunn av problemer med skriveren, kan du trykke på 'Avbryt' for å avslutte",ltext,-1,35,38,200,24
+Field6="registreringen. Du vil bli påminnet om å registrere på et senere tidspunkt.",ltext,-1,35,62,200,16
+Field7="asterisk",icon,200,6,11,64,64
+ 

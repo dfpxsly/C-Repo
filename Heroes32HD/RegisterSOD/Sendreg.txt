@@ -1,0 +1,260 @@
+[ENGMessages]
+;
+
+NOUI_MD=Performing modem diagnostics
+XMRECV=Processing...
+ZMRECV=Processing... please wait
+DROPCARRIER=Disconnecting
+NOUI_INIT=Initializing modem
+NOUI_DIALING=Dialing 3DO
+NOUI_SIGNON=Signing on
+NOUI_BEGINREG=Sending registration
+NOUI_LOGOFF=Signing off
+NOUI_FINISHED=Disconnecting
+CANCEL=Data transfer canceled!
+
+[ITAMessages]
+;
+
+NOUI_MD=Esecuzione della diagnostica del modem
+XMRECV=Elaborazione in corso...
+ZMRECV=Elaborazione in corso... attendere
+DROPCARRIER=Disconessione
+NOUI_INIT=Inizializzazione del modem
+NOUI_DIALING=Composizione del XXX
+NOUI_SIGNON=Registrazione per l'inizio della trasmissione
+NOUI_BEGINREG=Invio registrazione
+NOUI_LOGOFF=Registrazione per la fine della trasmissione
+NOUI_FINISHED=Disconessione
+CANCEL=Trasferimento di dati annullato!
+
+[SPAMessages]
+;
+
+NOUI_MD=Realizando el diagnóstico del módem
+XMRECV=Procesando...
+ZMRECV=Procesando... por favor espere
+DROPCARRIER=Desconectando
+NOUI_INIT=Inicializando el módem
+NOUI_DIALING=Llamando XXX
+NOUI_SIGNON=Entrando
+NOUI_BEGINREG=Enviando el registro
+NOUI_LOGOFF=Saliendo
+NOUI_FINISHED=Desconectando
+CANCEL=¡Transferencia de datos cancelada!
+
+[FREMessages]
+;
+
+NOUI_MD=Diagnostics du modem en cours
+XMRECV=Traitement en cours...
+ZMRECV=Traitement en cours... Veuillez patienter
+DROPCARRIER=Déconnexion
+NOUI_INIT=Initialisation du modem
+NOUI_DIALING=Composition du numéro XXX
+NOUI_SIGNON=Ouverture de session
+NOUI_BEGINREG=Envoi de l’enregistrement
+NOUI_LOGOFF=Fermeture de session
+NOUI_FINISHED=Déconnexion
+CANCEL=Annulation du transfert des données !
+
+[DUTMessages]
+;
+
+NOUI_MD=Modemdiagnostiek wordt uitgevoerd
+XMRECV=Bezig met verwerken...
+ZMRECV=Bezig met verwerken...even geduld a.u.b.
+DROPCARRIER=Verbinding wordt verbroken
+NOUI_INIT=Modem wordt geïnitialiseerd
+NOUI_DIALING=Nummer van XXX wordt gebeld
+NOUI_SIGNON=Bezig met aanmelden
+NOUI_BEGINREG=Registratie wordt verzonden
+NOUI_LOGOFF=Bezig met afmelden
+NOUI_FINISHED=Verbinding wordt verbroken
+CANCEL=Gegevensoverdracht geannuleerd!
+
+
+[PORMessages]
+;
+
+NOUI_MD=Executando o diagnóstico do modem
+XMRECV=Processando...
+ZMRECV=Processando... favor esperar
+DROPCARRIER=Desconectando
+NOUI_INIT=Inicializando modem
+NOUI_DIALING=Discando para XXX
+NOUI_SIGNON=Fazendo o logon
+NOUI_BEGINREG=Enviando o registro
+NOUI_LOGOFF=Fazendo o logoff
+NOUI_FINISHED=Desconectando
+CANCEL=Tranferência de dados cancelada!
+
+
+[GERMessages]
+;
+
+NOUI_MD=Modemdiagnose wird durchgeführt
+XMRECV=Verarbeitungsvorgang läuft...
+ZMRECV=Verarbeitungsvorgang läuft... Bitte warten
+DROPCARRIER=Verbindung wird getrennt
+NOUI_INIT=Modem wird initialisiert
+NOUI_DIALING=XXX wird gewählt
+NOUI_SIGNON=Anmelden
+NOUI_BEGINREG=Registrierung wird gesendet
+NOUI_LOGOFF=Abmelden
+NOUI_FINISHED=Verbindung wird getrennt
+CANCEL=Datenübertragung wurde abgebrochen!
+
+[SWEMessages]
+;
+
+NOUI_MD=Utför modemdiagnostik
+XMRECV=Bearbetar...
+ZMRECV=Bearbetar...vänta
+DROPCARRIER=Kopplar från
+NOUI_INIT=Initialiserar modemet
+NOUI_DIALING=Ringer XXX
+NOUI_SIGNON=Loggar in
+NOUI_BEGINREG=Skickar registreringen
+NOUI_LOGOFF=Loggar ut
+NOUI_FINISHED=Kopplar från
+CANCEL=Dataöverföringen har avbrutits!
+
+[DANMessages]
+;
+
+NOUI_MD=Udfører modemdiagnose
+XMRECV=Behandler...
+ZMRECV=Behandler... vent venligst
+DROPCARRIER=Frakobler
+NOUI_INIT=Initialiserer modem
+NOUI_DIALING=Ringer til XXX
+NOUI_SIGNON=Melder til
+NOUI_BEGINREG=Sender registrering
+NOUI_LOGOFF=Melder fra
+NOUI_FINISHED=Frakobler
+CANCEL=Dataoverførsel annulleret!
+
+[SPCMessages]
+;
+
+NOUI_MD=Realizando el diagnóstico del módem
+XMRECV=Procesando...
+ZMRECV=Procesando... por favor espere
+DROPCARRIER=Desconectando
+NOUI_INIT=Inicializando el módem
+NOUI_DIALING=Llamando XXX
+NOUI_SIGNON=Entrando
+NOUI_BEGINREG=Enviando la inscripción
+NOUI_LOGOFF=Saliendo
+NOUI_FINISHED=Desconectando
+CANCEL=¡Transferencia de datos anulada!
+
+[FINMessages]
+;
+
+NOUI_MD=Suoritetaan modeemin diagnostiikkaa
+XMRECV=Käsitellään...
+ZMRECV=Käsitellään... odota
+DROPCARRIER=Katkaistaan yhteys
+NOUI_INIT=Modeemia alustetaan
+NOUI_DIALING=Soitetaan: XXX
+NOUI_SIGNON=Kirjaudutaan
+NOUI_BEGINREG=Lähetetään rekisteröintiä
+NOUI_LOGOFF=Kirjaudutaan ulos
+NOUI_FINISHED=Katkaistaan yhteys
+CANCEL=Tiedonsiirto peruutettu!
+
+[NORMessages]
+;
+
+NOUI_MD=Utfører modemdiagnose
+XMRECV=Behandler ...
+ZMRECV=Behandler ... vent litt..
+DROPCARRIER=Kobler fra..
+NOUI_INIT=Initialiserer modem
+NOUI_DIALING=Ringer til XXX
+NOUI_SIGNON=Logger på
+NOUI_BEGINREG=Sender registrering
+NOUI_LOGOFF=Logger av
+NOUI_FINISHED=Kobler fra
+CANCEL=Dataoverføringen er avbrutt!
+
+
+[ENGField Profile]
+Field1="slidshow.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Cancel",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[ITAField Profile]
+Field1="slidita.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Annulla",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[SPAField Profile]
+Field1="slidspa.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Cancelar",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[FREField Profile]
+Field1="Slidfre.fss~registration",SLIDESHOW,201,18,6,190,150
+Field2="Annuler",defpushbutton,2,153,190,50,14
+Field3="",groupbox,-1,15,167,197,16
+Field4="",ltext,900,18,172,192,8
+
+[DUTField Profile]
+Field1="sliddut.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Annuleren",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[PORField Profile]
+Field1="slidpor.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Cancelar",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[GERField Profile]
+Field1="slidger.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Abbrechen",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[SWEField Profile]
+Field1="slidswe.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Avbryt",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[DANField Profile]
+Field1="sliddan.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Annuller",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+
+[SPCField Profile]
+Field1="slidspc.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Cancelar",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[FINField Profile]
+Field1="slidfin.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Peruuta",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+[NORField Profile]
+Field1="slidnor.fss~registration",SLIDESHOW,201,15,8,188,148
+Field2="Avbryt",defpushbutton,2,153,185,50,14
+Field3="",groupbox,-1,14,162,190,18
+Field4="",ltext,900,17,168,180,8
+
+
+
+
+

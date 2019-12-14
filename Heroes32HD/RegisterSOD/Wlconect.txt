@@ -1,0 +1,38 @@
+
+[ENGField Profile]
+Field1=Looking for Internet connection...
+
+[FREField Profile]
+Field1=Recherche de la connexion à l'Internet
+
+[ITAField Profile]
+Field1=In attesa di collegamento con Internet...
+
+[GERField Profile]
+Field1=Suche nach Internetverbindung...
+
+[SPAField Profile]
+Field1=Bucando conexión de Internet...
+
+[SPCField Profile]
+Field1=Bucando conexión de Internet...
+
+[PORField Profile]
+Field1=Procurando uma conexão com a Internet...
+
+[DUTField Profile]
+Field1=Bezig met zoeken naar Internet-verbinding...
+
+[DANField Profile]
+Field1=Søger efter Internet forbindelse
+
+[SWEField Profile]
+Field1=Söker efter Internetanslutning...
+
+[NORField Profile]
+Field1=Søker etter Internettforbindelse ...
+
+[FINField Profile]
+Field1=Etsitään Internetin yhteyttä...
+
+

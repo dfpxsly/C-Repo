@@ -1,0 +1,38 @@
+
+[ENGField Profile]
+Field1=We will now attempt to register using your modem.
+
+[FREField Profile]
+Field1=Nous allons maintenant tenter d'enregistrer en utilisaht votre modem.
+
+[ITAField Profile]
+Field1=Ora tentiamo la registrazione tramite il vostro modem.
+
+[GERField Profile]
+Field1=Wir werden jetzt versuchen, die Registrierung mit Ihrem Modem durchzuführen.
+
+[SPAField Profile]
+Field1=Ahora intentaremos el registro usando su módem.
+
+[SPCField Profile]
+Field1=Ahora intentaremos la inscripción usando su módem.
+
+[PORField Profile]
+Field1=Tentaremos registrar usando seu modem agora.
+
+[DUTField Profile]
+Field1=Wij zullen nu proberen de registratie via uw modem uit te voeren.
+
+[DANField Profile]
+Field1=Vi prøver nu at registrere dig ved hjælp af dit modem.
+
+[SWEField Profile]
+Field1=Vi kommer nu att försöka registrera via ditt modem.
+
+[NORField Profile]
+Field1=Vi skal nå forsøke å utføre registrering ved hjelp av modem.
+
+[FINField Profile]
+Field1=Rekisteröintiä yritetään nyt modeemilla.
+
+
